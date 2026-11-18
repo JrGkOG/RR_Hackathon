@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5979,71.9,143,19,153,12,141,72.02797202797203,0.020030938788408545,True,True,True,Abrar Ahmed,25.354609929078016,bowler,strong_opposition,Containing batter threats and handedness
+2,5837,67.08,106,15,121,12,105,66.98113207547169,-0.01655740161232735,True,True,True,Mahedi Hasan,20.26768642447419,bowler,strong_opposition,Containing batter threats and handedness
+3,4658,64.85,99,12,111,7,99,74.74747474747475,-0.01524095207914575,True,True,True,Nasum Ahmed,28.86297376093295,bowler,strong_opposition,Containing batter threats and handedness
+4,6726,63.62,286,33,464,15,272,58.39160839160839,-0.08971145176488805,True,True,True,Romario Shepherd,40.6827880512091,bowler,strong_opposition,Containing batter threats and handedness
+5,38855,63.12,59,10,70,5,53,61.016949152542374,0.017700321335673605,True,True,True,Mohammad Saifuddin,22.264150943396228,bowler,strong_opposition,Containing batter threats and handedness
+6,6355,63.03,166,22,192,10,159,65.66265060240963,0.07803629773310046,True,True,True,Shaheen Afridi,29.537366548042705,bowler,strong_opposition,Containing batter threats and handedness
+7,2526,62.2,91,12,159,4,89,50.54945054945055,-0.030275947298384804,True,True,True,Ish Sodhi,32.15547703180212,bowler,strong_opposition,Containing batter threats and handedness
+8,3629,62.13,94,11,148,15,91,64.8936170212766,-0.03601250223050692,True,True,True,Corbin Bosch,34.55882352941176,bowler,strong_opposition,Containing batter threats and handedness
+9,2399,62.12,191,18,269,12,184,65.96858638743456,-0.03262645797606344,True,True,True,Dushmantha Chameera,38.50806451612903,bowler,strong_opposition,Containing batter threats and handedness
+10,7967,60.66,404,38,572,22,390,58.66336633663366,0.02706589868803746,True,True,True,Noor Ahmad,45.961319681456196,bowler,strong_opposition,Containing batter threats and handedness

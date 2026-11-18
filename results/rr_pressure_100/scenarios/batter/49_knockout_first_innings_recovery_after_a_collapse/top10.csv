@@ -1,0 +1,2 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,1758,51.8,18,3,19.0,0.0,18.0,50.0,,True,True,True,Patrick Cummins,14.0625,batter,knockout_first_innings_recovery_after_a_collapse,Batting through form slumps and knockouts

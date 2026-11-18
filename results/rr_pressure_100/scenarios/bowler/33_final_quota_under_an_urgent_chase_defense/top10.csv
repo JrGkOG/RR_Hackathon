@@ -1,0 +1,5 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6355,55.2,25,4,29.0,3.0,23.0,72.0,0.15263157894736828,True,True,True,Shaheen Afridi,4.448398576512456,bowler,final_quota_under_an_urgent_chase_defense,Target defence and required-rate squeeze
+2,2933,54.68,23,5,28.0,0.0,23.0,82.6086956521739,0.16439219541986352,True,True,True,Jasprit Bumrah,2.465166130760986,bowler,final_quota_under_an_urgent_chase_defense,Target defence and required-rate squeeze
+3,3298,54.06,19,3,23.0,1.0,18.0,78.94736842105263,0.15350877192982415,True,True,True,Jofra Archer,2.4265644955300125,bowler,final_quota_under_an_urgent_chase_defense,Target defence and required-rate squeeze
+4,6464,48.21,21,5,43.0,1.0,21.0,66.66666666666666,-0.15407722204060903,True,True,True,Arshdeep Singh,1.6574585635359116,bowler,final_quota_under_an_urgent_chase_defense,Target defence and required-rate squeeze

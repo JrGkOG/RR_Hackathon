@@ -1,0 +1,127 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,role,combination_id,combination
+1,50284,67.99,53,10,True,True,True,Vaibhav Sooryavanshi,batter,demand_against_quality,Match demand against strong bowling
+2,7903,62.65,37,7,True,True,True,Shamim Hossain,batter,demand_against_quality,Match demand against strong bowling
+3,47,62.0,23,6,True,True,True,Virat Kohli,batter,demand_against_quality,Match demand against strong bowling
+4,6676,61.9,55,12,True,True,True,Azmatullah Omarzai,batter,demand_against_quality,Match demand against strong bowling
+5,6819,61.43,81,15,True,True,True,Yashasvi Jaiswal,batter,demand_against_quality,Match demand against strong bowling
+6,6423,61.26,104,11,True,True,True,Riyan Parag,batter,demand_against_quality,Match demand against strong bowling
+7,24017,61.12,40,9,True,True,True,Brian Bennett,batter,demand_against_quality,Match demand against strong bowling
+8,3374,61.11,31,5,True,True,True,Mark Chapman,batter,demand_against_quality,Match demand against strong bowling
+9,6651,60.38,92,10,True,True,True,Towhid Hridoy,batter,demand_against_quality,Match demand against strong bowling
+10,768,59.93,31,5,True,True,True,Reeza Hendricks,batter,demand_against_quality,Match demand against strong bowling
+1,3330,60.2,39,11,True,True,True,Hardik Pandya,batter,collapse_against_quality,Limited batting support against strong bowling
+2,7897,58.44,81,21,True,True,True,Namboori Tilak Varma,batter,collapse_against_quality,Limited batting support against strong bowling
+3,2633,58.11,28,7,True,True,True,Jason Holder,batter,collapse_against_quality,Limited batting support against strong bowling
+4,5738,57.52,28,5,True,True,True,Xavier Bartlett,batter,collapse_against_quality,Limited batting support against strong bowling
+5,5039,57.35,22,6,True,True,True,Rajat Patidar,batter,collapse_against_quality,Limited batting support against strong bowling
+6,7446,57.04,27,9,True,True,True,Abdul Samad,batter,collapse_against_quality,Limited batting support against strong bowling
+7,6512,56.83,20,5,True,True,True,Michael Bracewell,batter,collapse_against_quality,Limited batting support against strong bowling
+8,20702,56.59,47,12,True,True,True,Tristan Stubbs,batter,collapse_against_quality,Limited batting support against strong bowling
+9,4895,55.9,47,9,True,True,True,Charith Asalanka,batter,collapse_against_quality,Limited batting support against strong bowling
+10,3916,55.51,33,7,True,True,True,Jitesh Sharma,batter,collapse_against_quality,Limited batting support against strong bowling
+1,7260,61.5,74,15,True,True,True,Dhruv Jurel,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+2,4842,61.48,21,6,True,True,True,Shamar Springer,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+3,3926,58.44,37,8,True,True,True,Rahul Tewatia,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+4,24017,57.92,43,15,True,True,True,Brian Bennett,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+5,6396,57.75,73,17,True,True,True,Tim David,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+6,3298,57.54,49,14,True,True,True,Jofra Archer,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+7,1699,57.1,61,16,True,True,True,Suryakumar Yadav,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+8,19714,56.95,32,6,True,True,True,Abishek Porel,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+9,6651,56.94,80,15,True,True,True,Towhid Hridoy,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+10,4773,56.62,70,13,True,True,True,Jaker Ali Anik,batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze
+1,47,60.58,34,11,True,True,True,Virat Kohli,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+2,6281,58.77,51,13,True,True,True,Abhishek Sharma,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+3,50284,57.42,55,8,True,True,True,Vaibhav Sooryavanshi,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+4,3125,57.2,61,15,True,True,True,Nicholas Pooran,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+5,6314,57.1,64,13,True,True,True,Devdutt Padikkal,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+6,7900,56.31,29,7,True,True,True,Tanzid Hasan,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+7,4780,56.18,38,6,True,True,True,Mohammad Saif Hassan,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+8,7690,55.71,22,8,True,True,True,Saim Ayub,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+9,4106,55.36,42,8,True,True,True,Daryl Mitchell,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+10,953,54.76,64,12,True,True,True,Lokesh Rahul,batter,early_loss_quality,Early wicket and a high-quality opposition bowler
+1,4986,52.47,43,4,True,True,True,Rovman Powell,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+2,2463,50.26,25,3,True,True,True,Ryan Burl,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+3,4722,49.97,29,4,True,True,True,Rashid Khan,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+4,6726,48.03,21,3,True,True,True,Romario Shepherd,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+5,2633,46.65,23,4,True,True,True,Jason Holder,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+6,152,46.57,37,4,True,True,True,Ravindra Jadeja,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+7,19316,46.08,42,4,True,True,True,Maheesh Theekshana,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+8,4904,45.06,31,5,True,True,True,Kamindu Mendis,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+9,4755,43.99,26,4,True,True,True,Shivam Dube,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+10,2417,43.67,27,4,True,True,True,Akeal Hosein,batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement
+1,3647,62.11,19,7,True,True,True,Shreyas Iyer,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+2,813,54.91,21,7,True,True,True,Jos Buttler,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+3,7897,50.25,19,7,True,True,True,Namboori Tilak Varma,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+4,6288,49.91,22,7,True,True,True,Shubman Gill,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+5,2258,49.84,20,6,True,True,True,Sanju Samson,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+6,953,48.59,19,7,True,True,True,Lokesh Rahul,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+7,818,42.67,29,10,True,True,True,Mitchell Marsh,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+8,6819,38.73,19,10,True,True,True,Yashasvi Jaiswal,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+9,126,35.17,20,8,True,True,True,Rohit Sharma,batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner
+1,2984,54.16,50,12,True,True,True,Sikandar Raza,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+2,7903,53.43,21,5,True,True,True,Shamim Hossain,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+3,1758,53.17,30,4,True,True,True,Patrick Cummins,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+4,6396,53.14,20,4,True,True,True,Tim David,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+5,6676,52.95,28,8,True,True,True,Azmatullah Omarzai,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+6,7897,52.22,24,9,True,True,True,Namboori Tilak Varma,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+7,3605,52.22,24,4,True,True,True,Aiden Markram,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+8,4986,51.88,56,13,True,True,True,Rovman Powell,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+9,4260,51.45,32,6,True,True,True,Heinrich Klaasen,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+10,3629,51.11,24,4,True,True,True,Corbin Bosch,batter,collapse_demand_quality,"Match demand, limited support and strong opposition"
+1,6256,65.83,181,20,True,True,True,Varun Chakravarthy,bowler,demand_against_quality,Match demand against strong batting
+2,6355,65.25,51,13,True,True,True,Shaheen Afridi,bowler,demand_against_quality,Match demand against strong batting
+3,5979,65.22,69,10,True,True,True,Abrar Ahmed,bowler,demand_against_quality,Match demand against strong batting
+4,3629,63.06,63,9,True,True,True,Corbin Bosch,bowler,demand_against_quality,Match demand against strong batting
+5,830,61.01,67,10,True,True,True,Josh Hazlewood,bowler,demand_against_quality,Match demand against strong batting
+6,6726,59.99,97,17,True,True,True,Romario Shepherd,bowler,demand_against_quality,Match demand against strong batting
+7,23,58.9,44,4,True,True,False,Piyush Chawla,bowler,demand_against_quality,Match demand against strong batting
+8,8661,58.72,70,9,True,True,True,Matheesha Pathirana,bowler,demand_against_quality,Match demand against strong batting
+9,2399,58.45,93,10,True,True,True,Dushmantha Chameera,bowler,demand_against_quality,Match demand against strong batting
+10,4373,58.41,63,11,True,True,True,Mustafizur Rahman,bowler,demand_against_quality,Match demand against strong batting
+1,6464,39.68,25,7,True,True,True,Arshdeep Singh,bowler,close_chase_quality,Close defence against a strong batter
+1,4900,68.35,131,22,True,True,True,Wanindu Hasaranga,bowler,support_under_attack,Limited options with the batting side attacking
+2,3298,66.26,192,31,True,True,True,Jofra Archer,bowler,support_under_attack,Limited options with the batting side attacking
+3,29888,64.8,127,18,True,True,True,Harshit Rana,bowler,support_under_attack,Limited options with the batting side attacking
+4,1071,64.75,63,12,True,True,True,Jaydev Unadkat,bowler,support_under_attack,Limited options with the batting side attacking
+5,6256,64.69,146,23,True,True,True,Varun Chakravarthy,bowler,support_under_attack,Limited options with the batting side attacking
+6,4641,64.68,95,14,True,True,True,Lungi Ngidi,bowler,support_under_attack,Limited options with the batting side attacking
+7,3629,63.95,44,10,True,True,True,Corbin Bosch,bowler,support_under_attack,Limited options with the batting side attacking
+8,2933,63.82,187,30,True,True,True,Jasprit Bumrah,bowler,support_under_attack,Limited options with the batting side attacking
+9,2876,63.8,171,31,True,True,True,Axar Patel,bowler,support_under_attack,Limited options with the batting side attacking
+10,4489,61.75,89,14,True,True,True,Prasidh Krishna,bowler,support_under_attack,Limited options with the batting side attacking
+1,4900,71.5,129,22,True,True,True,Wanindu Hasaranga,bowler,strong_set_partnership,Settled partnership with a strong striker
+2,360,66.93,58,15,True,True,True,Bhuvneshwar Kumar,bowler,strong_set_partnership,Settled partnership with a strong striker
+3,2320,66.63,46,11,True,True,True,Trent Boult,bowler,strong_set_partnership,Settled partnership with a strong striker
+4,4489,65.85,66,13,True,True,True,Prasidh Krishna,bowler,strong_set_partnership,Settled partnership with a strong striker
+5,7967,65.46,171,26,True,True,True,Noor Ahmad,bowler,strong_set_partnership,Settled partnership with a strong striker
+6,58246,65.21,106,16,True,True,True,Prince Yadav,bowler,strong_set_partnership,Settled partnership with a strong striker
+7,4373,63.67,47,7,True,True,True,Mustafizur Rahman,bowler,strong_set_partnership,Settled partnership with a strong striker
+8,3276,63.65,113,15,True,True,True,Gudakesh Motie,bowler,strong_set_partnership,Settled partnership with a strong striker
+9,5979,63.52,45,7,True,True,True,Abrar Ahmed,bowler,strong_set_partnership,Settled partnership with a strong striker
+10,305,63.24,56,11,True,True,True,Ravichandran Ashwin,bowler,strong_set_partnership,Settled partnership with a strong striker
+1,6464,55.99,19,4,True,True,True,Arshdeep Singh,bowler,penultimate_close,Pressure 19th over in a close chase
+1,3298,52.14,18,3,True,True,True,Jofra Archer,bowler,quota_late_defence,Final quota over while defending a live chase
+2,2933,50.72,23,5,True,True,True,Jasprit Bumrah,bowler,quota_late_defence,Final quota over while defending a live chase
+3,6464,47.42,21,5,True,True,True,Arshdeep Singh,bowler,quota_late_defence,Final quota over while defending a live chase
+1,6256,65.14,55,21,True,True,True,Varun Chakravarthy,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+2,39657,63.71,52,18,True,True,True,Eshan Malinga,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+3,830,63.37,32,14,True,True,True,Josh Hazlewood,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+4,6464,62.71,94,32,True,True,True,Arshdeep Singh,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+5,58246,61.64,38,14,True,True,True,Prince Yadav,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+6,6523,60.69,24,12,True,True,True,Blessing Muzarabani,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+7,7503,60.18,45,19,True,True,True,Ravi Bishnoi,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+8,27964,60.0,34,12,True,True,True,Anshul Kamboj,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+9,7322,59.67,21,9,True,True,True,Yash Dayal,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+10,7967,58.88,43,19,True,True,True,Noor Ahmad,bowler,costly_takeover_attack,Taking over after a costly over while under attack
+1,2933,50.51,19,6,True,True,True,Jasprit Bumrah,bowler,powerplay_boundary_surge,Explosive powerplay following a boundary surge
+2,5041,44.97,29,6,True,True,True,Mukesh Kumar,bowler,powerplay_boundary_surge,Explosive powerplay following a boundary surge
+1,3298,62.83,152,29,True,True,True,Jofra Archer,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+2,2417,62.39,108,22,True,True,True,Akeal Hosein,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+3,27964,61.21,122,17,True,True,True,Anshul Kamboj,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+4,5041,61.19,82,15,True,True,True,Mukesh Kumar,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+5,4641,60.48,68,12,True,True,True,Lungi Ngidi,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+6,4489,59.64,72,14,True,True,True,Prasidh Krishna,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+7,1813,59.28,52,10,True,True,True,Deepak Chahar,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+8,7503,58.67,101,21,True,True,True,Ravi Bishnoi,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+9,4373,58.07,33,7,True,True,True,Mustafizur Rahman,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"
+10,8746,57.94,85,17,True,True,True,Vaibhav Arora,bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack"

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4755,56.61,21,11,25.0,0.0,21.0,47.61904761904761,0.01387675694112543,True,True,True,Shivam Dube,3.541315345699832,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+2,4722,55.07,35,9,45.0,0.0,35.0,51.42857142857142,0.09663344350565263,True,True,True,Rashid Khan,15.486725663716813,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+3,2436,54.49,18,8,24.0,0.0,18.0,55.55555555555556,0.03536825538558763,True,True,True,Dasun Shanaka,6.7669172932330826,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+4,3297,53.8,45,13,58.0,0.0,44.0,53.333333333333336,0.061866150481430876,True,True,True,Shimron Hetmyer,10.76555023923445,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+5,37052,53.25,28,9,36.0,0.0,28.0,57.14285714285714,0.12666145043117807,True,True,True,Naman Dhir,8.16326530612245,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+6,2490,52.94,20,10,17.0,0.0,20.0,65.0,0.07858274674940387,True,True,True,Mohammad Nawaz,9.433962264150944,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+7,7897,52.68,20,9,21.0,0.0,19.0,40.0,0.05123773328476277,True,True,True,Namboori Tilak Varma,1.8709073900841908,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+8,1758,52.46,22,7,29.0,0.0,22.0,50.0,0.04336679232695238,True,True,True,Patrick Cummins,17.1875,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+9,3926,52.1,18,7,23.0,0.0,17.0,38.88888888888889,0.07960667802933366,True,True,True,Rahul Tewatia,10.975609756097562,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management
+10,2687,51.45,19,6,23.0,0.0,19.0,68.42105263157895,0.10434357890205011,True,True,True,Roston Chase,4.75,batter,new_batter_walking_into_a_middle_overs_collapse,Wicket preservation and tail management

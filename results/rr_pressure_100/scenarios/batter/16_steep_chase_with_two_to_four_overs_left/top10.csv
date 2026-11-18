@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4986,51.65,28,7,59.0,2.0,28.0,32.142857142857146,0.28263009925450133,True,True,True,Rovman Powell,4.912280701754386,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+2,8301,51.57,20,3,47.0,0.0,20.0,45.0,0.26679157664249875,True,True,True,Asif Khan,18.51851851851852,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+3,7897,50.66,28,5,65.0,1.0,28.0,42.857142857142854,0.0781443854445654,True,True,True,Namboori Tilak Varma,2.6192703461178675,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+4,37052,47.82,19,3,39.0,0.0,18.0,36.84210526315789,0.5057653254449588,True,True,True,Naman Dhir,5.539358600583091,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+5,2756,42.71,22,4,43.0,0.0,22.0,27.27272727272727,0.33509519259237847,True,True,True,Shashank Singh,5.898123324396782,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+6,21784,42.56,20,3,31.0,0.0,20.0,20.0,0.7877443677379736,True,True,True,Brad Evans,25.0,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+7,152,39.27,21,4,31.0,1.0,21.0,23.809523809523807,0.8129012088211558,True,True,True,Ravindra Jadeja,5.932203389830509,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+8,8,39.09,25,5,44.0,0.0,25.0,20.0,0.7155952317974125,True,True,True,Mahendra Singh Dhoni,18.939393939393938,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+9,2463,37.36,18,3,27.0,1.0,18.0,27.77777777777778,0.949865150952108,True,True,True,Ryan Burl,4.639175257731959,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion
+10,19316,36.41,21,5,9.0,1.0,21.0,0.0,1.4608448032149552,True,True,True,Maheesh Theekshana,15.328467153284672,batter,steep_chase_with_two_to_four_overs_left,Chase finish conversion

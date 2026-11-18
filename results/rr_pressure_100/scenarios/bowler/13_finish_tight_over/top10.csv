@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4373,66.94,53,19,41,6,53,79.24528301886792,0.13872634820039859,True,True,True,Mustafizur Rahman,9.217391304347826,bowler,finish_tight_over,Closing overs and last-ball execution
+2,5837,66.73,59,18,47,5,59,72.88135593220339,0.05654690907707433,True,True,True,Mahedi Hasan,11.281070745697896,bowler,finish_tight_over,Closing overs and last-ball execution
+3,4722,65.66,160,36,154,11,159,77.5,0.14313733907021975,True,True,True,Rashid Khan,14.222222222222221,bowler,finish_tight_over,Closing overs and last-ball execution
+4,3629,65.07,31,9,23,3,29,67.74193548387096,-0.0019653748291956472,True,True,True,Corbin Bosch,11.397058823529411,bowler,finish_tight_over,Closing overs and last-ball execution
+5,2399,63.5,68,19,79,5,63,67.64705882352942,-0.041362012315928134,True,True,True,Dushmantha Chameera,13.709677419354838,bowler,finish_tight_over,Closing overs and last-ball execution
+6,7052,61.7,21,7,13,1,21,85.71428571428571,0.06334584066515296,True,True,True,Dunith Wellalage,11.602209944751381,bowler,finish_tight_over,Closing overs and last-ball execution
+7,6355,60.97,97,23,105,11,92,68.04123711340206,0.16870915063573294,True,True,True,Shaheen Afridi,17.259786476868328,bowler,finish_tight_over,Closing overs and last-ball execution
+8,6464,60.32,172,46,192,13,168,72.09302325581395,0.29637860828195683,True,True,True,Arshdeep Singh,13.575374901341753,bowler,finish_tight_over,Closing overs and last-ball execution
+9,152,59.45,73,18,78,4,72,76.71232876712328,0.07725899908873649,True,True,True,Ravindra Jadeja,17.84841075794621,bowler,finish_tight_over,Closing overs and last-ball execution
+10,305,59.22,69,17,82,3,67,71.01449275362319,0.03568627129767834,True,True,True,Ravichandran Ashwin,16.626506024096386,bowler,finish_tight_over,Closing overs and last-ball execution

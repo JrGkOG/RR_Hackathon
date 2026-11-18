@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6281,64.93,74,15,125,2,72,67.56756756756756,0.05879138137769869,True,True,True,Abhishek Sharma,32.59911894273127,bowler,sustained_attack,Spell management and damage control
+2,4219,63.35,200,21,305,14,189,66.0,2.0847679657620493,True,True,True,Krunal Pandya,41.58004158004158,bowler,sustained_attack,Spell management and damage control
+3,8661,63.15,198,17,290,12,184,70.2020202020202,1.0408713283297062,True,True,True,Matheesha Pathirana,46.15384615384615,bowler,sustained_attack,Spell management and damage control
+4,4391,62.32,102,15,140,7,98,69.6078431372549,0.005036401410756616,True,True,True,Liam Livingstone,47.004608294930875,bowler,sustained_attack,Spell management and damage control
+5,5979,61.03,143,17,182,11,141,70.62937062937063,0.054333982223504815,True,True,True,Abrar Ahmed,25.354609929078016,bowler,sustained_attack,Spell management and damage control
+6,2490,60.85,108,15,128,8,102,71.29629629629629,0.05464682076537302,True,True,True,Mohammad Nawaz,23.893805309734514,bowler,sustained_attack,Spell management and damage control
+7,2984,60.41,143,18,196,7,139,67.13286713286713,0.01880946535105916,True,True,True,Sikandar Raza,23.71475953565506,bowler,sustained_attack,Spell management and damage control
+8,6284,59.9,64,7,98,3,55,65.625,-0.09307544534625531,True,True,True,Anukul Roy,47.76119402985074,bowler,sustained_attack,Spell management and damage control
+9,360,59.82,326,29,511,18,312,66.25766871165644,0.7192996730241754,True,True,True,Bhuvneshwar Kumar,44.718792866941016,bowler,sustained_attack,Spell management and damage control
+10,6256,59.53,420,33,611,37,408,70.23809523809523,0.02637930318473967,True,True,True,Varun Chakravarthy,42.296072507552864,bowler,sustained_attack,Spell management and damage control

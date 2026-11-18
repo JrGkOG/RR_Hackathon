@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,50284,67.18,116,14,266,2,116,46.55172413793103,-0.09523576444462521,True,True,True,Vaibhav Sooryavanshi,24.21711899791232,batter,sustained_attack,Scoring recovery and acceleration
+2,6396,63.55,169,25,285,5,169,43.19526627218935,-0.09378238314431663,True,True,True,Tim David,42.462311557788944,batter,sustained_attack,Scoring recovery and acceleration
+3,3926,62.36,74,14,113,2,73,43.24324324324324,-0.2737704745290612,True,True,True,Rahul Tewatia,45.1219512195122,batter,sustained_attack,Scoring recovery and acceleration
+4,4736,61.09,146,20,248,6,146,42.465753424657535,-0.06301098770972492,True,True,True,Josh Inglis,36.5,batter,sustained_attack,Scoring recovery and acceleration
+5,19714,60.42,103,12,172,3,103,44.66019417475729,-0.03217385550969635,True,True,True,Abishek Porel,30.029154518950435,batter,sustained_attack,Scoring recovery and acceleration
+6,6288,60.2,177,25,269,6,177,33.33333333333333,-0.0020071989384381713,True,True,True,Shubman Gill,17.647058823529413,batter,sustained_attack,Scoring recovery and acceleration
+7,4847,59.93,31,7,63,0,31,51.61290322580645,-0.0060092213370930925,True,True,True,Finn Allen,17.51412429378531,batter,sustained_attack,Scoring recovery and acceleration
+8,3782,59.79,53,12,73,2,53,32.075471698113205,0.040075885292087284,True,True,True,M Shahrukh Khan,42.06349206349206,batter,sustained_attack,Scoring recovery and acceleration
+9,5553,56.66,167,25,310,5,166,40.119760479041915,-0.04028135819855737,True,True,True,Phil Salt,23.324022346368714,batter,sustained_attack,Scoring recovery and acceleration
+10,7544,56.23,93,15,135,2,93,41.935483870967744,-0.025186881216088225,True,True,True,Venkatesh Iyer,32.51748251748251,batter,sustained_attack,Scoring recovery and acceleration

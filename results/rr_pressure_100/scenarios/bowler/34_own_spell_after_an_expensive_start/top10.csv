@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4219,59.63,47,9,59.0,5.0,44.0,57.446808510638306,5.824299297641134,True,True,True,Krunal Pandya,9.771309771309772,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+2,19316,58.13,56,10,50.0,4.0,56.0,67.85714285714286,0.03634559884559883,True,True,True,Maheesh Theekshana,7.4866310160427805,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+3,3298,57.51,99,12,138.0,8.0,96.0,71.71717171717171,0.050394438078261494,True,True,True,Jofra Archer,12.643678160919542,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+4,2876,57.43,109,17,119.0,5.0,108.0,75.22935779816514,0.05198216943671138,True,True,True,Axar Patel,11.33056133056133,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+5,7905,56.15,35,5,35.0,2.0,35.0,82.85714285714286,0.16435185185185172,True,True,True,Tanzim Sakib,8.235294117647058,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+6,4755,55.99,31,5,63.0,3.0,31.0,61.29032258064516,13.774740047534165,True,True,True,Shivam Dube,11.272727272727273,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+7,2382,55.71,43,6,66.0,2.0,38.0,60.46511627906976,0.35682539682539705,True,True,True,Jamie Overton,11.78082191780822,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+8,8380,55.42,30,5,19.0,5.0,30.0,76.66666666666667,,True,True,True,Mohammad Rishad Hossain,4.838709677419355,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+9,7327,55.37,57,7,86.0,3.0,55.0,66.66666666666666,3.3058748223290952,True,True,True,Rasikh Salam,19.52054794520548,bowler,own_spell_after_an_expensive_start,Spell management and damage control
+10,6256,54.76,80,9,134.0,5.0,77.0,62.5,-0.008387908387908519,True,True,True,Varun Chakravarthy,8.056394763343404,bowler,own_spell_after_an_expensive_start,Spell management and damage control

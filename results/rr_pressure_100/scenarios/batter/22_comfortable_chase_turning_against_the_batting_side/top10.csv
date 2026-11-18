@@ -1,0 +1,2 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,953,45.94,18,3,18.0,1.0,18.0,22.22222222222222,0.06841279813626973,True,True,True,Lokesh Rahul,2.7027027027027026,batter,comfortable_chase_turning_against_the_batting_side,Pacing and innings construction

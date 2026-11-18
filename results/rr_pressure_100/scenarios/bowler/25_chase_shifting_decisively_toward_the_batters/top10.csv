@@ -1,0 +1,4 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,7690,57.47,22,5,19.0,1.0,22.0,81.81818181818183,0.07529674787223563,True,True,True,Saim Ayub,5.250596658711217,bowler,chase_shifting_decisively_toward_the_batters,Target defence and required-rate squeeze
+2,4722,54.87,28,7,22.0,1.0,28.0,89.28571428571429,0.0760162046070157,True,True,True,Rashid Khan,2.488888888888889,bowler,chase_shifting_decisively_toward_the_batters,Target defence and required-rate squeeze
+3,7967,47.83,24,6,38.0,0.0,22.0,62.5,-0.0608111197557597,True,True,True,Noor Ahmad,2.7303754266211606,bowler,chase_shifting_decisively_toward_the_batters,Target defence and required-rate squeeze

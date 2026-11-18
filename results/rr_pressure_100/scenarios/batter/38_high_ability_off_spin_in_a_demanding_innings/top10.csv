@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6281,55.23,39,9,76.0,0.0,39.0,35.8974358974359,0.014408553693300519,True,True,True,Abhishek Sharma,3.479036574487065,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+2,3489,53.73,28,5,43.0,0.0,28.0,57.14285714285714,,True,True,True,Salman Agha,5.185185185185185,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+3,2876,53.56,18,3,31.0,0.0,18.0,38.88888888888889,-0.07134862015369488,True,True,True,Axar Patel,4.063205417607223,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+4,7900,53.28,21,3,29.0,0.0,21.0,42.857142857142854,-0.09921129281620109,True,True,True,Tanzid Hasan,2.9494382022471908,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+5,2258,50.91,23,4,34.0,0.0,23.0,26.08695652173913,0.029774799817273236,True,True,True,Sanju Samson,2.481121898597627,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+6,4117,50.75,30,8,49.0,1.0,30.0,33.33333333333333,-0.17157013132414553,True,True,True,Ishan Kishan,4.3604651162790695,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+7,2984,50.53,18,4,27.0,0.0,18.0,33.33333333333333,0.07622864998787808,True,True,True,Sikandar Raza,4.30622009569378,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+8,2485,50.19,19,3,35.0,2.0,19.0,42.10526315789473,-0.09358383551931926,True,True,True,Babar Azam,4.714640198511166,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+9,26646,49.94,21,3,24.0,0.0,21.0,19.047619047619047,0.14813562270293648,True,True,True,Rahul Chopra,15.328467153284672,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups
+10,2921,49.8,39,5,44.0,0.0,39.0,35.8974358974359,0.023751731822944,True,True,True,Fakhar Zaman,7.926829268292683,batter,high_ability_off_spin_in_a_demanding_innings,Adapting to bowling matchups

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6396,59.81,137,18,253.0,5.0,136.0,56.934306569343065,-0.08471809204749553,True,True,True,Tim David,34.42211055276382,batter,limited_support,Wicket preservation and tail management
+2,143,55.89,48,5,96.0,0.0,48.0,62.5,-0.015943111370474213,True,True,True,Dinesh Karthik,48.97959183673469,batter,limited_support,Wicket preservation and tail management
+3,19781,55.61,28,5,46.0,1.0,28.0,71.42857142857143,-0.06099723779187716,True,True,False,Mitchell Owen,37.83783783783784,batter,limited_support,Wicket preservation and tail management
+4,7897,55.18,232,31,313.0,4.0,229.0,42.241379310344826,0.06877493053507565,True,True,True,Namboori Tilak Varma,21.702525724976613,batter,limited_support,Wicket preservation and tail management
+5,33969,54.7,23,6,22.0,1.0,23.0,56.52173913043478,-0.39549574186228753,True,True,False,Tinotenda Maposa,100.0,batter,limited_support,Wicket preservation and tail management
+6,953,54.37,78,9,107.0,2.0,78.0,33.33333333333333,-0.00590392393590935,True,True,True,Lokesh Rahul,11.711711711711711,batter,limited_support,Wicket preservation and tail management
+7,7325,54.19,38,5,38.0,2.0,38.0,44.73684210526316,0.8232661466352038,True,True,False,Harpreet Brar,73.07692307692307,batter,limited_support,Wicket preservation and tail management
+8,7327,53.95,23,4,24.0,2.0,23.0,34.78260869565217,0.15026155032855915,True,True,False,Rasikh Salam,85.18518518518519,batter,limited_support,Wicket preservation and tail management
+9,19714,53.79,64,7,83.0,1.0,64.0,56.25,-0.0035860902046478405,True,True,True,Abishek Porel,18.658892128279884,batter,limited_support,Wicket preservation and tail management
+10,479,53.76,29,5,30.0,1.0,29.0,55.172413793103445,0.0032856014320483524,True,True,False,Adil Rashid,85.29411764705883,batter,limited_support,Wicket preservation and tail management

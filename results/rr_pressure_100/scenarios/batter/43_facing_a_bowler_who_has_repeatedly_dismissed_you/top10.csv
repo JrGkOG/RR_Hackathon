@@ -1,0 +1,4 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6314,50.57,22,3,32.0,1.0,22.0,31.818181818181817,0.00416666666666643,True,True,True,Devdutt Padikkal,6.145251396648044,batter,facing_a_bowler_who_has_repeatedly_dismissed_you,Adapting to bowling matchups
+2,813,47.5,21,5,20.0,2.0,21.0,33.33333333333333,-0.0075617615467241505,True,True,True,Jos Buttler,1.8518518518518516,batter,facing_a_bowler_who_has_repeatedly_dismissed_you,Adapting to bowling matchups
+3,6819,45.34,19,3,21.0,2.0,19.0,21.052631578947366,0.010340948853803392,True,True,True,Yashasvi Jaiswal,2.4804177545691903,batter,facing_a_bowler_who_has_repeatedly_dismissed_you,Adapting to bowling matchups

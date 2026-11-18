@@ -1,0 +1,18 @@
+[
+  {
+    "role": "batter",
+    "model": "xgboost",
+    "holdout_from": "2025-11-13",
+    "holdout_to": "2026-11-01",
+    "matched_players": 123,
+    "ndcg_at_10": 0.5880034727092993
+  },
+  {
+    "role": "bowler",
+    "model": "xgboost",
+    "holdout_from": "2025-11-13",
+    "holdout_to": "2026-11-01",
+    "matched_players": 94,
+    "ndcg_at_10": 0.7635892861630523
+  }
+]

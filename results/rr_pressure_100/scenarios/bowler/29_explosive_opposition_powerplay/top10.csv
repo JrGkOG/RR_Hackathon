@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5041,59.05,51,10,119.0,2.0,47.0,52.94117647058824,-0.055835579994801404,True,True,True,Mukesh Kumar,9.751434034416825,bowler,explosive_opposition_powerplay,Spell management and damage control
+2,2399,56.57,21,5,25.0,1.0,21.0,76.19047619047619,-0.013298344175044531,True,True,True,Dushmantha Chameera,4.233870967741935,bowler,explosive_opposition_powerplay,Spell management and damage control
+3,35318,53.4,23,4,38.0,1.0,21.0,73.91304347826086,0.09047619047619015,True,True,True,Sakib Hussain,13.529411764705882,bowler,explosive_opposition_powerplay,Spell management and damage control
+4,5944,53.31,28,7,43.0,2.0,27.0,64.28571428571429,-0.003706678610345523,True,True,True,Mohammed Siraj,3.5175879396984926,bowler,explosive_opposition_powerplay,Spell management and damage control
+5,4373,53.03,19,6,33.0,1.0,19.0,68.42105263157895,-0.014503092360841055,True,True,True,Mustafizur Rahman,3.304347826086956,bowler,explosive_opposition_powerplay,Spell management and damage control
+6,4489,52.82,33,6,37.0,2.0,32.0,75.75757575757575,0.05312130166700191,True,True,True,Prasidh Krishna,6.626506024096386,bowler,explosive_opposition_powerplay,Spell management and damage control
+7,7364,52.53,21,4,30.0,3.0,19.0,57.14285714285714,-0.018402777777777917,True,True,True,Haris Rauf,6.176470588235294,bowler,explosive_opposition_powerplay,Spell management and damage control
+8,1071,52.48,20,4,33.0,2.0,20.0,70.0,-0.008297492414598397,True,True,True,Jaydev Unadkat,9.216589861751153,bowler,explosive_opposition_powerplay,Spell management and damage control
+9,27964,51.83,35,7,73.0,3.0,33.0,60.0,-0.08175803273925701,True,True,True,Anshul Kamboj,8.860759493670885,bowler,explosive_opposition_powerplay,Spell management and damage control
+10,8530,51.72,23,4,36.0,2.0,21.0,69.56521739130434,-0.008843537414965954,True,True,True,Kartik Tyagi,11.5,bowler,explosive_opposition_powerplay,Spell management and damage control

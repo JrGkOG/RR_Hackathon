@@ -1,0 +1,6 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6423,49.9,24,5,34.0,1.0,24.0,33.33333333333333,0.025786633218947957,True,True,True,Riyan Parag,3.9735099337748347,batter,double_strike_before_the_innings_settles,Wicket preservation and tail management
+2,7216,49.81,21,3,23.0,0.0,21.0,28.57142857142857,0.04543984370187948,True,True,True,Prabhsimran Singh,3.392568659127625,batter,double_strike_before_the_innings_settles,Wicket preservation and tail management
+3,7897,49.4,18,6,11.0,0.0,18.0,44.44444444444444,0.08497022109814764,True,True,True,Namboori Tilak Varma,1.683816651075772,batter,double_strike_before_the_innings_settles,Wicket preservation and tail management
+4,6651,49.33,20,6,10.0,0.0,19.0,30.0,-0.017111515791515302,True,True,True,Towhid Hridoy,3.9525691699604746,batter,double_strike_before_the_innings_settles,Wicket preservation and tail management
+5,3489,47.27,18,6,11.0,1.0,18.0,38.88888888888889,0.10515873015873023,True,True,True,Salman Agha,3.3333333333333335,batter,double_strike_before_the_innings_settles,Wicket preservation and tail management

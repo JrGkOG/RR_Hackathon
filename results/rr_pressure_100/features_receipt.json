@@ -1,0 +1,15 @@
+{
+  "signature": "ee34d37610f12c60912bbe3eb122015a5d67f6024e858b6fdb1f32802ffd6b4d",
+  "files": {
+    "derived_deliveries.parquet": "cb75c209bb07a4450faa9775c8c38b74a29dbd647c390766d448ad689f2eef69",
+    "batter_ability_by_date.parquet": "ba4520d9553efa4d0e4a5c931be93efba86e39da12c89e8a864bc94f7a9805cd",
+    "bowler_ability_by_date.parquet": "11f67723b18525677c5a9045fffbc85702cc6d125321289cc785fcc7b46c2ad5",
+    "recovery_episodes.parquet": "410e13ae9338f50af9b0ae66e98a7b60180501f7c46828058be0c212a92e4d0d",
+    "canonical_roster.parquet": "2211723e047ba26fba71a6e096888d55ddfa7c505c4aaffd65649dea8ca7ec2b",
+    "feature_manifest.csv": "835e718c4a5befbca268aef1ee11a0c0b9dc0eaf7d5486e23eabb8816bc6e391",
+    "micro_manifest.json": "008eae0dabedb506301ef9df26c283ef0135864ac8a188154ea0e77c5016f7da",
+    "match_audit.csv": "19c7c8b91bee25bf4d35c9a70e5962559d5e43b6a979b048a37066514ea4849b"
+  },
+  "rows": 133469,
+  "matches": 562
+}

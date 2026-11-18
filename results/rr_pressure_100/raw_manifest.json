@@ -1,0 +1,26 @@
+{
+  "ball_by_ball": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/ball_by_ball.csv",
+    "sha256": "01e2b4379edfbab6a6e456d304cb3c70f554cb312ef93d9588f3f32a82cb396e"
+  },
+  "matches": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/matches.csv",
+    "sha256": "bb100ab84b8b9a15160c1f2315cf675210131a30e779ec5079fd5403dcf56eef"
+  },
+  "competitions": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/competitions.csv",
+    "sha256": "507ceb7189f972d4e4f299ddcfc97f3c3247af1913f6291106f161fa8353fd9b"
+  },
+  "teams": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/teams.csv",
+    "sha256": "a65e5922a9b3bf49247b24fc9471782e700efb31f8dcc5042923238b87c50a5d"
+  },
+  "playing_eleven": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/playing_eleven.csv",
+    "sha256": "7517c73722a28d5d61c808ccf0cbed315a8780586d02e946eb9a7f5daf011c27"
+  },
+  "competition_team_player_mapping": {
+    "file": "/kaggle/input/datasets/karthikg2004/rr-hackathon-raw-data/competition_team_player_mapping.csv",
+    "sha256": "1ded4e42a933618572d6e2c3a521c3257eb1844fab4456d567d77cbb2d3bbb12"
+  }
+}

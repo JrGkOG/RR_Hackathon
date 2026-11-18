@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6464,67.82,92,16,152.0,10.0,82.0,70.65217391304348,,True,True,True,Arshdeep Singh,7.261247040252565,bowler,first_innings_death,Closing overs and last-ball execution
+2,2933,66.27,81,10,104.0,6.0,80.0,75.30864197530865,,True,True,True,Jasprit Bumrah,8.681672025723474,bowler,first_innings_death,Closing overs and last-ball execution
+3,3653,61.62,53,9,106.0,6.0,51.0,62.264150943396224,,True,True,True,Avesh Khan,8.674304418985269,bowler,first_innings_death,Closing overs and last-ball execution
+4,360,61.23,49,7,65.0,3.0,48.0,79.59183673469387,,True,True,True,Bhuvneshwar Kumar,6.721536351165981,bowler,first_innings_death,Closing overs and last-ball execution
+5,2261,60.8,52,6,85.0,9.0,48.0,73.07692307692307,,True,True,True,Harshal Patel,15.072463768115943,bowler,first_innings_death,Closing overs and last-ball execution
+6,2399,60.4,38,7,56.0,2.0,35.0,68.42105263157895,,True,True,True,Dushmantha Chameera,7.661290322580645,bowler,first_innings_death,Closing overs and last-ball execution
+7,3628,59.46,43,7,70.0,3.0,37.0,72.09302325581395,,True,True,True,Kagiso Rabada,8.333333333333332,bowler,first_innings_death,Closing overs and last-ball execution
+8,8746,58.75,58,8,90.0,5.0,52.0,72.41379310344827,,True,True,True,Vaibhav Arora,11.485148514851486,bowler,first_innings_death,Closing overs and last-ball execution
+9,4641,58.74,41,6,49.0,2.0,39.0,82.92682926829268,,True,True,True,Lungi Ngidi,11.452513966480447,bowler,first_innings_death,Closing overs and last-ball execution
+10,2320,58.67,48,8,83.0,5.0,45.0,62.5,,True,True,True,Trent Boult,9.917355371900827,bowler,first_innings_death,Closing overs and last-ball execution

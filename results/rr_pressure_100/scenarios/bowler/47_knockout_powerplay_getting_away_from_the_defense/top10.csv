@@ -1,0 +1,3 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5944,50.41,26,3,43.0,1.0,26.0,61.53846153846154,-0.02339908768880867,True,True,True,Mohammed Siraj,3.2663316582914574,bowler,knockout_powerplay_getting_away_from_the_defense,Bowling through form slumps and knockouts
+2,360,48.81,24,4,45.0,1.0,24.0,54.166666666666664,-0.06342777347415876,True,True,True,Bhuvneshwar Kumar,3.292181069958848,bowler,knockout_powerplay_getting_away_from_the_defense,Bowling through form slumps and knockouts

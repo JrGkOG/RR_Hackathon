@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,7897,64.07,135,22,230.0,4.0,135.0,37.77777777777778,-0.10708590200598758,True,True,True,Namboori Tilak Varma,12.628624883068287,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+2,6819,62.67,136,15,257.0,5.0,136.0,44.11764705882353,-0.049345289927296435,True,True,True,Yashasvi Jaiswal,17.75456919060052,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+3,25139,58.6,21,6,44.0,0.0,21.0,47.61904761904761,0.17137195441870776,True,True,True,Shubham Dubey,18.421052631578945,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+4,4708,58.13,55,11,100.0,1.0,55.0,36.36363636363637,-0.5101853724300642,True,True,True,Rinku Singh,13.715710723192021,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+5,2921,56.71,18,5,26.0,0.0,18.0,38.88888888888889,,True,True,True,Fakhar Zaman,3.6585365853658534,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+6,2984,56.06,37,7,69.0,1.0,37.0,54.054054054054056,-0.030775337456985716,True,True,True,Sikandar Raza,8.851674641148326,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+7,5553,55.81,122,18,199.0,3.0,121.0,40.16393442622951,-0.07662303142109665,True,True,True,Phil Salt,17.039106145251395,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+8,6281,55.41,107,21,181.0,7.0,106.0,31.775700934579437,-0.04597967359725954,True,True,True,Abhishek Sharma,9.545049063336307,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+9,50284,55.36,100,15,199.0,6.0,99.0,45.0,-0.060210131485202906,True,True,True,Vaibhav Sooryavanshi,20.876826722338205,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups
+10,6448,55.28,58,8,89.0,0.0,58.0,34.48275862068966,0.02535853201325322,True,True,True,Ibrahim Zadran,12.719298245614036,batter,high_ability_pace_in_a_demanding_innings,Adapting to bowling matchups

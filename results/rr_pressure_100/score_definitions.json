@@ -1,0 +1,15 @@
+{
+  "solo_score100": "Sum the 50 scenario scores out of 5000 and divide by 50.",
+  "combination": "Each listed combination requires every component pressure flag before the same delivery. Scores use batting or bowling recipes; configurations define the combination weights.",
+  "combination_adjustment": "8.0 times the weighted combination score's deviation from neutral 50 divided by 50.",
+  "repeat_bonus": "At most 6.0 points. Count distinct matches with at least 4 pressure attempts and performance greater than 0.05 over expectation. The bonus starts after the first qualifying positive match, saturates, and is scaled by the positive fraction of assessed matches.",
+  "final_score": "Clip solo_score100 + combination_adjustment + repeat_bonus to 0\u2013100.",
+  "model_selection": "ensemble",
+  "ensemble": {
+    "catboost": 0.3333333333333333,
+    "lightgbm": 0.3333333333333333,
+    "xgboost": 0.3333333333333333
+  },
+  "validation": "Matching chronological folds for each engine. Earlier rankings use a shared held-out observed-results reference for comparison.",
+  "unobserved_score": 50
+}

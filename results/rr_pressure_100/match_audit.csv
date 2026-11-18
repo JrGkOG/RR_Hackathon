@@ -1,0 +1,884 @@
+match_id,match_date,comp_name,competition_group,result,delivery_rows,accounting_exclusion_reasons,accounting_eligible,in_primary_scope,model_eligible
+13511,2022-01-22,England in West Indies T20I Series 2022,T20I,West Indies Won by 9 Wickets,224,,True,True,True
+13512,2022-01-23,England in West Indies T20I Series 2022,T20I,England Won by 1 Run,252,,True,True,True
+13513,2022-01-26,England in West Indies T20I Series 2022,T20I,West Indies Won by 20 runs,252,unresolved_other_extras,False,True,False
+13514,2022-01-29,England in West Indies T20I Series 2022,T20I,England Won by 34 runs,253,,True,True,True
+13515,2022-01-30,England in West Indies T20I Series 2022,T20I,West Indies Won by 17 runs,254,unresolved_other_extras,False,True,False
+13522,2022-02-16,West Indies in India T20I Series 2022,T20I,India Won by 6 Wickets,247,,True,True,True
+13523,2022-02-18,West Indies in India T20I Series 2022,T20I,India Won by 8 Runs,257,,True,True,True
+13524,2022-02-20,West Indies in India T20I Series 2022,T20I,India Won by 17 runs,251,,True,True,True
+13612,2022-02-11,Sri Lanka in Australia T20I Series 2022,T20I,Australia Won by 20 runs (D/L method),242,incomplete_defence_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+13613,2022-02-13,Sri Lanka in Australia T20I Series 2022,T20I,Australia Won the one over Eliminator,246,run_margin_score_mismatch,False,True,False
+13614,2022-02-15,Sri Lanka in Australia T20I Series 2022,T20I,Australia Won by 6 Wkts,227,unresolved_other_extras,False,True,False
+13615,2022-02-18,Sri Lanka in Australia T20I Series 2022,T20I,Australia Won by 6 Wickets,236,,True,True,True
+13616,2022-02-20,Sri Lanka in Australia T20I Series 2022,T20I,Sri Lanka Won by 5 wickets,250,,True,True,True
+14094,2022-03-26,IPL 2022,IPL,Kolkata Knight Riders Won by 6 Wkts,237,unresolved_other_extras,False,True,False
+14095,2022-03-27,IPL 2022,IPL,Delhi Capitals Won by 4 Wickets,239,,True,True,True
+14096,2022-03-27,IPL 2022,IPL,Punjab Kings Won by 5 Wkts,253,,True,True,True
+14097,2022-03-28,IPL 2022,IPL,Gujarat Titans Won by 5 Wickets,245,,True,True,True
+14098,2022-03-29,IPL 2022,IPL,Rajasthan Royals Won by 61 Runs,255,unresolved_other_extras,False,True,False
+14099,2022-03-30,IPL 2022,IPL,Royal Challengers Bengaluru Won 3 Wkts,236,,True,True,True
+14100,2022-03-31,IPL 2022,IPL,Lucknow Super Giants Won by 6 Wkts,252,,True,True,True
+14101,2022-04-01,IPL 2022,IPL,Kolkata Knight Riders Won by 6 wkts,210,unresolved_other_extras,False,True,False
+14102,2022-04-02,IPL 2022,IPL,Rajasthan Royals Won by 23 Runs,256,unresolved_other_extras,False,True,False
+14103,2022-04-02,IPL 2022,IPL,Gujarat Titans won by 14 runs,247,,True,True,True
+14104,2022-04-03,IPL 2022,IPL,Punjab Kings won by 54 runs,245,,True,True,True
+14105,2022-04-04,IPL 2022,IPL,Lucknow Super Giants won by 12 Runs,247,,True,True,True
+14106,2022-04-05,IPL 2022,IPL,Royal Challengers Bengaluru Won by 4 Wkts,247,,True,True,True
+14107,2022-04-06,IPL 2022,IPL,Kolkata Knight Riders Won by 5 Wickets,218,unresolved_other_extras,False,True,False
+14108,2022-04-07,IPL 2022,IPL,Lucknow Super Giants won by 6 wickets,246,unresolved_other_extras,False,True,False
+14109,2022-04-08,IPL 2022,IPL,Gujarat Titans won by 6 wickets,247,,True,True,True
+14110,2022-04-09,IPL 2022,IPL,Sunrisers Hyderabad won by 8 wickets,235,unresolved_other_extras,False,True,False
+14111,2022-04-09,IPL 2022,IPL,Royal Challengers Bengaluru won by 7 wickets,236,,True,True,True
+14112,2022-04-10,IPL 2022,IPL,Delhi Capitals won by 44 run,246,,True,True,True
+14113,2022-04-10,IPL 2022,IPL,Rajasthan Royals Won By 3 Runs,250,,True,True,True
+14114,2022-04-11,IPL 2022,IPL,Sunrisers Hyderabad Won by 8 Wickets,246,dismissed_id_without_wicket,False,True,False
+14115,2022-04-12,IPL 2022,IPL,Chennai Super Kings Won by 23 Runs,256,unresolved_other_extras,False,True,False
+14116,2022-04-13,IPL 2022,IPL,Punjab Kings won by 12 runs,252,,True,True,True
+14117,2022-04-14,IPL 2022,IPL,Gujarat Titans Won by 37 runs,246,unresolved_other_extras,False,True,False
+14118,2022-04-15,IPL 2022,IPL,Sunrisers Hyderabad won by 7 wickets,234,,True,True,True
+14119,2022-04-16,IPL 2022,IPL,Lucknow Super Giants won by 18 runs,249,,True,True,True
+14120,2022-04-16,IPL 2022,IPL,Royal Challengers Bengaluru won by 16 runs,250,,True,True,True
+14121,2022-04-17,IPL 2022,IPL,Sunrisers Hyderabad won by 7 wicket,242,,True,True,True
+14122,2022-04-17,IPL 2022,IPL,Gujarat Titans won by 3 wickets,246,unresolved_other_extras,False,True,False
+14123,2022-04-18,IPL 2022,IPL,Rajasthan Royals Won by 7 Runs,258,,True,True,True
+14124,2022-04-19,IPL 2022,IPL,Royal Challengers Bengaluru won by 18 runs,254,,True,True,True
+14125,2022-04-20,IPL 2022,IPL,Delhi Capitals won by 9 wickets,190,,True,True,True
+14126,2022-04-21,IPL 2022,IPL,Chennai Super Kings Won by 3 Wickets,250,,True,True,True
+14127,2022-04-22,IPL 2022,IPL,Rajasthan Royals Won by 15 Runs,252,unresolved_other_extras,False,True,False
+14128,2022-04-23,IPL 2022,IPL,Gujarat Titans Won by 8 Runs,253,,True,True,True
+14129,2022-04-23,IPL 2022,IPL,Sunrisers Hyderabad won by 9 wickets,154,unresolved_other_extras,False,True,False
+14130,2022-04-24,IPL 2022,IPL,Lucknow Super Giants Won 36  Runs,251,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | over_count_requires_review | run_margin_score_mismatch,False,True,False
+14131,2022-04-25,IPL 2022,IPL,Punjab Kings Won by 11 Runs,259,unresolved_other_extras,False,True,False
+14132,2022-04-26,IPL 2022,IPL,Rajasthan Royals Won by 29 Runs,246,,True,True,True
+14133,2022-04-27,IPL 2022,IPL,Gujarat Titans Won by 5 Wickets,251,,True,True,True
+14134,2022-04-28,IPL 2022,IPL,Delhi Capitals Won By 4 Wickets,241,unresolved_other_extras,False,True,False
+14135,2022-04-29,IPL 2022,IPL,Lucknow Super Giants Won by 20 Runs,253,,True,True,True
+14136,2022-04-30,IPL 2022,IPL,Gujarat Titans won by 6 wickets,244,unresolved_other_extras,False,True,False
+14137,2022-04-30,IPL 2022,IPL,Mumbai Indians Won By 5 Wickets,247,,True,True,True
+14139,2022-05-01,IPL 2022,IPL,Lucknow Super Giants won by 6 runs,255,,True,True,True
+14140,2022-05-01,IPL 2022,IPL,Chennai Super Kings won by 13 runs,246,,True,True,True
+14141,2022-05-02,IPL 2022,IPL,Kolkata Knight Riders Won by 7 Wickets,251,unresolved_other_extras,False,True,False
+14142,2022-05-03,IPL 2022,IPL,Punjab Kings Won by 8 Wickets,229,,True,True,True
+14143,2022-05-04,IPL 2022,IPL,Royal Challengers Bengaluru won by 13 Runs,247,,True,True,True
+14144,2022-05-05,IPL 2022,IPL,Delhi Capitals Won by 21 Runs,253,,True,True,True
+14145,2022-05-06,IPL 2022,IPL,Mumbai Indians won by 5 runs,246,unresolved_other_extras,False,True,False
+14146,2022-05-07,IPL 2022,IPL,Rajasthan Royals won by 6 wickets,255,,True,True,True
+14147,2022-05-07,IPL 2022,IPL,Lucknow Super Giants won by 75 runs,211,,True,True,True
+14148,2022-05-08,IPL 2022,IPL,Royal Challengers Bengaluru won by 67 runs,246,,True,True,True
+14149,2022-05-08,IPL 2022,IPL,Chennai Super Kings won by 91 runs,239,,True,True,True
+14150,2022-05-09,IPL 2022,IPL,Kolkata Knight Riders Won by 52 Runs,233,,True,True,True
+14151,2022-05-10,IPL 2022,IPL,Gujarat Titans won by 62 runs,212,,True,True,True
+14152,2022-05-11,IPL 2022,IPL,Delhi Capitals Won by 8 Wickets,239,,True,True,True
+14153,2022-05-12,IPL 2022,IPL,Mumbai Indians Won by 5 Wickets,198,,True,True,True
+14154,2022-05-13,IPL 2022,IPL,Punjab Kings won by 54 runs,252,unresolved_other_extras,False,True,False
+14155,2022-05-14,IPL 2022,IPL,Kolkata Knight Riders won by 54 runs,251,,True,True,True
+14156,2022-05-15,IPL 2022,IPL,Gujarat Titans won by 7 wickets,244,,True,True,True
+14157,2022-05-15,IPL 2022,IPL,Rajasthan Royals Won by 24 Runs,251,,True,True,True
+14158,2022-05-16,IPL 2022,IPL,Delhi Capitals Won by 17 Runs,249,,True,True,True
+14159,2022-05-17,IPL 2022,IPL,Sunrisers Hyderabad Won by 3 Runs,255,unresolved_other_extras,False,True,False
+14160,2022-05-18,IPL 2022,IPL,Lucknow Super Giants Won by 2 Runs,249,,True,True,True
+14161,2022-05-19,IPL 2022,IPL,Royal Challengers Bengaluru won by 8 wickets,237,,True,True,True
+14162,2022-05-20,IPL 2022,IPL,Rajasthan Royals Won by 5 Wickets,247,,True,True,True
+14163,2022-05-21,IPL 2022,IPL,Mumbai Indians Won by 5 wickets,247,unresolved_other_extras,False,True,False
+14164,2022-05-22,IPL 2022,IPL,Punjab Kings Won by 5 wickets,219,incomplete_first_innings_or_unrecorded_reduction | over_count_requires_review,False,True,False
+15187,2022-05-24,IPL 2022,IPL,Gujarat Titans Won by 7 Wickets,252,unresolved_other_extras,False,True,False
+15188,2022-05-25,IPL 2022,IPL,Royal Challengers Bengaluru Won by 14 Runs,256,unresolved_other_extras,False,True,False
+15189,2022-05-27,IPL 2022,IPL,Rajasthan Royals won by 7 wickets,236,,True,True,True
+15190,2022-05-29,IPL 2022,IPL,Gujarat Titans Won by 7 Wickets,233,,True,True,True
+15458,2022-06-07,Australia in Sri Lanka T20I Series 2022,T20I,Australia Won by 10 Wickets,207,,True,True,True
+15459,2022-06-08,Australia in Sri Lanka T20I Series 2022,T20I,Australia Won by 3 Wkts,229,,True,True,True
+15460,2022-06-11,Australia in Sri Lanka T20I Series 2022,T20I,Sri Lanka Won by 4 Wickets,248,,True,True,True
+15406,2022-06-09,South Africa in India T20I Series 2022,T20I,South Africa Won by 7 Wkts,246,,True,True,True
+15407,2022-06-12,South Africa in India T20I Series 2022,T20I,South Africa Won by 4 Wickets,238,,True,True,True
+15408,2022-06-14,South Africa in India T20I Series 2022,T20I,India Won by 48 runs,240,,True,True,True
+15409,2022-06-17,South Africa in India T20I Series 2022,T20I,India Won by 82 runs,226,incomplete_defence_or_unrecorded_reduction,False,True,False
+15410,2022-06-19,South Africa in India T20I Series 2022,T20I,Match Abandoned,22,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+15546,2022-07-02,Bangladesh in West Indies T20I Series 2022,T20I,No Result,82,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified | unresolved_other_extras,False,True,False
+15547,2022-07-03,Bangladesh in West Indies T20I Series 2022,T20I,West Indies Won by 35 Runs,257,,True,True,True
+15548,2022-07-07,Bangladesh in West Indies T20I Series 2022,T20I,West Indies Won by 5 Wickets,248,unresolved_other_extras,False,True,False
+15609,2022-06-11,Afghanistan in Zimbabwe T20I Series 2022,T20I,Afghanistan Won by 6 Wickets,251,unresolved_other_extras,False,True,False
+15610,2022-06-12,Afghanistan in Zimbabwe T20I Series 2022,T20I,Afghanistan Won by 21 Runs,251,dismissed_id_without_wicket,False,True,False
+15611,2022-06-14,Afghanistan in Zimbabwe T20I Series 2022,T20I,Afghanistan Won by 35 Runs,254,,True,True,True
+15795,2022-06-26,India in Ireland T20I Series 2022,T20I,India Won by 7 Wickets,139,incomplete_first_innings_or_unrecorded_reduction,False,True,False
+15796,2022-06-28,India in Ireland T20I Series 2022,T20I,India Won by 4 Runs,260,unresolved_other_extras,False,True,False
+16040,2022-07-07,India in England T20I Series 2022,T20I,India Won by 50 Runs,247,,True,True,True
+16041,2022-07-09,India in England T20I Series 2022,T20I,India Won by 49 Runs,231,,True,True,True
+16042,2022-07-10,India in England T20I Series 2022,T20I,England Won by 17 runs,255,,True,True,True
+16062,2022-07-29,India in West Indies T20I Series 2022,T20I,India Won by 68 Runs,253,,True,True,True
+16063,2022-08-01,India in West Indies T20I Series 2022,T20I,West Indies Won by 5 Wickets,240,,True,True,True
+16064,2022-08-02,India in West Indies T20I Series 2022,T20I,India Won by 7 Wickets,242,dismissed_id_without_wicket,False,True,False
+16065,2022-08-06,India in West Indies T20I Series 2022,T20I,India Won by 59 Runs,249,,True,True,True
+16066,2022-08-07,India in West Indies T20I Series 2022,T20I,India Won by 88 Runs,228,,True,True,True
+16258,2022-07-18,New Zealand in Ireland T20I Series 2022,T20I,New Zealand Won by 31 Runs,244,unresolved_other_extras,False,True,False
+16259,2022-07-20,New Zealand in Ireland T20I Series 2022,T20I,New Zealand Won by 88 runs,210,,True,True,True
+16260,2022-07-22,New Zealand in Ireland T20I Series 2022,T20I,New Zealand Won by 6 wickets,242,,True,True,True
+16315,2022-07-27,South Africa in England T20I Series 2022,T20I,England Won by 41 Runs,250,,True,True,True
+16316,2022-07-28,South Africa in England T20I Series 2022,T20I,South Africa Won by 58 Runs,234,,True,True,True
+16317,2022-07-31,South Africa in England T20I Series 2022,T20I,South Africa Won by 90 Runs,227,unresolved_other_extras,False,True,False
+16424,2022-07-30,Bangladesh in Zimbabwe T20I Series 2022,T20I,Zimbabwe Won by 17 Runs,257,unresolved_other_extras,False,True,False
+16425,2022-07-31,Bangladesh in Zimbabwe T20I Series 2022,T20I,Bangladesh Won by 7 Wickets,237,,True,True,True
+16426,2022-08-02,Bangladesh in Zimbabwe T20I Series 2022,T20I,Zimbabwe Won by 10 runs,242,,True,True,True
+16646,2022-08-03,South Africa vs Ireland T20I Series 2022,T20I,South Africa won by 21 runs,252,,True,True,True
+16647,2022-08-05,South Africa vs Ireland T20I Series 2022,T20I,South Africa Won by 44 Runs,249,unresolved_other_extras,False,True,False
+16653,2022-08-27,Mens Twenty20 Asia Cup 2022,T20I,Afghanistan Won by 8 Wickets,186,unresolved_other_extras,False,True,False
+16654,2022-08-28,Mens Twenty20 Asia Cup 2022,T20I,India Won by 5 Wickets,247,,True,True,True
+16655,2022-08-30,Mens Twenty20 Asia Cup 2022,T20I,Afghanistan Won by 7 wickets,236,,True,True,True
+16656,2022-08-31,Mens Twenty20 Asia Cup 2022,T20I,India Won by 40 Runs,252,unresolved_other_extras,False,True,False
+16657,2022-09-01,Mens Twenty20 Asia Cup 2022,T20I,Sri Lanka Won by 2 Wickets,246,unresolved_other_extras,False,True,False
+16658,2022-09-02,Mens Twenty20 Asia Cup 2022,T20I,Pakistan Won by 155 Runs,197,,True,True,True
+16659,2022-09-03,Mens Twenty20 Asia Cup 2022,T20I,Sri Lanka Won by 4 Wickets,244,,True,True,True
+16660,2022-09-04,Mens Twenty20 Asia Cup 2022,T20I,Pakistan Won by 5 Wickets,251,,True,True,True
+16661,2022-09-06,Mens Twenty20 Asia Cup 2022,T20I,Sri Lanka Won by 6 Wickets,250,unresolved_other_extras,False,True,False
+16662,2022-09-07,Mens Twenty20 Asia Cup 2022,T20I,Pakistan Won by 1 Wicket,240,unresolved_other_extras,False,True,False
+16663,2022-09-08,Mens Twenty20 Asia Cup 2022,T20I,India Won by 101 Runs,245,,True,True,True
+16664,2022-09-09,Mens Twenty20 Asia Cup 2022,T20I,Sri Lanka Won by 5 Wickets,225,,True,True,True
+16665,2022-09-11,Mens Twenty20 Asia Cup 2022,T20I,Sri Lanka Won by 23 Runs,252,,True,True,True
+16666,2022-08-04,New Zealand in Netherlands T20I Series 2022,T20I,New Zealand Won by 16 Runs,246,,True,True,True
+16667,2022-08-05,New Zealand in Netherlands T20I Series 2022,T20I,New Zealand Won by 8 Wickets,210,,True,True,True
+16683,2022-08-11,New Zealand in West Indies T20I Series 2022,T20I,New Zealand Won by 13 Runs,255,,True,True,True
+16684,2022-08-13,New Zealand in West Indies T20I Series 2022,T20I,New Zealand Won by 90 Runs,247,,True,True,True
+16685,2022-08-15,New Zealand in West Indies T20I Series 2022,T20I,West Indies Won by 8 Wickets,238,,True,True,True
+16750,2022-08-09,Afghanistan in Ireland T20I Series 2022,T20I,Ireland Won by 7 Wickets,247,,True,True,True
+16751,2022-08-11,Afghanistan in Ireland T20I Series 2022,T20I,Ireland Won by 5 Wickets,244,unresolved_other_extras,False,True,False
+16752,2022-08-12,Afghanistan in Ireland T20I Series 2022,T20I,Afghanistan Won by 22 Runs,254,,True,True,True
+16753,2022-08-15,Afghanistan in Ireland T20I Series 2022,T20I,Afghanistan Won by 27 Runs,138,incomplete_first_innings_or_unrecorded_reduction | over_count_requires_review | penalty_or_unknown_extras | revised_allocation_or_target_timing_unverified,False,True,False
+16754,2022-08-17,Afghanistan in Ireland T20I Series 2022,T20I,Ireland Won by 7 Wickets(D/L Method),134,chase_result_score_mismatch | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+16862,2022-08-20,Asia Cup T20 Qualifiers 2022,T20I,Hong Kong Won by 8 runs,252,,True,True,True
+16863,2022-08-21,Asia Cup T20 Qualifiers 2022,T20I,Kuwait Won by 1 wicket,251,,True,True,True
+16864,2022-08-22,Asia Cup T20 Qualifiers 2022,T20I,United Arab Emirates Won by 47 Runs,235,,True,True,True
+16865,2022-08-23,Asia Cup T20 Qualifiers 2022,T20I,Hong Kong Won by 8 Wickets,235,,True,True,True
+16866,2022-08-24,Asia Cup T20 Qualifiers 2022,T20I,Hong Kong Won by 8 Wickets,235,,True,True,True
+16867,2022-08-24,Asia Cup T20 Qualifiers 2022,T20I,Kuwait Won by 6 Wickets,171,,True,True,True
+17394,2022-09-20,Australia in India T20I Series 2022,T20I,Australia Won by 4 Wickets,246,,True,True,True
+17395,2022-09-23,Australia in India T20I Series 2022,T20I,India Won by 6 Wickets,97,incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+17396,2022-09-25,Australia in India T20I Series 2022,T20I,India Won by 6 Wickets,247,,True,True,True
+17553,2022-09-20,England in Pakistan T20I Series 2022,T20I,England Won by 6 Wickets,241,,True,True,True
+17554,2022-09-22,England in Pakistan T20I Series 2022,T20I,Pakistan Won by 10 Wickets,245,,True,True,True
+17555,2022-09-23,England in Pakistan T20I Series 2022,T20I,England Won by 63 Runs,249,extras_label_contradiction | unresolved_other_extras | unresolved_secondary_extras,False,True,False
+17556,2022-09-25,England in Pakistan T20I Series 2022,T20I,Pakistan Won by 3 Runs,241,,True,True,True
+17557,2022-09-28,England in Pakistan T20I Series 2022,T20I,Pakistan Won by 6 Runs,241,,True,True,True
+17558,2022-09-30,England in Pakistan T20I Series 2022,T20I,England Won by 8 Wickets,211,,True,True,True
+17559,2022-10-02,England in Pakistan T20I Series 2022,T20I,England Won by 67 Runs,250,,True,True,True
+17625,2022-09-28,South Africa in India T20I Series 2022/23,T20I,India Won by 8 Wickets,229,,True,True,True
+17626,2022-10-02,South Africa in India T20I Series 2022/23,T20I,India Won by 16 Runs,258,unresolved_other_extras,False,True,False
+17627,2022-10-04,South Africa in India T20I Series 2022/23,T20I,South Africa Won by 49 Runs,249,incomplete_defence_or_unrecorded_reduction | unresolved_other_extras,False,True,False
+17631,2022-09-25,Bangladesh in United Arab Emirates T20I Series 2022,T20I,Bangladesh won by 7 runs,249,unresolved_other_extras,False,True,False
+17632,2022-09-27,Bangladesh in United Arab Emirates T20I Series 2022,T20I,Bangladesh Won by 32 Runs,247,,True,True,True
+17640,2022-10-05,West Indies in Australia T20I Series 2022,T20I,Australia Won by 3 Wickets,254,unresolved_other_extras,False,True,False
+17641,2022-10-07,West Indies in Australia T20I Series 2022,T20I,Australia Won by 31 runs,250,,True,True,True
+17737,2022-10-07,New Zealand T20I Tri Series 2022/23,T20I,Pakistan Won by 21 Runs,248,,True,True,True
+17738,2022-10-08,New Zealand T20I Tri Series 2022/23,T20I,Pakistan Won by 6 Wickets,234,,True,True,True
+17739,2022-10-09,New Zealand T20I Tri Series 2022/23,T20I,New Zealand Won by 8 wickets,233,,True,True,True
+17740,2022-10-11,New Zealand T20I Tri Series 2022/23,T20I,New Zealand Won by 9 Wickets,230,,True,True,True
+17741,2022-10-12,New Zealand T20I Tri Series 2022/23,T20I,New Zealand Won by 48 Runs,247,,True,True,True
+17742,2022-10-13,New Zealand T20I Tri Series 2022/23,T20I,Pakistan Won by 7 Wickets,249,,True,True,True
+17743,2022-10-14,New Zealand T20I Tri Series 2022/23,T20I,Pakistan Won by 5 Wickets,241,,True,True,True
+17763,2022-10-09,England in Australia T20I Series 2022,T20I,England Won by 8 Runs,255,unresolved_other_extras,False,True,False
+17764,2022-10-12,England in Australia T20I Series 2022,T20I,England Won by 8 Runs,254,,True,True,True
+17765,2022-10-14,England in Australia T20I Series 2022,T20I,No Result,100,incomplete_first_innings_or_unrecorded_reduction | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+18531,2022-11-20,India in New Zealand T20I Series 2022/23,T20I,India won by 65 runs,241,,True,True,True
+18532,2022-11-22,India in New Zealand T20I Series 2022/23,T20I,Match Tied,179,no_decisive_result,False,True,False
+19556,2023-01-03,Sri Lanka in India T20I Series 2023,T20I,India Won by 2 Runs,249,unresolved_other_extras,False,True,False
+19557,2023-01-05,Sri Lanka in India T20I Series 2023,T20I,Sri Lanka Won by 16 Runs,257,,True,True,True
+19558,2023-01-07,Sri Lanka in India T20I Series 2023,T20I,India Won by 91 Runs,235,,True,True,True
+19715,2023-01-27,New Zealand in India T20I Series 2023,T20I,New Zealand won by 21 runs,252,,True,True,True
+19716,2023-01-29,New Zealand in India T20I Series 2023,T20I,India won by 6 wickets,250,,True,True,True
+19717,2023-02-01,New Zealand in India T20I Series 2023,T20I,India Won by 168 runs,199,,True,True,True
+19690,2023-01-12,Ireland in Zimbabwe T20I Series 2023,T20I,Zimbabwe Won by 5 Wickets,228,,True,True,True
+19691,2023-01-14,Ireland in Zimbabwe T20I Series 2023,T20I,Ireland Won by 6 wickets,245,,True,True,True
+19692,2023-01-15,Ireland in Zimbabwe T20I Series 2023,T20I,Zimbabwe Won by 4 Wickets,242,,True,True,True
+20181,2023-03-31,IPL 2023,IPL,Gujarat Titans Won by 5 wickets,243,unresolved_other_extras,False,True,False
+20182,2023-04-01,IPL 2023,IPL,Punjab Kings Won by 7 Runs(D/L Method),222,incomplete_defence_or_unrecorded_reduction | run_margin_score_mismatch | unresolved_other_extras,False,True,False
+20183,2023-04-01,IPL 2023,IPL,Lucknow Super Giants Won by 50 runs,251,unresolved_other_extras,False,True,False
+20184,2023-04-02,IPL 2023,IPL,Rajasthan Royals Won By 72 Runs,248,unresolved_other_extras,False,True,False
+20185,2023-04-02,IPL 2023,IPL,Royal Challengers Bengaluru won by 8 wickets,232,unresolved_other_extras,False,True,False
+20186,2023-04-03,IPL 2023,IPL,Chennai Super Kings Won by 12 runs,260,,True,True,True
+20187,2023-04-04,IPL 2023,IPL,Gujarat Titans won by 6 wickets,240,,True,True,True
+20188,2023-04-05,IPL 2023,IPL,Punjab Kings Won by 5 runs,252,dismissed_id_without_wicket | unresolved_other_extras,False,True,False
+20189,2023-04-06,IPL 2023,IPL,Kolkata Knight Riders Won By 81 Runs,236,unresolved_other_extras,False,True,False
+20190,2023-04-07,IPL 2023,IPL,Lucknow Super Giants Won by 6 wickets,223,,True,True,True
+20191,2023-04-08,IPL 2023,IPL,Rajasthan Royals Won by 57 Runs,252,unresolved_other_extras,False,True,False
+20192,2023-04-08,IPL 2023,IPL,Chennai Super Kings Won by 7 wickets,239,,True,True,True
+20193,2023-04-09,IPL 2023,IPL,Kolkata Knight Riders Won By 3 Wickets,250,,True,True,True
+20194,2023-04-09,IPL 2023,IPL,Sunrisers Hyderabad won by 8 wickets,228,,True,True,True
+20195,2023-04-10,IPL 2023,IPL,Lucknow Super Giants Won by 1 wicket,253,,True,True,True
+20196,2023-04-11,IPL 2023,IPL,Mumbai Indians Won By 6 Wickets,246,,True,True,True
+20197,2023-04-12,IPL 2023,IPL,Rajasthan Royals Won by 3 Runs,253,,True,True,True
+20198,2023-04-13,IPL 2023,IPL,Gujarat Titans Won By 6 Wickets,248,,True,True,True
+20199,2023-04-14,IPL 2023,IPL,Sunrisers Hyderabad Won By 23 Runs,256,,True,True,True
+20200,2023-04-15,IPL 2023,IPL,Royal Challengers Bengaluru won by 23 runs,247,unresolved_other_extras,False,True,False
+20201,2023-04-15,IPL 2023,IPL,Punjab Kings won by 2 wickets,249,,True,True,True
+20202,2023-04-16,IPL 2023,IPL,Mumbai Indians won by 5 wickets,237,,True,True,True
+20203,2023-04-16,IPL 2023,IPL,Rajasthan Royals Won by 3 Wickets,242,,True,True,True
+20204,2023-04-17,IPL 2023,IPL,Chennai Super Kings Won by 8 Runs,252,unresolved_other_extras,False,True,False
+20205,2023-04-18,IPL 2023,IPL,Mumbai Indians Won by 14 Runs,249,,True,True,True
+20206,2023-04-19,IPL 2023,IPL,Lucknow Super Giants Won by 10 Runs,245,,True,True,True
+20207,2023-04-20,IPL 2023,IPL,Royal Challengers Bengaluru Won by 24 Runs,236,unresolved_other_extras,False,True,False
+20208,2023-04-20,IPL 2023,IPL,Delhi Capitals Won By 4 Wickets,251,,True,True,True
+20209,2023-04-21,IPL 2023,IPL,Chennai Super Kings Won by 7 Wickets,234,,True,True,True
+20210,2023-04-22,IPL 2023,IPL,Gujarat Titans Won by 7 runs,241,,True,True,True
+20211,2023-04-22,IPL 2023,IPL,Punjab Kings Won By 13Runs,252,run_margin_score_mismatch | unresolved_other_extras,False,True,False
+20212,2023-04-23,IPL 2023,IPL,Royal Challengers Bengaluru Won By 7 Runs,251,,True,True,True
+20213,2023-04-23,IPL 2023,IPL,Chennai Super Kings won by 49 runs,252,unresolved_other_extras,False,True,False
+20214,2023-04-24,IPL 2023,IPL,Delhi Capitals Won by 7 Runs,242,,True,True,True
+20215,2023-04-25,IPL 2023,IPL,Gujarat Titans Won by 55 runs,246,,True,True,True
+20216,2023-04-26,IPL 2023,IPL,Kolkata Knight Riders Won by 21 Runs,247,,True,True,True
+20217,2023-04-27,IPL 2023,IPL,Rajasthan Royals Won by 32 Runs,245,,True,True,True
+20218,2023-04-28,IPL 2023,IPL,Lucknow Super Giants Won by 56 runs,257,unresolved_other_extras,False,True,False
+20219,2023-04-29,IPL 2023,IPL,Gujarat Titans Won by 7 Wickets,233,,True,True,True
+20220,2023-04-29,IPL 2023,IPL,Sunrisers Hyderabad Won by 9 Runs,252,unresolved_other_extras,False,True,False
+20221,2023-04-30,IPL 2023,IPL,Punjab Kings Won By  4 wickets,252,,True,True,True
+20222,2023-04-30,IPL 2023,IPL,Mumbai Indians won by 6 wickets,258,,True,True,True
+20223,2023-05-01,IPL 2023,IPL,Royal Challengers Bengaluru Won  by 18 Runs,246,run_margin_score_mismatch | unresolved_other_extras,False,True,False
+20224,2023-05-02,IPL 2023,IPL,Delhi Capitals Won by 5 runs,248,,True,True,True
+20225,2023-05-03,IPL 2023,IPL,Mumbai Indians Won by 6 wickets,244,unresolved_other_extras,False,True,False
+20226,2023-05-03,IPL 2023,IPL,Match Abandoned,118,missing_ordinary_innings | no_decisive_result,False,True,False
+20227,2023-05-04,IPL 2023,IPL,Kolkata Knight Riders Won by 5 Runs,254,,True,True,True
+20228,2023-05-05,IPL 2023,IPL,Gujarat Titans Won by 9 Wickets,198,,True,True,True
+20229,2023-05-06,IPL 2023,IPL,Chennai Super Kings Won by 6 wickets,231,,True,True,True
+20230,2023-05-06,IPL 2023,IPL,Delhi Capitals Won by 7 Wickets,228,,True,True,True
+20231,2023-05-07,IPL 2023,IPL,Gujarat Titans Won By 56 Runs,250,unresolved_other_extras,False,True,False
+20232,2023-05-07,IPL 2023,IPL,Sunrisers Hyderabad Won by 4 wickets,250,,True,True,True
+20233,2023-05-08,IPL 2023,IPL,Kolkata Knight Riders Won by 5 Wickets,249,,True,True,True
+20234,2023-05-09,IPL 2023,IPL,Mumbai Indians won by 6 wickets,229,unresolved_other_extras,False,True,False
+20235,2023-05-10,IPL 2023,IPL,Chennai Super Kings Won by 27 Runs,255,,True,True,True
+20236,2023-05-11,IPL 2023,IPL,Rajasthan Royals Won by 9 Wickets,203,,True,True,True
+20237,2023-05-12,IPL 2023,IPL,Mumbai Indians Won by 27 Runs,243,,True,True,True
+20238,2023-05-13,IPL 2023,IPL,Lucknow Super Giants Won by 7 wickets,244,unresolved_other_extras,False,True,False
+20239,2023-05-13,IPL 2023,IPL,Punjab Kings Won by 31 Runs,250,,True,True,True
+20240,2023-05-14,IPL 2023,IPL,Royal Challengers Bengaluru Won by 112 runs,189,,True,True,True
+20241,2023-05-14,IPL 2023,IPL,Kolkata Knight Riders won by 6 Wickets,243,unresolved_other_extras,False,True,False
+20242,2023-05-15,IPL 2023,IPL,Gujarat Titans Won by 34 runs,253,,True,True,True
+20243,2023-05-16,IPL 2023,IPL,Lucknow Super Giants won by 5 runs,255,dismissed_id_without_wicket | unresolved_other_extras,False,True,False
+20244,2023-05-17,IPL 2023,IPL,Delhi Capitals Won by 15 runs,249,unresolved_other_extras,False,True,False
+20245,2023-05-18,IPL 2023,IPL,Royal Challengers Bengaluru Won by 8 wickets,245,unresolved_other_extras,False,True,False
+20246,2023-05-19,IPL 2023,IPL,Rajasthan Royals Won by 4 wickets,252,,True,True,True
+20247,2023-05-20,IPL 2023,IPL,Chennai Super Kings Won by 77 runs,256,unresolved_other_extras,False,True,False
+20248,2023-05-20,IPL 2023,IPL,Lucknow Super Giants won by 1 run,252,unresolved_other_extras,False,True,False
+20249,2023-05-21,IPL 2023,IPL,Mumbai Indians Won by 8 wickets,239,unresolved_other_extras,False,True,False
+20250,2023-05-21,IPL 2023,IPL,Gujarat Titans Won by 6 wickets,248,unresolved_other_extras,False,True,False
+21583,2023-05-23,IPL 2023,IPL,Chennai Super Kings Won by 15 runs,254,unresolved_other_extras,False,True,False
+21584,2023-05-24,IPL 2023,IPL,Mumbai Indians won by 81 runs,228,,True,True,True
+21585,2023-05-26,IPL 2023,IPL,Gujarat Titans won by 62 runs,242,unresolved_other_extras,False,True,False
+21586,2023-05-29,IPL 2023,IPL,Chennai Super Kings Won by 5 wickets  (DLS method),216,chase_result_score_mismatch | revised_allocation_or_target_timing_unverified,False,True,False
+19959,2023-03-25,West Indies in South Africa T20I Series 2023,T20I,West Indies won by 3 wickets,140,incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+19960,2023-03-26,West Indies in South Africa T20I Series 2023,T20I,South Africa Won by 6 wickets,248,,True,True,True
+19961,2023-03-28,West Indies in South Africa T20I Series 2023,T20I,West Indies Won by 7 runs,258,,True,True,True
+21176,2023-04-02,Sri Lanka in New Zealand T20I Series 2023,T20I,Sri Lanka won the super over,252,run_margin_score_mismatch,False,True,False
+21177,2023-04-05,Sri Lanka in New Zealand T20I Series 2023,T20I,New Zealand Won by 9 Wickets,214,,True,True,True
+21178,2023-04-08,Sri Lanka in New Zealand T20I Series 2023,T20I,New Zealand Won by 4 Wickets,251,,True,True,True
+20133,2023-03-09,England in Bangladesh T20I Series 2023,T20I,Bangladesh Won by 6 Wickets,232,,True,True,True
+20134,2023-03-12,England in Bangladesh T20I Series 2023,T20I,Bangladesh Won  by 4 Wickets,242,,True,True,True
+20135,2023-03-14,England in Bangladesh T20I Series 2023,T20I,Bangladesh won by 16 runs,249,,True,True,True
+21070,2023-03-27,Ireland in Bangladesh T20I Series 2023,T20I,Bangladesh Won by 22 Runs (DLS method),174,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+21071,2023-03-29,Ireland in Bangladesh T20I Series 2023,T20I,Bangladesh Won by 77 Runs,213,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+21072,2023-03-31,Ireland in Bangladesh T20I Series 2023,T20I,Ireland Won by 7 Wickets,206,,True,True,True
+20878,2023-03-24,Afghanistan v Pakistan T20I Series 2023,T20I,Afghanistan Won by 6 Wickets,230,,True,True,True
+20879,2023-03-26,Afghanistan v Pakistan T20I Series 2023,T20I,Afghanistan Won by 7 Wickets,243,,True,True,True
+20880,2023-03-27,Afghanistan v Pakistan T20I Series 2023,T20I,Pakistan Won by 66 Runs,241,dismissed_id_without_wicket | unresolved_other_extras,False,True,False
+21403,2023-04-14,New Zealand in Pakistan T20I Series 2023,T20I,Pakistan Won by 88 Runs,222,,True,True,True
+21404,2023-04-15,New Zealand in Pakistan T20I Series 2023,T20I,Pakistan Won by 38 runs,246,,True,True,True
+21405,2023-04-17,New Zealand in Pakistan T20I Series 2023,T20I,New Zealand Won by 4 Runs,249,,True,True,True
+21406,2023-04-20,New Zealand in Pakistan T20I Series 2023,T20I,Match Abandoned,118,missing_ordinary_innings | no_decisive_result,False,True,False
+21407,2023-04-24,New Zealand in Pakistan T20I Series 2023,T20I,New Zealand Won by 6 wickets,247,unresolved_other_extras,False,True,False
+23673,2023-07-14,Afghanistan in Bangladesh T20I Series 2023,T20I,Bangladesh Won by 2 wickets,246,,True,True,True
+23674,2023-07-16,Afghanistan in Bangladesh T20I Series 2023,T20I,Bangladesh Won by 6 Wickets(D/L Method),211,incomplete_first_innings_or_unrecorded_reduction,False,True,False
+24350,2023-08-03,India in West Indies T20I Series 2023,T20I,West Indies Won   by 4 runs,253,run_margin_score_mismatch | unresolved_other_extras,False,True,False
+24351,2023-08-06,India in West Indies T20I Series 2023,T20I,West Indies Won by 2 wickets,240,,True,True,True
+24352,2023-08-08,India in West Indies T20I Series 2023,T20I,India Won by 7 Wickets,235,,True,True,True
+24353,2023-08-12,India in West Indies T20I Series 2023,T20I,India won by 9 wickets,229,,True,True,True
+24354,2023-08-13,India in West Indies T20I Series 2023,T20I,West Indies Won by 8 wickets,238,,True,True,True
+24792,2023-08-17,New Zealand in United Arab Emirates T20I Series 2023,T20I,New Zealand Won by 19 Runs,245,,True,True,True
+24793,2023-08-19,New Zealand in United Arab Emirates T20I Series 2023,T20I,United Arab Emirates Won by 7 Wickets,221,unresolved_other_extras,False,True,False
+24794,2023-08-20,New Zealand in United Arab Emirates T20I Series 2023,T20I,New Zealand Won by 32 Runs,252,,True,True,True
+24822,2023-08-18,India in Ireland T20I Series 2023,T20I,India Won by 2 Runs (DLS method),170,chase_result_score_mismatch | unresolved_other_extras,False,True,False
+24823,2023-08-20,India in Ireland T20I Series 2023,T20I,India Won by 33 Runs,251,,True,True,True
+25158,2023-08-30,New Zealand in England T20I Series 2023,T20I,England won by 7 wickets,214,unresolved_other_extras,False,True,False
+25159,2023-09-01,New Zealand in England T20I Series 2023,T20I,England Won by 95 runs,209,unresolved_other_extras,False,True,False
+25160,2023-09-03,New Zealand in England T20I Series 2023,T20I,New Zealand Won by 74 runs,240,,True,True,True
+25161,2023-09-05,New Zealand in England T20I Series 2023,T20I,New Zealand Won by 6 Wickets,232,,True,True,True
+25155,2023-08-30,Australia in South Africa T20I Series 2023,T20I,Australia Won by 111 Runs,220,,True,True,True
+25156,2023-09-01,Australia in South Africa T20I Series 2023,T20I,Australia won by 8 wickets,215,,True,True,True
+25157,2023-09-03,Australia in South Africa T20I Series 2023,T20I,Australia Won by 5 Wickets,233,unresolved_other_extras,False,True,False
+27060,2023-11-23,Australia in India T20I Series 2023,T20I,India won by 2 wickets,257,,True,True,True
+27061,2023-11-26,Australia in India T20I Series 2023,T20I,India won by 44 runs,258,unresolved_other_extras,False,True,False
+27062,2023-11-28,Australia in India T20I Series 2023,T20I,Australia Won by 5 Wickets,262,,True,True,True
+27063,2023-12-01,Australia in India T20I Series 2023,T20I,India Won by 20 runs,250,,True,True,True
+27064,2023-12-03,Australia in India T20I Series 2023,T20I,India won by 6 runs,244,,True,True,True
+28046,2023-12-12,India in South Africa T20I Series 2023,T20I,South Africa won by 5 wickets (DLS),209,chase_result_score_mismatch | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+28047,2023-12-14,India in South Africa T20I Series 2023,T20I,India won by 106 runs,209,,True,True,True
+28063,2023-12-13,England in West Indies T20I Series 2023,T20I,West Indies Won by 4 Wickets,241,,True,True,True
+28064,2023-12-14,England in West Indies T20I Series 2023,T20I,West Indies won by 10 runs,249,unresolved_other_extras,False,True,False
+28065,2023-12-16,England in West Indies T20I Series 2023,T20I,England Won By 7 Wickets,249,,True,True,True
+28066,2023-12-20,England in West Indies T20I Series 2023,T20I,England Won by 75 Runs,220,,True,True,True
+28067,2023-12-22,England in West Indies T20I Series 2023,T20I,West Indies Won by 4 Wickets,233,,True,True,True
+28332,2023-12-27,Bangladesh in New Zealand T20I Series 2023,T20I,Bangladesh won by 5 wickets,235,,True,True,True
+28333,2023-12-29,Bangladesh in New Zealand T20I Series 2023,T20I,No Result,66,missing_ordinary_innings | no_decisive_result,False,True,False
+28334,2023-12-31,Bangladesh in New Zealand T20I Series 2023,T20I,New Zealand won by 17runs (DLS Method),218,chase_result_score_mismatch,False,True,False
+28960,2024-01-11,Afghanistan in India T20I Series 2024,T20I,India Won by 6 Wickets,233,,True,True,True
+28961,2024-01-14,Afghanistan in India T20I Series 2024,T20I,India Won by 6 Wickets,223,,True,True,True
+28962,2024-01-17,Afghanistan in India T20I Series 2024,T20I,India Won Super Over By 10 Runs,256,run_margin_score_mismatch | unresolved_other_extras,False,True,False
+28963,2024-01-12,Pakistan in New Zealand T20I series 2024,T20I,New Zealand won by 46 runs,239,,True,True,True
+28964,2024-01-14,Pakistan in New Zealand T20I series 2024,T20I,New Zealand Won by 21 Runs,246,dismissed_id_without_wicket,False,True,False
+28965,2024-01-17,Pakistan in New Zealand T20I series 2024,T20I,New Zealand Won by 45 Runs,252,,True,True,True
+28966,2024-01-19,Pakistan in New Zealand T20I series 2024,T20I,New Zealand Won by 7 wickets,239,,True,True,True
+28967,2024-01-21,Pakistan in New Zealand T20I series 2024,T20I,Pakistan Won by 42 Runs,224,,True,True,True
+29815,2024-02-09,West Indies in Australia T20I Series 2024,T20I,Australia Won by 11 runs,251,,True,True,True
+29816,2024-02-11,West Indies in Australia T20I Series 2024,T20I,Australia Won by 34 Runs,255,,True,True,True
+29817,2024-02-13,West Indies in Australia T20I Series 2024,T20I,West Indies Won by 37 runs,250,,True,True,True
+29982,2024-02-21,Australia in New Zealand T20I Series 2024,T20I,Australia Won by 6 wickets,258,,True,True,True
+29983,2024-02-23,Australia in New Zealand T20I Series 2024,T20I,Australia Won by 72 Runs,231,incomplete_defence_or_unrecorded_reduction,False,True,False
+29984,2024-02-25,Australia in New Zealand T20I Series 2024,T20I,Australia Won by 27 Runs (DLS method),129,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+28057,2023-12-07,Ireland in Zimbabwe T20I Series 2023/24,T20I,Zimbabwe Won By 1 Wicket,244,,True,True,True
+28058,2023-12-09,Ireland in Zimbabwe T20I Series 2023/24,T20I,Ireland Won by 4 Wickets,254,unresolved_other_extras,False,True,False
+28059,2023-12-10,Ireland in Zimbabwe T20I Series 2023/24,T20I,Ireland Won By 6 Wickets,241,,True,True,True
+30056,2024-03-22,IPL 2024,IPL,Chennai Super Kings Won by 6 Wickets,249,,True,True,True
+30057,2024-03-23,IPL 2024,IPL,Punjab Kings Won by 4 Wickets,246,,True,True,True
+30058,2024-03-23,IPL 2024,IPL,Kolkata Knight Riders won by 4 runs,250,,True,True,True
+30059,2024-03-24,IPL 2024,IPL,Rajasthan Royals won by 20 runs,251,,True,True,True
+30060,2024-03-24,IPL 2024,IPL,Gujarat Titans won by 6 runs,247,unresolved_other_extras,False,True,False
+30061,2024-03-25,IPL 2024,IPL,Royal Challengers Bengaluru won by 4 wickets,248,,True,True,True
+30062,2024-03-26,IPL 2024,IPL,Chennai Super Kings won by 63 runs,253,,True,True,True
+30063,2024-03-27,IPL 2024,IPL,Sunrisers Hyderabad won by 31 runs,256,unresolved_other_extras,False,True,False
+30064,2024-03-28,IPL 2024,IPL,Rajasthan Royals won by 12 runs,249,,True,True,True
+30065,2024-03-29,IPL 2024,IPL,Kolkata Knight Riders won by 7 wickets,228,,True,True,True
+30066,2024-03-30,IPL 2024,IPL,Lucknow Super Giants won by 21 runs,247,,True,True,True
+30067,2024-03-31,IPL 2024,IPL,Gujarat Titans Won by 7 wickets,241,,True,True,True
+30068,2024-03-31,IPL 2024,IPL,Delhi Capitals Won by 20 runs,256,,True,True,True
+30069,2024-04-01,IPL 2024,IPL,Rajasthan Royals Won by 6 wickets,223,,True,True,True
+30070,2024-04-02,IPL 2024,IPL,Lucknow Super Giants Won by 28 runs,248,,True,True,True
+30071,2024-04-03,IPL 2024,IPL,Kolkata Knight Riders Won by 106 runs,244,unresolved_other_extras,False,True,False
+30072,2024-04-04,IPL 2024,IPL,Punjab Kings Won by 3 wickets,247,,True,True,True
+30073,2024-04-05,IPL 2024,IPL,Sunrisers Hyderabad Won by 6 wickets,232,,True,True,True
+30074,2024-04-06,IPL 2024,IPL,Rajasthan Royals Won by 6 Wickets,243,,True,True,True
+30075,2024-04-07,IPL 2024,IPL,Mumbai Indians Won by 29 runs,251,unresolved_other_extras,False,True,False
+30076,2024-04-07,IPL 2024,IPL,Lucknow Super Giants Won by 33 runs,243,,True,True,True
+31240,2024-04-08,IPL 2024,IPL,Chennai Super Kings Won by 7 wickets,237,,True,True,True
+31241,2024-04-09,IPL 2024,IPL,Sunrisers Hyderabad Won by 2 runs,251,,True,True,True
+31242,2024-04-10,IPL 2024,IPL,Gujarat Titans Won by 3 wickets,255,,True,True,True
+31243,2024-04-11,IPL 2024,IPL,Mumbai Indians Won by 7 wickets,224,,True,True,True
+31244,2024-04-12,IPL 2024,IPL,Delhi Capitals Won by 6 wickets,239,,True,True,True
+31245,2024-04-13,IPL 2024,IPL,Rajasthan Royals Won by 3 wickets,247,,True,True,True
+31246,2024-04-14,IPL 2024,IPL,Kolkata Knight Riders Won by 8 wickets,232,,True,True,True
+31247,2024-04-14,IPL 2024,IPL,Chennai Super Kings Won by 20 runs,249,,True,True,True
+31248,2024-04-15,IPL 2024,IPL,Sunrisers Hyderabad Won by 25 runs,265,,True,True,True
+31249,2024-04-17,IPL 2024,IPL,Delhi Capitals Won by 6 wickets,167,,True,True,True
+31250,2024-04-16,IPL 2024,IPL,Rajasthan Royals Won by 2 wickets,259,,True,True,True
+31251,2024-04-18,IPL 2024,IPL,Mumbai Indians Won by 9 runs,252,,True,True,True
+31252,2024-04-19,IPL 2024,IPL,Lucknow Super Giants Won by 8 wickets,247,unresolved_other_extras,False,True,False
+31253,2024-04-20,IPL 2024,IPL,Sunrisers Hyderabad Won by 67 runs,245,,True,True,True
+31254,2024-04-21,IPL 2024,IPL,Kolkata Knight Riders Won by 1 runs,253,unresolved_other_extras,False,True,False
+31255,2024-04-21,IPL 2024,IPL,Gujarat Titans Won by 3 wickets,239,unresolved_other_extras,False,True,False
+31256,2024-04-22,IPL 2024,IPL,Rajasthan Royals Won by 9 wickets,245,,True,True,True
+31257,2024-04-23,IPL 2024,IPL,Lucknow Super Giants Won by 6 wickets,245,unresolved_other_extras,False,True,False
+31258,2024-04-24,IPL 2024,IPL,Delhi Capitals Won by 4 runs,247,unresolved_other_extras,False,True,False
+31259,2024-04-25,IPL 2024,IPL,Royal Challengers Bengaluru Won by 35 runs,254,,True,True,True
+31260,2024-04-26,IPL 2024,IPL,Punjab Kings Won by 8 wickets,247,,True,True,True
+31261,2024-04-27,IPL 2024,IPL,Delhi Capitals Won by 10 runs,255,,True,True,True
+31262,2024-04-27,IPL 2024,IPL,Rajasthan Royals Won by 7 wickets,244,unresolved_other_extras,False,True,False
+31263,2024-04-28,IPL 2024,IPL,Royal Challengers Bengaluru Won by 9 wickets,230,unresolved_other_extras,False,True,False
+31264,2024-04-28,IPL 2024,IPL,Chennai Super Kings Won by 78 runs,242,unresolved_other_extras,False,True,False
+31265,2024-04-29,IPL 2024,IPL,Kolkata Knight Riders Won by 7 wickets,227,,True,True,True
+31266,2024-04-30,IPL 2024,IPL,Lucknow Super Giants Won by 4 wickets,248,,True,True,True
+31267,2024-05-01,IPL 2024,IPL,Punjab Kings Won by 7 wickets,245,unresolved_other_extras,False,True,False
+31268,2024-05-02,IPL 2024,IPL,Sunrisers Hyderabad Won by 1 runs,260,,True,True,True
+31269,2024-05-03,IPL 2024,IPL,Kolkata Knight Riders Won by 24 runs,243,unresolved_other_extras,False,True,False
+31270,2024-05-04,IPL 2024,IPL,Royal Challengers Bengaluru Won by 4 wickets,204,,True,True,True
+31271,2024-05-05,IPL 2024,IPL,Chennai Super Kings Won by 28 runs,249,,True,True,True
+31272,2024-05-05,IPL 2024,IPL,Kolkata Knight Riders Won by 98 runs,232,,True,True,True
+31273,2024-05-06,IPL 2024,IPL,Mumbai Indians Won by 7 wickets,239,unresolved_other_extras,False,True,False
+31274,2024-05-07,IPL 2024,IPL,Delhi Capitals Won by 20 runs,252,,True,True,True
+31275,2024-05-08,IPL 2024,IPL,Sunrisers Hyderabad Won by 10 wickets,183,,True,True,True
+31276,2024-05-09,IPL 2024,IPL,Royal Challengers Bengaluru Won by 60 runs,232,,True,True,True
+31277,2024-05-10,IPL 2024,IPL,Gujarat Titans Won by 35 runs,249,,True,True,True
+31278,2024-05-11,IPL 2024,IPL,Kolkata Knight Riders Won by 18 runs,201,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction,False,True,False
+31279,2024-05-12,IPL 2024,IPL,Chennai Super Kings Won by 5 wickets,239,,True,True,True
+31280,2024-05-12,IPL 2024,IPL,Royal Challengers Bengaluru Won by 47 runs,247,,True,True,True
+31281,2024-05-13,IPL 2024,IPL,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+31282,2024-05-14,IPL 2024,IPL,Delhi Capitals Won by 19 runs,253,,True,True,True
+31283,2024-05-15,IPL 2024,IPL,Punjab Kings Won by 5 wickets,235,,True,True,True
+31284,2024-05-16,IPL 2024,IPL,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+31285,2024-05-17,IPL 2024,IPL,Lucknow Super Giants Won by 18 runs,259,,True,True,True
+31286,2024-05-18,IPL 2024,IPL,Royal Challengers Bengaluru Won by 27 runs,253,unresolved_other_extras,False,True,False
+31287,2024-05-19,IPL 2024,IPL,Sunrisers Hyderabad Won by 4 wickets,247,,True,True,True
+31288,2024-05-19,IPL 2024,IPL,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+31289,2024-05-21,IPL 2024,IPL,Kolkata Knight Riders Won by 8 wickets,208,,True,True,True
+31290,2024-05-22,IPL 2024,IPL,Rajasthan Royals Won by 4 wickets,241,,True,True,True
+31291,2024-05-24,IPL 2024,IPL,Sunrisers Hyderabad Won by 36 runs,251,,True,True,True
+31292,2024-05-26,IPL 2024,IPL,Kolkata Knight Riders Won by 8 wickets,184,,True,True,True
+28957,2024-01-14,Zimbabwe in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won By 3 Wickets,245,unresolved_other_extras,False,True,False
+28958,2024-01-16,Zimbabwe in Sri Lanka T20I Series 2024,T20I,Zimbabwe Won by 4 Wickets,249,,True,True,True
+28959,2024-01-18,Zimbabwe in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 9 Wickets,150,,True,True,True
+29924,2024-02-17,Afghanistan in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 4 runs,244,,True,True,True
+29925,2024-02-19,Afghanistan in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 72 Runs,232,,True,True,True
+29926,2024-02-21,Afghanistan in Sri Lanka T20I Series 2024,T20I,Afghanistan won by 3 runs,251,dismissed_id_without_wicket,False,True,False
+30728,2024-03-15,Afghanistan v Ireland T20I Series 2024,T20I,Ireland won by 38 runs,241,,True,True,True
+30729,2024-03-17,Afghanistan v Ireland T20I Series 2024,T20I,Afghanistan Won By 10Runs,249,run_margin_score_mismatch,False,True,False
+30730,2024-03-18,Afghanistan v Ireland T20I Series 2024,T20I,Afghanistan won by 57 runs,233,,True,True,True
+30341,2024-03-04,Sri Lanka in Bangladesh T20I Series 2024,T20I,Sri Lanka won by 3 runs,263,,True,True,True
+30342,2024-03-06,Sri Lanka in Bangladesh T20I Series 2024,T20I,Bangladesh won by 8 wickets,241,,True,True,True
+30343,2024-03-09,Sri Lanka in Bangladesh T20I Series 2024,T20I,Sri Lanka won by 28 runs,247,,True,True,True
+31707,2024-04-18,New Zealand in Pakistan T20I Series 2024,T20I,No Result,2,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+31708,2024-04-20,New Zealand in Pakistan T20I Series 2024,T20I,Pakistan Won by 7 wickets,184,,True,True,True
+31709,2024-04-21,New Zealand in Pakistan T20I Series 2024,T20I,New Zealand Won by 7 wickets,243,dismissed_id_without_wicket | unresolved_other_extras,False,True,False
+31710,2024-04-25,New Zealand in Pakistan T20I Series 2024,T20I,New Zealand Won by 4 runs,260,,True,True,True
+31711,2024-04-27,New Zealand in Pakistan T20I Series 2024,T20I,Pakistan Won by 9 runs,254,,True,True,True
+32610,2024-05-22,Pakistan in England T20I Series 2024,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+32611,2024-05-25,Pakistan in England T20I Series 2024,T20I,England Won by 23 runs,242,,True,True,True
+32612,2024-05-28,Pakistan in England T20I Series 2024,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+32613,2024-05-30,Pakistan in England T20I Series 2024,T20I,England Won by 7 wickets,219,,True,True,True
+32132,2024-05-03,Zimbabwe in Bangladesh T20I Series 2024,T20I,Bangladesh Won by 8 wickets,219,,True,True,True
+32133,2024-05-05,Zimbabwe in Bangladesh T20I Series 2024,T20I,Bangladesh Won by 6 wickets,238,unresolved_other_extras,False,True,False
+32134,2024-05-07,Zimbabwe in Bangladesh T20I Series 2024,T20I,Bangladesh Won by 9 runs,254,unresolved_other_extras,False,True,False
+32135,2024-05-10,Zimbabwe in Bangladesh T20I Series 2024,T20I,Bangladesh Won by 5 runs,246,,True,True,True
+32136,2024-05-12,Zimbabwe in Bangladesh T20I Series 2024,T20I,Zimbabwe Won by 8 wickets,241,unresolved_other_extras,False,True,False
+33803,2024-07-06,India in Zimbabwe T20I Series 2024,T20I,Zimbabwe Won by 13 runs,243,,True,True,True
+33804,2024-07-07,India in Zimbabwe T20I Series 2024,T20I,India Won by 100 runs,243,,True,True,True
+33805,2024-07-10,India in Zimbabwe T20I Series 2024,T20I,India Won by 23 runs,244,,True,True,True
+33806,2024-07-13,India in Zimbabwe T20I Series 2024,T20I,India Won by 10 wickets,220,unresolved_other_extras,False,True,False
+33807,2024-07-14,India in Zimbabwe T20I Series 2024,T20I,India Won by 42 runs,243,unresolved_other_extras,False,True,False
+37354,2024-11-14,Pakistan in Australia T20I Series 2024,T20I,Australia Won by 29 runs,86,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+37355,2024-11-16,Pakistan in Australia T20I Series 2024,T20I,Australia Won by 13 runs,250,,True,True,True
+37356,2024-11-18,Pakistan in Australia T20I Series 2024,T20I,Australia Won by 7 wickets,184,unresolved_other_extras,False,True,False
+32290,2024-05-10,Pakistan in Ireland T20I series 2024,T20I,Ireland Won by 5 wickets,251,,True,True,True
+32291,2024-05-12,Pakistan in Ireland T20I series 2024,T20I,Pakistan Won by 7 wickets,228,unresolved_other_extras,False,True,False
+32292,2024-05-14,Pakistan in Ireland T20I series 2024,T20I,Pakistan Won by 6 wickets,234,,True,True,True
+32620,2024-05-18,Netherlands Tri-Nation T20I Series 2024,T20I,Netherlands Won by 41 runs,237,unresolved_other_extras,False,True,False
+32621,2024-05-19,Netherlands Tri-Nation T20I Series 2024,T20I,Ireland Won by 1 runs,249,,True,True,True
+32622,2024-05-20,Netherlands Tri-Nation T20I Series 2024,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+32623,2024-05-22,Netherlands Tri-Nation T20I Series 2024,T20I,Scotland Won by 71 runs,219,unresolved_other_extras,False,True,False
+32624,2024-05-23,Netherlands Tri-Nation T20I Series 2024,T20I,Ireland Won by 5 wickets,243,,True,True,True
+32625,2024-05-24,Netherlands Tri-Nation T20I Series 2024,T20I,Ireland Won by 3 runs,243,,True,True,True
+38795,2024-12-10,Pakistan in South Africa T20I Series 2024,T20I,South Africa Won by 11 runs,251,,True,True,True
+38796,2024-12-13,Pakistan in South Africa T20I Series 2024,T20I,South Africa Won by 7 wickets,255,unresolved_other_extras,False,True,False
+38797,2024-12-14,Pakistan in South Africa T20I Series 2024,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+32617,2024-05-24,South Africa in West Indies T20I Series [May 2024] 2024,T20I,West Indies Won by 28 runs,248,,True,True,True
+32618,2024-05-26,South Africa in West Indies T20I Series [May 2024] 2024,T20I,West Indies Won by 16 runs,255,unresolved_other_extras,False,True,False
+32619,2024-05-27,South Africa in West Indies T20I Series [May 2024] 2024,T20I,West Indies Won by 8 wickets,211,,True,True,True
+36096,2024-08-24,South Africa in West Indies T20I Series 2024,T20I,West Indies Won by 7 wickets,241,unresolved_other_extras,False,True,False
+36097,2024-08-26,South Africa in West Indies T20I Series 2024,T20I,West Indies Won by 30 runs,247,extras_label_contradiction,False,True,False
+36098,2024-08-28,South Africa in West Indies T20I Series 2024,T20I,West Indies Won by 8 wickets (DLS),141,incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+37349,2024-11-10,England in West Indies T20I Series 2024,T20I,England Won by 8 wickets,229,,True,True,True
+37350,2024-11-11,England in West Indies T20I Series 2024,T20I,England Won by 7 wickets,226,,True,True,True
+37351,2024-11-15,England in West Indies T20I Series 2024,T20I,England Won by 3 wickets,244,,True,True,True
+37352,2024-11-17,England in West Indies T20I Series 2024,T20I,West Indies Won by 5 wickets,244,,True,True,True
+37353,2024-11-18,England in West Indies T20I Series 2024,T20I,No Result,30,missing_ordinary_innings | no_decisive_result,False,True,False
+38842,2024-12-16,Bangladesh in West Indies T20I Series 2024,T20I,Bangladesh Won by 7 runs,251,,True,True,True
+38843,2024-12-18,Bangladesh in West Indies T20I Series 2024,T20I,Bangladesh Won by 27 runs,239,,True,True,True
+38844,2024-12-20,Bangladesh in West Indies T20I Series 2024,T20I,Bangladesh Won by 80 runs,228,,True,True,True
+37276,2024-10-06,Bangladesh in India T20I Series 2024,T20I,India Won by 7 wickets,193,,True,True,True
+37277,2024-10-09,Bangladesh in India T20I Series 2024,T20I,India Won by 86 runs,248,unresolved_other_extras,False,True,False
+37278,2024-10-12,Bangladesh in India T20I Series 2024,T20I,India Won by 133 runs,253,unresolved_other_extras,False,True,False
+40036,2025-01-22,England in India T20I Series 2025,T20I,India Won by 7 wickets,203,,True,True,True
+40037,2025-01-25,England in India T20I Series 2025,T20I,India Won by 2 wickets,243,,True,True,True
+40038,2025-01-28,England in India T20I Series 2025,T20I,England Won by 26 runs,251,unresolved_other_extras,False,True,False
+40039,2025-01-31,England in India T20I Series 2025,T20I,India Won by 15 runs,246,unresolved_other_extras,False,True,False
+40040,2025-02-02,England in India T20I Series 2025,T20I,India Won by 150 runs,188,,True,True,True
+34427,2024-07-27,India in Sri Lanka T20I Series 2024,T20I,India Won by 43 runs,242,,True,True,True
+34428,2024-07-28,India in Sri Lanka T20I Series 2024,T20I,India Won by 7 wickets(D/L Method),168,chase_result_score_mismatch | revised_allocation_or_target_timing_unverified,False,True,False
+34429,2024-07-30,India in Sri Lanka T20I Series 2024,T20I,India Tied with Srilanka (India Won the Super Over by 2 wickets),257,extra_innings_separate_analysis | run_margin_score_mismatch,False,True,False
+36562,2024-09-11,Australia in England T20I Series 2024,T20I,Australia Won by 28 runs,245,unresolved_other_extras,False,True,False
+36563,2024-09-13,Australia in England T20I Series 2024,T20I,England Won by 3 wickets,244,,True,True,True
+36564,2024-09-15,Australia in England T20I Series 2024,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+36559,2024-09-04,Australia in Scotland T20I Series 2024,T20I,Australia Won by 7 wickets,182,,True,True,True
+36560,2024-09-06,Australia in Scotland T20I Series 2024,T20I,Australia Won by 70 runs,228,unresolved_other_extras,False,True,False
+36561,2024-09-07,Australia in Scotland T20I Series 2024,T20I,Australia Won by 6 wickets,225,,True,True,True
+37014,2024-09-27,Ireland v South Africa T20I Series 2024,T20I,South Africa Won by 8 wickets,239,unresolved_other_extras,False,True,False
+37015,2024-09-29,Ireland v South Africa T20I Series 2024,T20I,Ireland Won by 10 runs,258,,True,True,True
+35423,2024-08-23,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,Netherlands Won by 5 wickets,231,,True,True,True
+35424,2024-08-24,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,No Result,125,missing_ordinary_innings | no_decisive_result,False,True,False
+35425,2024-08-25,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,Netherlands Won by 102 runs,217,,True,True,True
+35427,2024-08-26,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,Canada Won by 8 runs,252,,True,True,True
+35428,2024-08-27,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,United States Of America Won by 20 runs,244,,True,True,True
+35429,2024-08-28,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,Netherlands Won by 4 runs,237,,True,True,True
+36199,2025-06-06,West Indies in England T20I Series 2025,T20I,England Won by 21 runs,267,,True,True,True
+36200,2025-06-08,West Indies in England T20I Series 2025,T20I,England Won by 4 wickets,245,unresolved_other_extras,False,True,False
+36201,2025-06-10,West Indies in England T20I Series 2025,T20I,England Won by 37 runs,252,unresolved_other_extras,False,True,False
+36208,2025-09-10,South Africa in England T20I Series 2025,T20I,South Africa Won by 14 runs(DLS method),80,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+36209,2025-09-12,South Africa in England T20I Series 2025,T20I,England Won by 146 runs,232,,True,True,True
+36210,2025-09-14,South Africa in England T20I Series 2025,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+37085,2024-10-18,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Bangladesh A Won by 5 wickets,236,,True,False,False
+37086,2024-10-18,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Afghanistan A Won by 11 runs,244,,True,False,False
+37087,2024-10-19,Mens T20 Emerging Teams Asia Cup 2024,Other T20,United Arab Emirates Won by 4 wickets,241,,True,False,False
+37088,2024-10-19,Mens T20 Emerging Teams Asia Cup 2024,Other T20,India A Won by 7 runs,250,unresolved_other_extras,False,False,False
+37089,2024-10-20,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Sri Lanka A Won by 42 runs,244,,True,False,False
+37090,2024-10-20,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Afghanistan A Won by 4 wickets,244,unresolved_other_extras,False,False,False
+37091,2024-10-21,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Pakistan A Won by 74 runs,254,,True,False,False
+37092,2024-10-21,Mens T20 Emerging Teams Asia Cup 2024,Other T20,India A Won by 7 wickets,172,,True,False,False
+37093,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Hong Kong Won by 5 wickets,239,unresolved_other_extras,False,False,False
+37094,2024-10-22,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Sri Lanka A Won by 19 runs,247,dismissed_id_without_wicket,False,False,False
+37095,2024-10-23,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Pakistan A Won by 114 runs,226,,True,False,False
+37096,2024-10-23,Mens T20 Emerging Teams Asia Cup 2024,Other T20,India A Won by 6 wickets,216,,True,False,False
+37097,2024-10-25,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Sri Lanka A Won by 7 wickets,226,,True,False,False
+37098,2024-10-25,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Afghanistan A Won by 20 runs,246,,True,False,False
+37099,2024-10-27,Mens T20 Emerging Teams Asia Cup 2024,Other T20,Afghanistan A Won by 7 wickets,234,batter_runs_on_nonbat_extras,False,False,False
+37553,2024-10-13,West Indies in Sri Lanka T20I Series 2024,T20I,West Indies Won by 5 wickets,246,,True,True,True
+37554,2024-10-15,West Indies in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 73 runs,225,,True,True,True
+37555,2024-10-17,West Indies in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 9 wickets,234,,True,True,True
+37894,2024-11-09,New Zealand in Sri Lanka T20I Series 2024,T20I,Sri Lanka Won by 4 wickets,239,,True,True,True
+37895,2024-11-10,New Zealand in Sri Lanka T20I Series 2024,T20I,New Zealand Won by 5 runs,246,unresolved_other_extras,False,True,False
+37940,2024-11-08,India in South Africa T20I Series 2024,T20I,India Won by 61 runs,241,unresolved_other_extras,False,True,False
+37941,2024-11-10,India in South Africa T20I Series 2024,T20I,South Africa Won by 3 wickets,246,,True,True,True
+37942,2024-11-13,India in South Africa T20I Series 2024,T20I,India Won by 11 runs,254,,True,True,True
+37943,2024-11-15,India in South Africa T20I Series 2024,T20I,India Won by 135 runs,249,unresolved_other_extras,False,True,False
+37926,2024-12-01,Pakistan in Zimbabwe T20I Series 2024,T20I,Pakistan Won by 57 runs,217,,True,True,True
+37927,2024-12-03,Pakistan in Zimbabwe T20I Series 2024,T20I,Pakistan Won by 10 wickets,110,,True,True,True
+37928,2024-12-05,Pakistan in Zimbabwe T20I Series 2024,T20I,Zimbabwe Won by 2 wickets,247,,True,True,True
+40694,2025-03-22,IPL 2025,IPL,Royal Challengers Bengaluru Won by 7 wickets,223,,True,True,True
+40695,2025-03-23,IPL 2025,IPL,Sunrisers Hyderabad Won by 44 runs,262,unresolved_other_extras,False,True,False
+40696,2025-03-23,IPL 2025,IPL,Chennai Super Kings Won by 4 wickets,243,,True,True,True
+40697,2025-03-24,IPL 2025,IPL,Delhi Capitals Won by 1 wickets,246,unresolved_other_extras,False,True,False
+40698,2025-03-25,IPL 2025,IPL,Punjab Kings Won by 11 runs,254,,True,True,True
+40699,2025-03-26,IPL 2025,IPL,Kolkata Knight Riders Won by 8 wickets,234,,True,True,True
+40700,2025-03-27,IPL 2025,IPL,Lucknow Super Giants Won by 5 wickets,233,,True,True,True
+40701,2025-03-28,IPL 2025,IPL,Royal Challengers Bengaluru Won by 50 runs,250,,True,True,True
+40702,2025-03-29,IPL 2025,IPL,Gujarat Titans Won by 36 runs,257,,True,True,True
+40703,2025-03-30,IPL 2025,IPL,Delhi Capitals Won by 7 wickets,217,,True,True,True
+40704,2025-03-30,IPL 2025,IPL,Rajasthan Royals Won by 6 runs,250,,True,True,True
+40705,2025-03-31,IPL 2025,IPL,Mumbai Indians Won by 8 wickets,182,unresolved_other_extras,False,True,False
+40706,2025-04-01,IPL 2025,IPL,Punjab Kings Won by 8 wickets,225,,True,True,True
+40707,2025-04-02,IPL 2025,IPL,Gujarat Titans Won by 8 wickets,231,,True,True,True
+40708,2025-04-03,IPL 2025,IPL,Kolkata Knight Riders Won by 80 runs,228,,True,True,True
+40709,2025-04-04,IPL 2025,IPL,Lucknow Super Giants Won by 12 runs,252,incomplete_wicket | unknown_dismissed_player,False,True,False
+40710,2025-04-05,IPL 2025,IPL,Delhi Capitals Won by 25 runs,251,,True,True,True
+40711,2025-04-05,IPL 2025,IPL,Rajasthan Royals Won by 50 runs,253,,True,True,True
+40712,2025-04-08,IPL 2025,IPL,Lucknow Super Giants Won by 4 runs,264,,True,True,True
+40713,2025-04-06,IPL 2025,IPL,Gujarat Titans Won by 7 wickets,225,,True,True,True
+40714,2025-04-07,IPL 2025,IPL,Royal Challengers Bengaluru Won by 12 runs,253,,True,True,True
+40715,2025-04-08,IPL 2025,IPL,Punjab Kings Won by 18 runs,253,,True,True,True
+40716,2025-04-09,IPL 2025,IPL,Gujarat Titans Won by 58 runs,260,,True,True,True
+40717,2025-04-10,IPL 2025,IPL,Delhi Capitals Won by 6 wickets,236,,True,True,True
+40718,2025-04-11,IPL 2025,IPL,Kolkata Knight Riders Won by 8 wickets,189,,True,True,True
+40719,2025-04-12,IPL 2025,IPL,Lucknow Super Giants Won by 6 wickets,249,,True,True,True
+40720,2025-04-12,IPL 2025,IPL,Sunrisers Hyderabad Won by 8 wickets,248,,True,True,True
+40721,2025-04-13,IPL 2025,IPL,Royal Challengers Bengaluru Won by 9 wickets,233,,True,True,True
+40722,2025-04-13,IPL 2025,IPL,Mumbai Indians Won by 12 runs,243,,True,True,True
+40723,2025-04-14,IPL 2025,IPL,Chennai Super Kings Won by 5 wickets,254,unresolved_other_extras,False,True,False
+40724,2025-04-15,IPL 2025,IPL,Punjab Kings Won by 16 runs,188,,True,True,True
+40725,2025-04-16,IPL 2025,IPL,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over),262,dismissed_id_without_wicket | extra_innings_separate_analysis | run_margin_score_mismatch | unresolved_other_extras,False,True,False
+40726,2025-04-17,IPL 2025,IPL,Mumbai Indians Won by 4 wickets,242,unresolved_other_extras,False,True,False
+40727,2025-04-18,IPL 2025,IPL,Punjab Kings Won by 5 wickets,160,incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+40728,2025-04-19,IPL 2025,IPL,Gujarat Titans Won by 7 wickets,250,,True,True,True
+40729,2025-04-19,IPL 2025,IPL,Lucknow Super Giants Won by 2 runs,246,,True,True,True
+40730,2025-04-20,IPL 2025,IPL,Royal Challengers Bengaluru Won by 7 wickets,237,,True,True,True
+40731,2025-04-20,IPL 2025,IPL,Mumbai Indians Won by 9 wickets,228,,True,True,True
+40732,2025-04-21,IPL 2025,IPL,Gujarat Titans Won by 39 runs,249,,True,True,True
+40733,2025-04-22,IPL 2025,IPL,Delhi Capitals Won by 8 wickets,231,,True,True,True
+40734,2025-04-23,IPL 2025,IPL,Mumbai Indians Won by 7 wickets,218,,True,True,True
+40735,2025-04-24,IPL 2025,IPL,Royal Challengers Bengaluru Won by 11 runs,253,,True,True,True
+40736,2025-04-25,IPL 2025,IPL,Sunrisers Hyderabad Won by 5 wickets,244,unresolved_other_extras,False,True,False
+40737,2025-04-26,IPL 2025,IPL,No Result,130,no_decisive_result,False,True,False
+40738,2025-04-27,IPL 2025,IPL,Mumbai Indians Won by 54 runs,251,,True,True,True
+40739,2025-04-27,IPL 2025,IPL,Royal Challengers Bengaluru Won by 6 wickets,238,unresolved_other_extras,False,True,False
+40740,2025-04-28,IPL 2025,IPL,Rajasthan Royals Won by 8 wickets,227,,True,True,True
+40741,2025-04-29,IPL 2025,IPL,Kolkata Knight Riders Won by 14 runs,257,,True,True,True
+40742,2025-04-30,IPL 2025,IPL,Punjab Kings Won by 4 wickets,249,,True,True,True
+40743,2025-05-01,IPL 2025,IPL,Mumbai Indians Won by 100 runs,226,,True,True,True
+40744,2025-05-02,IPL 2025,IPL,Gujarat Titans Won by 38 runs,250,,True,True,True
+40745,2025-05-03,IPL 2025,IPL,Royal Challengers Bengaluru Won by 2 runs,246,unresolved_other_extras,False,True,False
+40746,2025-05-04,IPL 2025,IPL,Kolkata Knight Riders Won by 1 run,252,,True,True,True
+40747,2025-05-04,IPL 2025,IPL,Punjab Kings Won by 37 runs,253,,True,True,True
+40748,2025-05-05,IPL 2025,IPL,No Result,123,missing_ordinary_innings | no_decisive_result,False,True,False
+40749,2025-05-06,IPL 2025,IPL,Gujarat Titans Won by 3 wickets (DLS Method),244,chase_result_score_mismatch | revised_allocation_or_target_timing_unverified,False,True,False
+40750,2025-05-07,IPL 2025,IPL,Chennai Super Kings Won by 2 wickets,244,,True,True,True
+40751,2025-05-08,IPL 2025,IPL,No Result,63,missing_ordinary_innings | no_decisive_result,False,True,False
+40752,2025-05-27,IPL 2025,IPL,Royal Challengers Bengaluru Won by 6 wickets,244,unresolved_other_extras,False,True,False
+40753,2025-05-25,IPL 2025,IPL,Sunrisers Hyderabad Won by 110 runs,247,,True,True,True
+40754,2025-05-26,IPL 2025,IPL,Punjab Kings Won by 7 wickets,245,,True,True,True
+40755,2025-05-18,IPL 2025,IPL,Gujarat Titans Won by 10 wickets,241,,True,True,True
+40756,2025-05-20,IPL 2025,IPL,Rajasthan Royals Won by 6 wickets,236,,True,True,True
+40757,2025-05-23,IPL 2025,IPL,Sunrisers Hyderabad Won by 42 runs,247,unresolved_other_extras,False,True,False
+40758,2025-05-22,IPL 2025,IPL,Lucknow Super Giants Won by 33 runs,254,unresolved_other_extras,False,True,False
+40759,2025-05-21,IPL 2025,IPL,Mumbai Indians Won by 59 runs,232,unresolved_other_extras,False,True,False
+40760,2025-05-18,IPL 2025,IPL,Punjab Kings Won by 10 runs,248,,True,True,True
+40761,2025-05-17,IPL 2025,IPL,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+40762,2025-05-25,IPL 2025,IPL,Chennai Super Kings Won by 83 runs,242,,True,True,True
+40763,2025-05-19,IPL 2025,IPL,Sunrisers Hyderabad Won by 6 wickets,250,dismissed_id_without_wicket | unresolved_other_extras,False,True,False
+40764,2025-05-29,IPL 2025,IPL,Royal Challengers Bengaluru Won by 8 wickets,147,,True,True,True
+40765,2025-05-30,IPL 2025,IPL,Mumbai Indians Won by 20 runs,248,,True,True,True
+40766,2025-06-01,IPL 2025,IPL,Punjab Kings Won by 5 wickets,244,unresolved_other_extras,False,True,False
+40767,2025-06-03,IPL 2025,IPL,Royal Challengers Bengaluru Won by 6 runs,252,,True,True,True
+43057,2025-05-24,IPL 2025,IPL,Delhi Capitals Won by 6 wickets,249,,True,True,True
+38626,2024-12-09,Afghanistan in Zimbabwe T20I Series 2024,T20I,Zimbabwe Won by 4 wickets,254,,True,True,True
+38627,2024-12-11,Afghanistan in Zimbabwe T20I Series 2024,T20I,Afghanistan Won by 50 runs,233,,True,True,True
+38628,2024-12-12,Afghanistan in Zimbabwe T20I Series 2024,T20I,Afghanistan Won by 3 wickets,253,,True,True,True
+38632,2024-12-28,Sri Lanka in New Zealand T20I Series 2024/25,T20I,New Zealand Won by 8 runs,250,unresolved_other_extras,False,True,False
+38633,2024-12-30,Sri Lanka in New Zealand T20I Series 2024/25,T20I,New Zealand Won by 45 runs,251,,True,True,True
+38634,2025-01-02,Sri Lanka in New Zealand T20I Series 2024/25,T20I,Sri Lanka Won by 7 runs,253,,True,True,True
+39808,2025-03-16,Pakistan in New Zealand T20I Series 2025,T20I,New Zealand Won by 9 wickets,177,,True,True,True
+39809,2025-03-18,Pakistan in New Zealand T20I Series 2025,T20I,New Zealand Won by 5 wickets,176,incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | unresolved_other_extras,False,True,False
+39810,2025-03-21,Pakistan in New Zealand T20I Series 2025,T20I,Pakistan Won by 9 wickets,224,,True,True,True
+39811,2025-03-23,Pakistan in New Zealand T20I Series 2025,T20I,New Zealand Won by 115 runs,234,,True,True,True
+39812,2025-03-26,Pakistan in New Zealand T20I Series 2025,T20I,New Zealand Won by 8 wickets,189,,True,True,True
+39983,2025-02-22,Ireland in Zimbabwe T20I Series 2025,T20I,No Result,56,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+39984,2025-02-23,Ireland in Zimbabwe T20I Series 2025,T20I,Zimbabwe Won by 3 wickets,243,,True,True,True
+39985,2025-02-25,Ireland in Zimbabwe T20I Series 2025,T20I,No Result,113,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified | unresolved_other_extras,False,True,False
+41502,2025-06-12,West Indies in Ireland T20I Series 2025,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+41503,2025-06-14,West Indies in Ireland T20I Series 2025,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+41504,2025-06-15,West Indies in Ireland T20I Series 2025,T20I,West Indies Won by 62 runs,257,,True,True,True
+41505,2025-07-20,Australia in West Indies T20I Series 2025,T20I,Australia Won by 3 wickets,238,,True,True,True
+41506,2025-07-22,Australia in West Indies T20I Series 2025,T20I,Australia Won by 8 wickets,224,,True,True,True
+41507,2025-07-25,Australia in West Indies T20I Series 2025,T20I,Australia Won By 6 Wickets,231,,True,True,True
+41508,2025-07-26,Australia in West Indies T20I Series 2025,T20I,Australia Won by 3 wickets,261,unresolved_other_extras,False,True,False
+41509,2025-07-28,Australia in West Indies T20I Series 2025,T20I,Australia Won by 3 wickets,231,bowler_quota_requires_review | over_count_requires_review | unresolved_other_extras,False,True,False
+41510,2025-07-31,Pakistan in West Indies T20I Series 2025,T20I,Pakistan Won by 14 runs,256,,True,True,True
+41511,2025-08-02,Pakistan in West Indies T20I Series 2025,T20I,West Indies Won by 2 wickets,252,,True,True,True
+41512,2025-08-03,Pakistan in West Indies T20I Series 2025,T20I,Pakistan Won by 13 runs,255,,True,True,True
+41849,2026-01-27,West Indies in South Africa T20I Series 2026,T20I,South Africa Won by 9 wickets,237,,True,True,True
+41850,2026-01-29,West Indies in South Africa T20I Series 2026,T20I,South Africa Won by 7 wickets,238,unresolved_other_extras,False,True,False
+41851,2026-02-01,West Indies in South Africa T20I Series 2026,T20I,West Indies Won by 6 runs(DLS Method),121,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+41969,2025-08-10,South Africa in Australia T20I Series 2025,T20I,Australia Won by 17 runs,251,unresolved_other_extras,False,True,False
+41970,2025-08-12,South Africa in Australia T20I Series 2025,T20I,South Africa Won by 53 runs,242,unresolved_other_extras,False,True,False
+41971,2025-08-16,South Africa in Australia T20I Series 2025,T20I,Australia Won by 2 wickets,246,unresolved_other_extras,False,True,False
+41975,2025-10-29,India in Australia T20I Series 2025,T20I,No Result,60,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+41976,2025-10-31,India in Australia T20I Series 2025,T20I,Australia Won by 4 wickets,196,,True,True,True
+41977,2025-11-02,India in Australia T20I Series 2025,T20I,India Won by 5 wickets,236,,True,True,True
+41978,2025-11-06,India in Australia T20I Series 2025,T20I,India Won by 48 runs,237,,True,True,True
+41979,2025-11-08,India in Australia T20I Series 2025,T20I,No Result,29,missing_ordinary_innings | no_decisive_result,False,True,False
+42027,2025-12-09,South Africa in India T20I Series 2025,T20I,India Won by 101 runs,201,,True,True,True
+42028,2025-12-11,South Africa in India T20I Series 2025,T20I,South Africa Won by 51 runs,251,,True,True,True
+42029,2025-12-14,South Africa in India T20I Series 2025,T20I,India Won by 7 wickets,217,,True,True,True
+42030,2025-12-17,South Africa in India T20I Series 2025,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+42031,2025-12-19,South Africa in India T20I Series 2025,T20I,India Won by 30 runs,256,,True,True,True
+42742,2025-05-28,Bangladesh in Pakistan T20I Series 2025,T20I,Pakistan Won by 37 runs,241,,True,True,True
+42743,2025-05-30,Bangladesh in Pakistan T20I Series 2025,T20I,Pakistan Won by 57 runs,240,incomplete_defence_or_unrecorded_reduction | unresolved_other_extras,False,True,False
+42744,2025-06-01,Bangladesh in Pakistan T20I Series 2025,T20I,Pakistan Won by 7 wickets,231,unresolved_other_extras,False,True,False
+42783,2025-05-17,Bangladesh in United Arab Emirates T20I Series 2025,T20I,Bangladesh Won by 27 runs,251,,True,True,True
+42784,2025-05-19,Bangladesh in United Arab Emirates T20I Series 2025,T20I,United Arab Emirates Won by 2 wickets,254,unresolved_other_extras,False,True,False
+43171,2025-05-21,Bangladesh in United Arab Emirates T20I Series 2025,T20I,United Arab Emirates Won by 7 wickets,247,unresolved_other_extras,False,True,False
+43592,2025-07-10,Bangladesh in Sri Lanka T20I Series 2025,T20I,Sri Lanka Won by 7 wickets,235,,True,True,True
+43594,2025-07-13,Bangladesh in Sri Lanka T20I Series 2025,T20I,Bangladesh Won by 83 runs,218,,True,True,True
+43595,2025-07-16,Bangladesh in Sri Lanka T20I Series 2025,T20I,Bangladesh Won by 8 wickets,222,,True,True,True
+44265,2025-07-20,Pakistan in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 7 wickets,215,,True,True,True
+44266,2025-07-22,Pakistan in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 8 runs,242,unresolved_other_extras,False,True,False
+44267,2025-07-24,Pakistan in Bangladesh T20I Series 2025,T20I,Pakistan Won by 74 runs,233,,True,True,True
+45390,2026-07-01,India in England T20I Series 2026,T20I,No Result,122,missing_ordinary_innings | no_decisive_result,False,True,False
+45391,2026-07-04,India in England T20I Series 2026,T20I,England Won by 4 wickets,246,unresolved_other_extras,False,True,False
+45392,2026-07-07,India in England T20I Series 2026,T20I,England Won by 125 runs,195,,True,True,True
+45393,2026-07-09,India in England T20I Series 2026,T20I,England Won by 9 wickets,213,,True,True,True
+45394,2026-07-11,India in England T20I Series 2026,T20I,England Won by 56 runs,256,unresolved_other_extras,False,True,False
+45489,2026-09-15,Sri Lanka in England T20I Series 2026,T20I,England Won by 119 runs,248,,True,True,True
+45490,2026-09-17,Sri Lanka in England T20I Series 2026,T20I,England Won by 6 wickets,200,,True,True,True
+45491,2026-09-19,Sri Lanka in England T20I Series 2026,T20I,England Won by 8 wickets,184,,True,True,True
+45495,2025-09-09,Asia Cup 2025,T20I,Afghanistan Won by 94 runs,253,,True,True,True
+45496,2025-09-10,Asia Cup 2025,T20I,India Won by 9 wickets,111,,True,True,True
+45497,2025-09-11,Asia Cup 2025,T20I,Bangladesh Won by 7 wickets,238,,True,True,True
+45498,2025-09-12,Asia Cup 2025,T20I,Pakistan Won by 93 runs,225,,True,True,True
+45499,2025-09-13,Asia Cup 2025,T20I,Sri Lanka Won by 6 wickets,220,,True,True,True
+45500,2025-09-14,Asia Cup 2025,T20I,India Won by 7 wickets,219,,True,True,True
+45501,2025-09-15,Asia Cup 2025,T20I,United Arab Emirates Won by 42 runs,247,,True,True,True
+45502,2025-09-15,Asia Cup 2025,T20I,Sri Lanka Won by 4 wickets,239,,True,True,True
+45503,2025-09-16,Asia Cup 2025,T20I,Bangladesh Won by 8 runs,245,,True,True,True
+45504,2025-09-17,Asia Cup 2025,T20I,Pakistan Won by 41 runs,238,,True,True,True
+45505,2025-09-18,Asia Cup 2025,T20I,Sri Lanka Won by 6 wickets,240,,True,True,True
+45506,2025-09-19,Asia Cup 2025,T20I,India Won by 21 runs,252,,True,True,True
+45507,2025-09-20,Asia Cup 2025,T20I,Bangladesh Won by 4 wickets,243,,True,True,True
+45508,2025-09-21,Asia Cup 2025,T20I,India Won by 6 wickets,245,unresolved_other_extras,False,True,False
+45509,2025-09-23,Asia Cup 2025,T20I,Pakistan Won by 5 wickets,234,unresolved_other_extras,False,True,False
+45510,2025-09-24,Asia Cup 2025,T20I,India Won by 41 runs,245,unresolved_other_extras,False,True,False
+45511,2025-09-25,Asia Cup 2025,T20I,Pakistan Won by 11 runs,244,,True,True,True
+45512,2025-09-26,Asia Cup 2025,T20I,India won the Super Over(Match Tied),260,extra_innings_separate_analysis | run_margin_score_mismatch | unresolved_other_extras,False,True,False
+45513,2025-09-28,Asia Cup 2025,T20I,India Won by 5 wickets,239,,True,True,True
+45851,2025-08-29,United Arab Emirates T20I Tri-Series 2025,T20I,Pakistan Won by 39 runs,247,unresolved_other_extras,False,True,False
+45852,2025-08-30,United Arab Emirates T20I Tri-Series 2025,T20I,Pakistan Won by 31 runs,250,,True,True,True
+45853,2025-09-01,United Arab Emirates T20I Tri-Series 2025,T20I,Afghanistan Won by 38 runs,252,,True,True,True
+45854,2025-09-02,United Arab Emirates T20I Tri-Series 2025,T20I,Afghanistan Won by 18 runs,248,,True,True,True
+45855,2025-09-04,United Arab Emirates T20I Tri-Series 2025,T20I,Pakistan Won by 31 runs,244,,True,True,True
+45856,2025-09-05,United Arab Emirates T20I Tri-Series 2025,T20I,Afghanistan Won by 4 runs,256,,True,True,True
+45857,2025-09-07,United Arab Emirates T20I Tri-Series 2025,T20I,Pakistan Won by 75 runs,224,,True,True,True
+45903,2025-09-03,Sri Lanka in Zimbabwe T20I Series 2025,T20I,Sri Lanka Won by 4 wickets,246,unresolved_other_extras,False,True,False
+45904,2025-09-06,Sri Lanka in Zimbabwe T20I Series 2025,T20I,Zimbabwe Won by 5 wickets,195,,True,True,True
+45905,2025-09-07,Sri Lanka in Zimbabwe T20I Series 2025,T20I,Sri Lanka Won by 8 wickets,238,,True,True,True
+45906,2025-08-30,Netherlands in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 8 wickets,208,,True,True,True
+45907,2025-09-01,Netherlands in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 9 wickets,194,,True,True,True
+45908,2025-09-03,Netherlands in Bangladesh T20I Series 2025,T20I,No Result,114,missing_ordinary_innings | no_decisive_result | unresolved_other_extras,False,True,False
+46007,2025-09-17,England in Ireland T20I series 2025,T20I,England Won by 4 wickets,236,unresolved_other_extras,False,True,False
+46008,2025-09-19,England in Ireland T20I series 2025,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+46009,2025-09-21,England in Ireland T20I series 2025,T20I,England Won by 6 wickets,231,,True,True,True
+46249,2025-09-27,Nepal v West Indies T20I Series 2025,T20I,Nepal Won by 19 runs,254,,True,True,True
+46250,2025-09-28,Nepal v West Indies T20I Series 2025,T20I,Nepal Won by 90 runs,234,,True,True,True
+46251,2025-09-30,Nepal v West Indies T20I Series 2025,T20I,West Indies Won by 10 wickets,201,,True,True,True
+46310,2025-10-01,Australia in New Zealand T20I Series 2025,T20I,Australia Won by 6 wickets,230,,True,True,True
+46311,2025-10-03,Australia in New Zealand T20I Series 2025,T20I,No Result,13,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+46312,2025-10-04,Australia in New Zealand T20I Series 2025,T20I,Australia Won by 3 wickets,234,,True,True,True
+46740,2025-10-28,South Africa in Pakistan T20I Series 2025,T20I,South Africa Won by 55 runs,248,,True,True,True
+46741,2025-10-31,South Africa in Pakistan T20I Series 2025,T20I,Pakistan Won by 9 wickets,200,,True,True,True
+46742,2025-11-01,South Africa in Pakistan T20I Series 2025,T20I,Pakistan Won by 4 wickets,245,,True,True,True
+46747,2025-10-18,England in New Zealand T20I Series 2025,T20I,No Result,124,missing_ordinary_innings | no_decisive_result,False,True,False
+46748,2025-10-20,England in New Zealand T20I Series 2025,T20I,England Won by 65 runs,242,unresolved_other_extras,False,True,False
+46749,2025-10-23,England in New Zealand T20I Series 2025,T20I,No Result,25,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+46753,2025-10-02,Afghanistan v Bangladesh T20I Series 2025,T20I,Bangladesh Won by 4 wickets,233,,True,True,True
+46754,2025-10-03,Afghanistan v Bangladesh T20I Series 2025,T20I,Bangladesh Won by 2 wickets,238,,True,True,True
+46755,2025-10-05,Afghanistan v Bangladesh T20I Series 2025,T20I,Bangladesh Won by 6 wickets,242,,True,True,True
+46940,2025-10-27,West Indies in Bangladesh T20I Series 2025,T20I,West Indies Won by 16 runs,248,,True,True,True
+46941,2025-10-30,West Indies in Bangladesh T20I Series 2025,T20I,West Indies Won by 14 runs,247,,True,True,True
+46942,2025-11-01,West Indies in Bangladesh T20I Series 2025,T20I,West Indies Won by 5 wickets,227,,True,True,True
+47241,2025-11-27,Ireland in Bangladesh T20I Series 2025,T20I,Ireland Won by 39 runs,251,,True,True,True
+47242,2025-11-29,Ireland in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 4 wickets,247,,True,True,True
+47243,2025-12-02,Ireland in Bangladesh T20I Series 2025,T20I,Bangladesh Won by 8 wickets,207,,True,True,True
+47260,2025-10-29,Afghanistan in Zimbabwe T20I Series 2025,T20I,Afghanistan Won by 53 runs,225,unresolved_other_extras,False,True,False
+47261,2025-10-31,Afghanistan in Zimbabwe T20I Series 2025,T20I,Afghanistan Won by 7 wickets,227,,True,True,True
+47262,2025-11-02,Afghanistan in Zimbabwe T20I Series 2025,T20I,Afghanistan Won by 9 runs,250,unresolved_other_extras,False,True,False
+47965,2025-11-05,West Indies in New Zealand T20I Series 2025,T20I,West Indies Won by 7 runs,252,,True,True,True
+47966,2025-11-06,West Indies in New Zealand T20I Series 2025,T20I,New Zealand Won by 3 runs,255,,True,True,True
+47967,2025-11-09,West Indies in New Zealand T20I Series 2025,T20I,New Zealand Won by 9 runs,247,,True,True,True
+47968,2025-11-10,West Indies in New Zealand T20I Series 2025,T20I,No Result,41,missing_ordinary_innings | no_decisive_result,False,True,False
+47969,2025-11-13,West Indies in New Zealand T20I Series 2025,T20I,New Zealand Won by 8 wickets,214,,True,True,True
+47976,2025-11-17,Pakistan T20I Tri-Series 2025,T20I,Pakistan Won by 5 wickets,243,unresolved_other_extras,False,True,False
+47977,2025-11-19,Pakistan T20I Tri-Series 2025,T20I,Zimbabwe Won by 67 runs,247,,True,True,True
+47978,2025-11-22,Pakistan T20I Tri-Series 2025,T20I,Pakistan Won by 7 wickets,218,,True,True,True
+47979,2025-11-23,Pakistan T20I Tri-Series 2025,T20I,Pakistan Won by 69 runs,241,,True,True,True
+47980,2025-11-25,Pakistan T20I Tri-Series 2025,T20I,Sri Lanka Won by 9 wickets,227,,True,True,True
+47981,2025-11-27,Pakistan T20I Tri-Series 2025,T20I,Sri Lanka Won by 6 runs,255,,True,True,True
+47982,2025-11-29,Pakistan T20I Tri-Series 2025,T20I,Pakistan Won by 6 wickets,234,,True,True,True
+48015,2025-11-14,Asia Cup Rising Stars 2025,Other T20,Pakistan A Won by 40 runs,249,unresolved_other_extras,False,False,False
+48016,2025-11-14,Asia Cup Rising Stars 2025,Other T20,India A Won by 148 runs,255,,True,False,False
+48017,2025-11-15,Asia Cup Rising Stars 2025,Other T20,Bangladesh A Won by 8 wickets,193,,True,False,False
+48018,2025-11-15,Asia Cup Rising Stars 2025,Other T20,Afghanistan A Won by 3 wickets,247,,True,False,False
+48019,2025-11-16,Asia Cup Rising Stars 2025,Other T20,Oman Won by 2 wickets,255,,True,False,False
+48020,2025-11-16,Asia Cup Rising Stars 2025,Other T20,Pakistan A Won by 8 wickets,199,,True,False,False
+48021,2025-11-17,Asia Cup Rising Stars 2025,Other T20,Sri Lanka A Won by 7 wickets,215,,True,False,False
+48022,2025-11-17,Asia Cup Rising Stars 2025,Other T20,Bangladesh A Won by 8 wickets,203,,True,False,False
+48023,2025-11-18,Asia Cup Rising Stars 2025,Other T20,Pakistan A Won by 9 wickets,146,,True,False,False
+48024,2025-11-18,Asia Cup Rising Stars 2025,Other T20,India A Won by 6 wickets,234,,True,False,False
+48025,2025-11-19,Asia Cup Rising Stars 2025,Other T20,Afghanistan A Won by 24 runs,246,,True,False,False
+48026,2025-11-19,Asia Cup Rising Stars 2025,Other T20,Sri Lanka A Won by 6 runs,252,,True,False,False
+48027,2025-11-21,Asia Cup Rising Stars 2025,Other T20,Bangladesh A Won The Super Over,262,extra_innings_separate_analysis | run_margin_score_mismatch,False,False,False
+48028,2025-11-21,Asia Cup Rising Stars 2025,Other T20,Pakistan A Won by 5 runs,253,,True,False,False
+48029,2025-11-23,Asia Cup Rising Stars 2025,Other T20,Pakistan A Won the super over,257,extra_innings_separate_analysis | run_margin_score_mismatch,False,False,False
+50125,2026-03-28,IPL 2026,IPL,Royal Challengers Bengaluru Won by 6 wickets,225,,True,True,True
+50126,2026-03-29,IPL 2026,IPL,Mumbai Indians Won by 6 wickets,247,unresolved_other_extras,False,True,False
+50127,2026-03-30,IPL 2026,IPL,Rajasthan Royals Won by 8 wickets,199,,True,True,True
+50128,2026-03-31,IPL 2026,IPL,Punjab Kings Won by 3 wickets,250,unresolved_other_extras,False,True,False
+50129,2026-04-01,IPL 2026,IPL,Delhi Capitals Won by 6 wickets,229,,True,True,True
+50130,2026-04-02,IPL 2026,IPL,Sunrisers Hyderabad Won by 65 runs,231,,True,True,True
+50131,2026-04-03,IPL 2026,IPL,Punjab Kings Won by 5 wickets,251,,True,True,True
+50132,2026-04-04,IPL 2026,IPL,Delhi Capitals Won by 6 wickets,237,,True,True,True
+50133,2026-04-04,IPL 2026,IPL,Rajasthan Royals Won by 6 runs,253,,True,True,True
+50134,2026-04-05,IPL 2026,IPL,Lucknow Super Giants Won by 5 wickets,242,,True,True,True
+50135,2026-04-05,IPL 2026,IPL,Royal Challengers Bengaluru Won by 43 runs,247,,True,True,True
+50136,2026-04-06,IPL 2026,IPL,No Result,22,missing_ordinary_innings | no_decisive_result,False,True,False
+50137,2026-04-07,IPL 2026,IPL,Rajasthan Royals Won by 27 runs,144,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+50138,2026-04-08,IPL 2026,IPL,Gujarat Titans Won by 1 run,254,,True,True,True
+50139,2026-04-09,IPL 2026,IPL,Lucknow Super Giants Won by 3 wickets,253,unresolved_other_extras,False,True,False
+50140,2026-04-10,IPL 2026,IPL,Rajasthan Royals Won by 6 wickets,233,,True,True,True
+50141,2026-04-11,IPL 2026,IPL,Punjab Kings Won by 6 wickets,250,unresolved_other_extras,False,True,False
+50142,2026-04-11,IPL 2026,IPL,Chennai Super Kings Won by 23 runs,252,,True,True,True
+50143,2026-04-12,IPL 2026,IPL,Gujarat Titans Won by 7 wickets,237,,True,True,True
+50144,2026-04-12,IPL 2026,IPL,Royal Challengers Bengaluru Won by 18 runs,262,unresolved_other_extras,False,True,False
+50342,2026-04-13,IPL 2026,IPL,Sunrisers Hyderabad Won by 57 runs,251,,True,True,True
+50343,2026-04-14,IPL 2026,IPL,Chennai Super Kings Won by 32 runs,255,,True,True,True
+50344,2026-04-15,IPL 2026,IPL,Royal Challengers Bengaluru Won by 5 wickets,216,,True,True,True
+50345,2026-04-16,IPL 2026,IPL,Punjab Kings Won by 7 wickets,233,,True,True,True
+50346,2026-04-17,IPL 2026,IPL,Gujarat Titans Won by 5 wickets,249,unresolved_other_extras,False,True,False
+50347,2026-04-18,IPL 2026,IPL,Delhi Capitals Won by 6 wickets,251,unresolved_other_extras,False,True,False
+50348,2026-04-18,IPL 2026,IPL,Sunrisers Hyderabad Won by 10 runs,257,unresolved_other_extras,False,True,False
+50349,2026-04-19,IPL 2026,IPL,Kolkata Knight Riders Won by 4 wickets,256,,True,True,True
+50350,2026-04-19,IPL 2026,IPL,Punjab Kings Won by 54 runs,253,unresolved_other_extras,False,True,False
+50351,2026-04-20,IPL 2026,IPL,Mumbai Indians Won by 99 runs,224,,True,True,True
+50352,2026-04-21,IPL 2026,IPL,Sunrisers Hyderabad Won by 47 runs,255,,True,True,True
+50353,2026-04-22,IPL 2026,IPL,Rajasthan Royals Won by 40 runs,237,,True,True,True
+50354,2026-04-23,IPL 2026,IPL,Chennai Super Kings Won by 103 runs,247,,True,True,True
+50355,2026-04-24,IPL 2026,IPL,Royal Challengers Bengaluru Won by 5 wickets,239,,True,True,True
+50356,2026-04-25,IPL 2026,IPL,Punjab Kings Won by 6 wickets,253,,True,True,True
+50357,2026-04-25,IPL 2026,IPL,Sunrisers Hyderabad Won by 5 wickets,246,,True,True,True
+50358,2026-04-26,IPL 2026,IPL,Gujarat Titans Won by 8 wickets,228,,True,True,True
+50359,2026-04-26,IPL 2026,IPL,Kolkata Knight Riders Won by Super over (Match Tied),256,extra_innings_separate_analysis | run_margin_score_mismatch | unresolved_other_extras,False,True,False
+50360,2026-04-27,IPL 2026,IPL,Royal Challengers Bengaluru Won by 9 wickets,142,,True,True,True
+50361,2026-04-28,IPL 2026,IPL,Rajasthan Royals Won by 6 wickets,242,,True,True,True
+50362,2026-04-29,IPL 2026,IPL,Sunrisers Hyderabad Won by 6 wickets,247,,True,True,True
+50363,2026-04-30,IPL 2026,IPL,Gujarat Titans Won by 4 wickets,217,,True,True,True
+50364,2026-05-01,IPL 2026,IPL,Delhi Capitals Won by 7 wickets,249,unresolved_other_extras,False,True,False
+50365,2026-05-02,IPL 2026,IPL,Chennai Super Kings Won by 8 wickets,234,,True,True,True
+50366,2026-05-03,IPL 2026,IPL,Kolkata Knight Riders Won by 7 wickets,235,,True,True,True
+50367,2026-05-03,IPL 2026,IPL,Gujarat Titans Won by 4 wickets,248,,True,True,True
+50368,2026-05-04,IPL 2026,IPL,Mumbai Indians Won by 6 wickets,246,,True,True,True
+50369,2026-05-05,IPL 2026,IPL,Chennai Super Kings Won by 8 wickets,230,,True,True,True
+50370,2026-05-06,IPL 2026,IPL,Sunrisers Hyderabad Won by 33 runs,254,unresolved_other_extras,False,True,False
+50371,2026-05-07,IPL 2026,IPL,Lucknow Super Giants Won by 9 runs (DLS method),241,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified | run_margin_score_mismatch,False,True,False
+50372,2026-05-08,IPL 2026,IPL,Kolkata Knight Riders Won by 8 wickets,208,,True,True,True
+50373,2026-05-09,IPL 2026,IPL,Gujarat Titans Won by 77 runs,234,,True,True,True
+50374,2026-05-10,IPL 2026,IPL,Chennai Super Kings Won by 5 wickets,250,,True,True,True
+50375,2026-05-10,IPL 2026,IPL,Royal Challengers Bengaluru Won by 2 wickets,254,,True,True,True
+50376,2026-05-11,IPL 2026,IPL,Delhi Capitals Won by 3 wickets,252,unresolved_other_extras,False,True,False
+50377,2026-05-12,IPL 2026,IPL,Gujarat Titans Won by 82 runs,216,,True,True,True
+50378,2026-05-13,IPL 2026,IPL,Royal Challengers Bengaluru Won by 6 wickets,246,,True,True,True
+50379,2026-05-14,IPL 2026,IPL,Mumbai Indians Won by 6 wickets,249,,True,True,True
+50380,2026-05-15,IPL 2026,IPL,Lucknow Super Giants Won by 7 wickets,230,,True,True,True
+50381,2026-05-16,IPL 2026,IPL,Kolkata Knight Riders Won by 29 runs,252,unresolved_other_extras,False,True,False
+50382,2026-05-17,IPL 2026,IPL,Royal Challengers Bengaluru Won by 23 runs,254,,True,True,True
+50383,2026-05-17,IPL 2026,IPL,Delhi Capitals Won by 5 wickets,249,,True,True,True
+50384,2026-05-18,IPL 2026,IPL,Sunrisers Hyderabad Won by 5 wickets,249,,True,True,True
+50385,2026-05-19,IPL 2026,IPL,Rajasthan Royals Won by 7 wickets,251,unresolved_other_extras,False,True,False
+50386,2026-05-20,IPL 2026,IPL,Kolkata Knight Riders Won by 4 wickets,241,,True,True,True
+50387,2026-05-21,IPL 2026,IPL,Gujarat Titans Won by 89 runs,215,,True,True,True
+50388,2026-05-22,IPL 2026,IPL,Sunrisers Hyderabad Won by 55 runs,258,unresolved_other_extras,False,True,False
+50389,2026-05-23,IPL 2026,IPL,Punjab Kings Won by 7 wickets,239,,True,True,True
+50390,2026-05-24,IPL 2026,IPL,Rajasthan Royals Won by 30 runs,251,unresolved_other_extras,False,True,False
+50391,2026-05-24,IPL 2026,IPL,Delhi Capitals Won by 40 runs,245,unresolved_other_extras,False,True,False
+50942,2026-05-26,IPL 2026,IPL,Royal Challengers Bengaluru Won by 92 runs,249,unresolved_other_extras,False,True,False
+50943,2026-05-27,IPL 2026,IPL,Rajasthan Royals Won by 47 runs,252,unresolved_other_extras,False,True,False
+50944,2026-05-29,IPL 2026,IPL,Gujarat Titans Won by 7 wickets,241,,True,True,True
+50945,2026-05-31,IPL 2026,IPL,Royal Challengers Bengaluru Won by 5 wickets,233,,True,True,True
+48466,2026-01-29,Ireland in United Arab Emirates T20I Series 2026,T20I,Ireland Won by 57 runs,244,,True,True,True
+48467,2026-01-31,Ireland in United Arab Emirates T20I Series 2026,T20I,Ireland Won by 30 runs,250,unresolved_other_extras,False,True,False
+48512,2026-01-07,Pakistan in Sri Lanka T20I Series 2026,T20I,Pakistan Won by 6 wickets,219,,True,True,True
+48513,2026-01-10,Pakistan in Sri Lanka T20I Series 2026,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+48514,2026-01-12,Pakistan in Sri Lanka T20I Series 2026,T20I,Sri Lanka Won by 14 runs,157,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction,False,True,False
+48591,2026-01-21,New Zealand in India T20I Series 2026,T20I,India Won by 48 runs,252,,True,True,True
+48592,2026-01-23,New Zealand in India T20I Series 2026,T20I,India Won by 7 wickets,227,unresolved_other_extras,False,True,False
+48593,2026-01-25,New Zealand in India T20I Series 2026,T20I,India Won by 8 wickets,183,,True,True,True
+48594,2026-01-28,New Zealand in India T20I Series 2026,T20I,New Zealand Won by 50 runs,238,,True,True,True
+48595,2026-01-31,New Zealand in India T20I Series 2026,T20I,India Won by 46 runs,248,unresolved_other_extras,False,True,False
+48596,2026-01-19,Afghanistan v West Indies T20I Series 2026,T20I,Afghanistan Won by 38 runs,253,,True,True,True
+48597,2026-01-21,Afghanistan v West Indies T20I Series 2026,T20I,Afghanistan Won by 39 runs,241,,True,True,True
+48598,2026-01-22,Afghanistan v West Indies T20I Series 2026,T20I,West Indies Won by 13 runs,248,,True,True,True
+48610,2026-01-30,England in Sri Lanka T20I Series 2026,T20I,England Won by 11 runs (DLS method),194,chase_result_score_mismatch | revised_allocation_or_target_timing_unverified,False,True,False
+48611,2026-02-01,England in Sri Lanka T20I Series 2026,T20I,England Won by 6 wickets(DLS Method),233,chase_result_score_mismatch | revised_allocation_or_target_timing_unverified | unresolved_other_extras,False,True,False
+48612,2026-02-03,England in Sri Lanka T20I Series 2026,T20I,England Won by 12 runs,241,,True,True,True
+48915,2026-01-29,Australia in Pakistan T20I Series 2026,T20I,Pakistan Won by 22 runs,250,,True,True,True
+48916,2026-01-31,Australia in Pakistan T20I Series 2026,T20I,Pakistan Won by 90 runs,217,,True,True,True
+48917,2026-02-01,Australia in Pakistan T20I Series 2026,T20I,Pakistan Won by 111 runs,227,incomplete_defence_or_unrecorded_reduction | unresolved_other_extras,False,True,False
+49736,2026-03-15,South Africa in New Zealand T20I Series 2026,T20I,South Africa Won by 7 wickets,196,unresolved_other_extras,False,True,False
+49737,2026-03-17,South Africa in New Zealand T20I Series 2026,T20I,New Zealand Won by 68 runs,223,,True,True,True
+49738,2026-03-20,South Africa in New Zealand T20I Series 2026,T20I,New Zealand Won by 8 wickets,226,unresolved_other_extras,False,True,False
+49739,2026-03-22,South Africa in New Zealand T20I Series 2026,T20I,South Africa Won by 19 runs,238,,True,True,True
+49740,2026-03-25,South Africa in New Zealand T20I Series 2026,T20I,South Africa Won by 33 runs,251,unresolved_other_extras,False,True,False
+50188,2026-04-27,New Zealand in Bangladesh T20I Series 2026,T20I,Bangladesh Won by 6 wickets,241,unresolved_other_extras,False,True,False
+50189,2026-04-29,New Zealand in Bangladesh T20I Series 2026,T20I,Match Abandoned,0,missing_ordinary_innings | no_decisive_result,False,True,False
+50190,2026-05-02,New Zealand in Bangladesh T20I Series 2026,T20I,New Zealand Won by 6 wickets (DLS Method),161,revised_allocation_or_target_timing_unverified,False,True,False
+50340,2026-06-26,India in Ireland T20I Series 2026,T20I,Ireland Won by 34 runs,247,unresolved_other_extras,False,True,False
+50341,2026-06-28,India in Ireland T20I Series 2026,T20I,Ireland Won by 1 run,249,unresolved_other_extras,False,True,False
+50404,2026-10-06,West Indies in India T20I Series 2026,T20I,India Won by 8 wickets,205,,True,True,True
+50405,2026-10-09,West Indies in India T20I Series 2026,T20I,West Indies Won by 6 wickets,243,unresolved_other_extras,False,True,False
+50406,2026-10-11,West Indies in India T20I Series 2026,T20I,India Won by 14 runs,251,,True,True,True
+50407,2026-10-14,West Indies in India T20I Series 2026,T20I,West Indies Won by 24 runs,260,incomplete_defence_or_unrecorded_reduction | unresolved_other_extras,False,True,False
+50408,2026-10-17,West Indies in India T20I Series 2026,T20I,No Result,55,missing_ordinary_innings | no_decisive_result | revised_allocation_or_target_timing_unverified,False,True,False
+50503,2026-06-12,Sri Lanka in West Indies T20I Series 2026,T20I,West Indies Won by 7 wickets,244,,True,True,True
+50504,2026-06-14,Sri Lanka in West Indies T20I Series 2026,T20I,Sri Lanka Won by 37 runs,239,unresolved_other_extras,False,True,False
+50505,2026-06-15,Sri Lanka in West Indies T20I Series 2026,T20I,West Indies Won by 5 wickets,251,,True,True,True
+50507,2026-07-23,India in Zimbabwe T20I Series 2026,T20I,India Won by 7 wickets,215,,True,True,True
+50508,2026-07-25,India in Zimbabwe T20I Series 2026,T20I,India Won by 90 runs,235,,True,True,True
+50509,2026-07-26,India in Zimbabwe T20I Series 2026,T20I,India Won by 35 runs,260,,True,True,True
+50597,2026-06-17,Australia in Bangladesh T20I Series 2026,T20I,Australia Won by 4 wickets,228,,True,True,True
+50598,2026-06-19,Australia in Bangladesh T20I Series 2026,T20I,Australia Won by 7 runs,249,,True,True,True
+50599,2026-06-21,Australia in Bangladesh T20I Series 2026,T20I,Australia Won by 7 wickets,192,,True,True,True
+51383,2026-07-15,Bangladesh in Zimbabwe T20I Series 2026,T20I,Zimbabwe Won by 32 runs,247,,True,True,True
+51384,2026-07-17,Bangladesh in Zimbabwe T20I Series 2026,T20I,Bangladesh Won by 34 runs,248,,True,True,True
+51385,2026-07-19,Bangladesh in Zimbabwe T20I Series 2026,T20I,Bangladesh Won by 4 wickets,243,,True,True,True
+54210,2026-10-22,India in New Zealand T20I Series 2026,T20I,India Won by 4 wickets,254,unresolved_other_extras,False,True,False
+54211,2026-10-24,India in New Zealand T20I Series 2026,T20I,India Won by 4 wickets,254,,True,True,True
+54212,2026-10-27,India in New Zealand T20I Series 2026,T20I,India Won by 6 wickets,212,,True,True,True
+54213,2026-10-30,India in New Zealand T20I Series 2026,T20I,New Zealand Won by 87 runs,253,unresolved_other_extras,False,True,False
+54214,2026-11-01,India in New Zealand T20I Series 2026,T20I,New Zealand Won by 7 wickets,236,,True,True,True
+54408,2026-09-13,Afghanistan vs India in India T20I Series 2026,T20I,India Won by 7 wickets,216,,True,True,True
+54409,2026-09-15,Afghanistan vs India in India T20I Series 2026,T20I,India Won by 7 wickets,213,,True,True,True
+54410,2026-09-17,Afghanistan vs India in India T20I Series 2026,T20I,India Won by 127 runs,211,,True,True,True
+54711,2026-09-22,India in Japan T20I Match 2026,T20I,India Won by 2 runs,64,incomplete_defence_or_unrecorded_reduction | incomplete_first_innings_or_unrecorded_reduction | revised_allocation_or_target_timing_unverified,False,True,False
+55078,2026-10-09,Sri Lanka in Pakistan T20I Series 2026,T20I,Pakistan Won by 4 wickets,242,unresolved_other_extras,False,True,False
+55079,2026-10-11,Sri Lanka in Pakistan T20I Series 2026,T20I,Pakistan Won by 82 runs,247,,True,True,True
+55080,2026-10-13,Sri Lanka in Pakistan T20I Series 2026,T20I,Sri Lanka Won by 8 wickets,229,,True,True,True
+55559,2026-10-27,Afghanistan v Zimbabwe T20I Series 2026,T20I,Afghanistan Won by 37 runs,248,,True,True,True
+55560,2026-10-29,Afghanistan v Zimbabwe T20I Series 2026,T20I,Afghanistan Won by 19 runs,254,,True,True,True
+55561,2026-11-01,Afghanistan v Zimbabwe T20I Series 2026,T20I,Afghanistan Won by 7 wickets,147,unresolved_other_extras,False,True,False

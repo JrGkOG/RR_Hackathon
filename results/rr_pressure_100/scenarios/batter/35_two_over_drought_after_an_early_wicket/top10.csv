@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,2258,59.58,26,7,49.0,1.0,26.0,38.46153846153847,-0.026574375622516046,True,True,True,Sanju Samson,2.8047464940668827,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+2,813,57.37,45,11,101.0,2.0,45.0,46.666666666666664,-0.08452605378353724,True,True,True,Jos Buttler,3.968253968253968,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+3,1481,56.74,21,4,40.0,0.0,20.0,52.38095238095239,-0.026642992935662146,True,True,True,Kusal Perera,6.521739130434782,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+4,2921,56.17,45,8,68.0,0.0,45.0,37.77777777777778,,True,True,True,Fakhar Zaman,9.146341463414634,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+5,7690,55.15,20,5,32.0,0.0,20.0,35.0,0.004107187560878689,True,True,True,Saim Ayub,3.8314176245210727,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+6,1327,54.76,18,3,43.0,0.0,18.0,44.44444444444444,-0.04990398266564444,True,True,True,Johnson Charles,10.778443113772456,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+7,7216,54.24,29,7,42.0,1.0,29.0,20.689655172413794,0.02817536783223002,True,True,True,Prabhsimran Singh,4.68497576736672,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+8,167,54.23,21,5,42.0,0.0,21.0,42.857142857142854,-0.031749772056311416,True,True,True,Ajinkya Rahane,5.4404145077720205,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+9,6674,53.98,22,4,31.0,0.0,22.0,45.45454545454545,-0.02831199808161955,True,True,True,Rahmanullah Gurbaz,5.392156862745098,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration
+10,4814,53.93,22,4,43.0,0.0,22.0,59.09090909090909,,True,True,True,Lorcan Tucker,8.94308943089431,batter,two_over_drought_after_an_early_wicket,Scoring recovery and acceleration

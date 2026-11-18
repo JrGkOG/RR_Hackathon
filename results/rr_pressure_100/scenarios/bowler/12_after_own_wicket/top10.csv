@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5979,68.29,41,14,17.0,3.0,41.0,63.41463414634146,0.14096941071115435,True,True,True,Abrar Ahmed,7.2695035460992905,bowler,after_own_wicket,Strike bowling and partnership disruption
+2,2933,66.34,48,20,33.0,4.0,48.0,66.66666666666666,0.2198610850200832,True,True,True,Jasprit Bumrah,5.144694533762058,bowler,after_own_wicket,Strike bowling and partnership disruption
+3,29888,65.87,33,12,18.0,2.0,33.0,75.75757575757575,0.4727521472813445,True,True,True,Harshit Rana,6.0,bowler,after_own_wicket,Strike bowling and partnership disruption
+4,6256,63.17,73,26,52.0,5.0,73.0,56.16438356164384,0.10292775926495794,True,True,True,Varun Chakravarthy,7.351460221550855,bowler,after_own_wicket,Strike bowling and partnership disruption
+5,829,60.44,29,8,31.0,5.0,27.0,55.172413793103445,,True,True,True,Mitchell Starc,8.146067415730338,bowler,after_own_wicket,Strike bowling and partnership disruption
+6,6676,60.08,31,13,27.0,3.0,30.0,51.61290322580645,0.9417342448720054,True,True,True,Azmatullah Omarzai,5.827067669172932,bowler,after_own_wicket,Strike bowling and partnership disruption
+7,1612,59.54,38,15,32.0,4.0,38.0,50.0,0.06796686144845349,True,True,True,Yuzvendra Chahal,5.819295558958652,bowler,after_own_wicket,Strike bowling and partnership disruption
+8,4101,59.24,30,13,30.0,1.0,29.0,30.0,0.09180168260953893,True,True,True,Mitchell Santner,5.405405405405405,bowler,after_own_wicket,Strike bowling and partnership disruption
+9,5944,59.21,44,20,25.0,2.0,41.0,75.0,0.09668948438657847,True,True,True,Mohammed Siraj,5.527638190954774,bowler,after_own_wicket,Strike bowling and partnership disruption
+10,4391,58.99,18,7,6.0,1.0,18.0,72.22222222222221,0.2663841569956322,True,True,True,Liam Livingstone,8.294930875576037,bowler,after_own_wicket,Strike bowling and partnership disruption

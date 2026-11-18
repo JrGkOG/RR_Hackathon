@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6725,54.76,20,6,33.0,0.0,20.0,45.0,0.20944161325493013,True,True,True,Sherfane Rutherford,4.651162790697675,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+2,813,53.97,30,7,49.0,1.0,30.0,40.0,-0.05256801975902256,True,True,True,Jos Buttler,2.6455026455026456,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+3,4895,53.78,18,6,30.0,2.0,18.0,33.33333333333333,-0.011122345803842157,True,True,True,Charith Asalanka,7.0588235294117645,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+4,6651,53.53,29,4,43.0,0.0,29.0,58.620689655172406,-0.46770773086562595,True,True,True,Towhid Hridoy,5.7312252964426875,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+5,20702,52.74,18,5,29.0,0.0,18.0,44.44444444444444,-0.024877930155444334,True,True,True,Tristan Stubbs,4.017857142857143,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+6,3489,52.27,20,4,22.0,0.0,20.0,55.00000000000001,,True,True,True,Salman Agha,3.7037037037037033,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+7,3091,51.88,21,3,33.0,0.0,21.0,28.57142857142857,-0.20747369117754527,True,True,True,Sahibzada Farhan,3.5175879396984926,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+8,7900,50.5,20,3,15.0,1.0,20.0,15.0,0.029742290516448982,True,True,True,Tanzid Hasan,2.8089887640449436,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+9,37052,49.97,26,5,29.0,1.0,26.0,42.30769230769231,0.14570581952776784,True,True,True,Naman Dhir,7.580174927113703,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups
+10,1699,49.37,19,7,31.0,3.0,19.0,52.63157894736842,-0.018433179723503557,True,True,True,Suryakumar Yadav,2.7027027027027026,batter,proven_bowler_also_dangerous_in_this_spell,Adapting to bowling matchups

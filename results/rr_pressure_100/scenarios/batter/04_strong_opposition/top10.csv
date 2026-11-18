@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,50284,65.98,173,21,362,9,173,46.24277456647399,-0.05801765427286915,True,True,True,Vaibhav Sooryavanshi,36.11691022964509,batter,strong_opposition,Adapting to bowling matchups
+2,3647,65.35,205,33,307,6,203,33.65853658536586,-0.089611058320466,True,True,True,Shreyas Iyer,24.346793349168646,batter,strong_opposition,Adapting to bowling matchups
+3,3916,62.82,87,16,121,4,87,35.63218390804598,-0.04466237631336167,True,True,True,Jitesh Sharma,34.11764705882353,batter,strong_opposition,Adapting to bowling matchups
+4,6931,62.41,300,30,411,12,300,32.0,-0.01942065731891902,True,True,True,Pathum Nissanka,40.32258064516129,batter,strong_opposition,Adapting to bowling matchups
+5,3782,61.18,22,7,42,0,22,59.09090909090909,0.093704427745497,True,True,True,M Shahrukh Khan,17.46031746031746,batter,strong_opposition,Adapting to bowling matchups
+6,4106,60.04,164,19,271,4,164,44.51219512195122,0.20826875529977887,True,True,True,Daryl Mitchell,47.262247838616716,batter,strong_opposition,Adapting to bowling matchups
+7,126,59.92,175,21,294,7,175,36.0,0.2830410029458579,True,True,True,Rohit Sharma,33.71868978805395,batter,strong_opposition,Adapting to bowling matchups
+8,3282,59.49,54,5,69,0,54,48.148148148148145,-0.13965790865808358,True,True,True,Mehidy Hasan Miraz,47.78761061946903,batter,strong_opposition,Adapting to bowling matchups
+9,3629,59.01,69,8,89,1,69,59.42028985507246,2.100331585625703,True,True,True,Corbin Bosch,68.31683168316832,batter,strong_opposition,Adapting to bowling matchups
+10,4373,58.19,22,6,26,1,22,59.09090909090909,1.8940271849362753,True,True,False,Mustafizur Rahman,68.75,batter,strong_opposition,Adapting to bowling matchups

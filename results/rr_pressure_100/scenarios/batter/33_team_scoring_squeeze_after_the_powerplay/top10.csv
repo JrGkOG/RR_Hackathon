@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,3297,55.02,58,13,105.0,3.0,57.0,34.48275862068966,0.04303406160596443,True,True,True,Shimron Hetmyer,13.875598086124402,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+2,3916,54.68,34,4,65.0,0.0,34.0,44.11764705882353,-0.075968398565527,True,True,True,Jitesh Sharma,13.333333333333334,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+3,4260,54.16,41,9,78.0,1.0,41.0,43.90243902439025,-0.010041136426150519,True,True,True,Heinrich Klaasen,6.518282988871224,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+4,8647,54.1,24,6,39.0,0.0,24.0,20.833333333333336,0.08952233212518479,True,True,True,Sediqullah Atal,6.25,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+5,3374,54.06,23,4,43.0,1.0,23.0,43.47826086956522,0.058177586772447346,True,True,True,Mark Chapman,8.949416342412452,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+6,6819,53.29,23,6,46.0,1.0,23.0,43.47826086956522,-0.017827290380912873,True,True,True,Yashasvi Jaiswal,3.0026109660574414,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+7,6281,53.22,21,4,34.0,1.0,21.0,19.047619047619047,0.014902436470149105,True,True,True,Abhishek Sharma,1.873327386262266,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+8,6059,53.03,37,3,42.0,0.0,37.0,18.91891891891892,,True,True,True,Ruturaj Gaikwad,6.981132075471698,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+9,25213,52.83,19,5,31.0,1.0,19.0,31.57894736842105,0.04921451063356456,True,True,True,Dewald Brevis,5.81039755351682,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration
+10,813,52.46,50,6,67.0,2.0,50.0,26.0,0.040777444568799975,True,True,True,Jos Buttler,4.409171075837742,batter,team_scoring_squeeze_after_the_powerplay,Scoring recovery and acceleration

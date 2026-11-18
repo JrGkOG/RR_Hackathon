@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6256,65.66,212,25,343,15,204,69.33962264150944,-0.009168045329308537,True,True,True,Varun Chakravarthy,21.34944612286002,bowler,limited_support,Spell management and damage control
+2,7808,65.08,266,26,426,14,255,65.78947368421053,0.004441961358582684,True,True,True,Marco Jansen,41.43302180685358,bowler,limited_support,Spell management and damage control
+3,4900,62.34,218,24,298,16,215,60.550458715596335,-0.03157365332141555,True,True,True,Wanindu Hasaranga,29.70027247956403,bowler,limited_support,Spell management and damage control
+4,2933,62.21,262,32,312,10,249,72.13740458015268,-0.015512437130225813,True,True,True,Jasprit Bumrah,28.081457663451232,bowler,limited_support,Spell management and damage control
+5,2876,61.1,233,32,314,13,230,68.24034334763948,0.5369996303847732,True,True,True,Axar Patel,24.22037422037422,bowler,limited_support,Spell management and damage control
+6,3298,60.65,287,31,430,17,275,64.11149825783971,-0.05670426640939401,True,True,True,Jofra Archer,36.65389527458493,bowler,limited_support,Spell management and damage control
+7,22920,60.37,104,17,189,8,100,62.5,-0.02758551681713116,True,True,True,Jacob Duffy,18.055555555555554,bowler,limited_support,Spell management and damage control
+8,2490,60.34,26,8,43,3,24,65.38461538461539,0.016665209925429074,True,True,True,Mohammad Nawaz,5.752212389380531,bowler,limited_support,Spell management and damage control
+9,4722,60.3,262,33,340,14,258,67.93893129770993,0.00853886985003768,True,True,True,Rashid Khan,23.288888888888888,bowler,limited_support,Spell management and damage control
+10,5979,59.35,43,11,51,3,42,65.11627906976744,-0.027622710972807774,True,True,True,Abrar Ahmed,7.624113475177305,bowler,limited_support,Spell management and damage control

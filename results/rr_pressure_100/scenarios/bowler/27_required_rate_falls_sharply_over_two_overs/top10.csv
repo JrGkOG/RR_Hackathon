@@ -1,0 +1,6 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4722,51.92,23,6,33.0,4.0,23.0,47.82608695652174,-0.039415290441074606,True,True,True,Rashid Khan,2.0444444444444447,bowler,required_rate_falls_sharply_over_two_overs,Target defence and required-rate squeeze
+2,2933,50.91,29,5,33.0,0.0,28.0,75.86206896551724,-0.026089785713070045,True,True,True,Jasprit Bumrah,3.1082529474812435,bowler,required_rate_falls_sharply_over_two_overs,Target defence and required-rate squeeze
+3,7967,43.67,19,7,31.0,0.0,19.0,57.89473684210527,-0.15541397689650355,True,True,True,Noor Ahmad,2.1615472127417523,bowler,required_rate_falls_sharply_over_two_overs,Target defence and required-rate squeeze
+4,6726,42.84,26,6,48.0,2.0,24.0,38.46153846153847,-0.3025988828620408,True,True,True,Romario Shepherd,3.698435277382646,bowler,required_rate_falls_sharply_over_two_overs,Target defence and required-rate squeeze
+5,39657,42.41,19,6,38.0,1.0,16.0,31.57894736842105,-0.1839182451565018,True,True,True,Eshan Malinga,3.315881326352531,bowler,required_rate_falls_sharply_over_two_overs,Target defence and required-rate squeeze

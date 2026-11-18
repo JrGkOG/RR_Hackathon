@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5553,58.47,21,4,43.0,0.0,21.0,38.095238095238095,-0.08505680565325627,True,True,True,Phil Salt,2.9329608938547485,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+2,126,56.54,28,6,54.0,0.0,28.0,28.57142857142857,-0.013231938796879561,True,True,True,Rohit Sharma,5.394990366088632,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+3,953,56.4,24,4,48.0,0.0,24.0,37.5,-0.03240766576652383,True,True,True,Lokesh Rahul,3.6036036036036037,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+4,7900,55.63,47,5,80.0,1.0,47.0,40.42553191489361,-0.057959388939378416,True,True,True,Tanzid Hasan,6.601123595505618,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+5,3091,53.49,63,7,92.0,2.0,63.0,30.158730158730158,-0.061488598365414364,True,True,True,Sahibzada Farhan,10.552763819095476,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+6,6674,53.16,32,5,40.0,0.0,32.0,53.125,-0.0615109008060394,True,True,True,Rahmanullah Gurbaz,7.8431372549019605,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+7,23450,52.99,35,7,67.0,0.0,35.0,40.0,0.025922741075414257,True,True,True,Sai Sudharsan,3.6420395421436007,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+8,24017,52.08,34,6,50.0,1.0,34.0,32.35294117647059,-0.016426357778410783,True,True,True,Brian Bennett,7.472527472527473,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+9,4780,51.71,30,3,52.0,1.0,30.0,53.333333333333336,-0.4450556648888126,True,True,True,Mohammad Saif Hassan,8.174386920980927,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration
+10,7901,51.3,35,6,65.0,2.0,35.0,57.14285714285714,-0.06953555264598425,True,True,True,Parvez Emon,8.57843137254902,batter,acceleration_after_dot_buildup,Scoring recovery and acceleration

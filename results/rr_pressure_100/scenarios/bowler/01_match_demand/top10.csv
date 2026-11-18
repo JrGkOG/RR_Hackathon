@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6256,63.26,290,21,394,21,283,69.3103448275862,0.03094771689712554,True,True,True,Varun Chakravarthy,29.204431017119838,bowler,match_demand,Target defence and required-rate squeeze
+2,830,63.23,93,12,145,4,92,64.51612903225806,-0.16693180589477918,True,True,True,Josh Hazlewood,17.953667953667953,bowler,match_demand,Target defence and required-rate squeeze
+3,4373,61.12,109,14,135,7,106,62.38532110091744,-0.047762022938908,True,True,True,Mustafizur Rahman,18.956521739130437,bowler,match_demand,Target defence and required-rate squeeze
+4,360,59.53,194,18,247,11,191,69.58762886597938,-0.042672799659416075,True,True,True,Bhuvneshwar Kumar,26.611796982167352,bowler,match_demand,Target defence and required-rate squeeze
+5,47403,59.3,41,4,56,4,35,58.536585365853654,-0.14943310657596376,True,True,False,Newman Nyamhuri,53.94736842105263,bowler,match_demand,Target defence and required-rate squeeze
+6,8530,58.37,77,6,103,6,74,76.62337662337663,0.0067323481116586,True,True,True,Kartik Tyagi,38.5,bowler,match_demand,Target defence and required-rate squeeze
+7,8661,58.23,149,11,224,11,134,66.44295302013423,-0.2641320346320347,True,True,True,Matheesha Pathirana,34.731934731934736,bowler,match_demand,Target defence and required-rate squeeze
+8,722,57.81,31,4,29,4,31,64.51612903225806,-0.04448447507658039,True,True,True,Liam Dawson,23.134328358208954,bowler,match_demand,Target defence and required-rate squeeze
+9,4641,57.64,200,13,227,5,192,77.5,-0.028193028313680455,True,True,True,Lungi Ngidi,55.865921787709496,bowler,match_demand,Target defence and required-rate squeeze
+10,3298,57.37,255,25,361,13,241,65.88235294117646,-0.04049879064103235,True,True,True,Jofra Archer,32.56704980842912,bowler,match_demand,Target defence and required-rate squeeze

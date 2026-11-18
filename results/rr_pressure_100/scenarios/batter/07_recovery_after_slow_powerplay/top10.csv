@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,8101,57.1,60,4,123.0,3.0,57.0,41.66666666666667,-0.17128613416912405,True,True,True,Ashutosh Sharma,35.08771929824561,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+2,3629,56.93,66,5,88.0,2.0,65.0,56.060606060606055,,True,True,True,Corbin Bosch,65.34653465346535,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+3,6450,56.68,28,5,39.0,1.0,28.0,64.28571428571429,,True,True,False,Mujeeb Ur Rahman,84.84848484848484,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+4,3272,55.39,23,3,30.0,2.0,22.0,26.08695652173913,4.512284328374677,True,True,False,Fabian Allen,92.0,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+5,8238,55.15,108,3,197.0,1.0,108.0,39.81481481481482,-0.1093550549625218,True,True,True,Sameer Rizvi,50.0,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+6,3297,54.99,69,6,141.0,4.0,69.0,37.68115942028986,-0.3591276680700275,True,True,True,Shimron Hetmyer,16.507177033492823,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+7,7900,53.54,169,5,248.0,2.0,169.0,40.828402366863905,-0.04986398759248264,True,True,True,Tanzid Hasan,23.735955056179776,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+8,4722,53.34,151,18,227.0,13.0,151.0,39.0728476821192,0.14734308797486592,True,True,True,Rashid Khan,66.8141592920354,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+9,4708,53.26,60,5,84.0,3.0,60.0,26.666666666666668,0.7406211039263881,True,True,True,Rinku Singh,14.962593516209477,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration
+10,953,52.74,93,3,165.0,1.0,93.0,33.33333333333333,-0.11323759126539852,True,True,True,Lokesh Rahul,13.963963963963963,batter,recovery_after_slow_powerplay,Scoring recovery and acceleration

@@ -1,0 +1,25 @@
+role,combination_id,combination,scenario_numbers,scenario_ids,measure,run_weight_pct,wicket_weight_pct,discipline_weight_pct,combination_weight,scored_attempts,pressure_matches,eligible_players,top10_rows
+batter,demand_against_quality,Match demand against strong bowling,1 + 4,match_demand + strong_opposition,Innings-adjusted scoring,70,30,0,2,8559,288,146,10
+batter,collapse_against_quality,Limited batting support against strong bowling,3 + 4,limited_support + strong_opposition,Innings-adjusted scoring,55,45,0,2,8115,292,142,10
+batter,wickets_and_scoring_squeeze,Collapse alongside a scoring squeeze,3 + 5,limited_support + sustained_attack,Innings-adjusted scoring,55,45,0,2,11667,314,201,10
+batter,close_chase_quality,Close chase against a strong bowler,2 + 4,close_finish + strong_opposition,Chase progress,80,20,0,2,403,65,0,0
+batter,early_loss_quality,Early wicket and a high-quality opposition bowler,9 + 4,new_ball_after_early_wickets + strong_opposition,Innings-adjusted scoring,55,45,0,1,3511,262,71,10
+batter,slow_powerplay_rate,Slow powerplay followed by a rising chase requirement,7 + 14,recovery_after_slow_powerplay + rising_chase_rate,Chase progress,80,20,0,1,1641,61,13,10
+batter,fresh_partner_rebuild,Set striker rebuilding a stand with a fresh partner,11 + 13,set_with_fresh_partner + rebuild_after_wicket,Innings-adjusted scoring,55,45,0,1,870,255,9,9
+batter,steep_close_chase,Steep chase late in a competitive finish,2 + 16,close_finish + steep_chase_with_two_to_four_overs_left,Chase progress,85,15,0,1,107,21,0,0
+batter,chase_tail_quality,Tail support and strong opposition in a demanding chase,29 + 4,chasing_with_the_tail_and_no_deeper_support + strong_opposition,Chase progress,45,55,0,1,181,22,0,0
+batter,pace_style_transition,Pace/spin transition into high-quality pace,10 + 37,switch_pace_spin + high_ability_pace_in_a_demanding_innings,Context-adjusted bat runs,70,30,0,1,724,185,0,0
+batter,knockout_death_quality,Live knockout finish against strong bowling,48 + 4,knockout_chase_at_the_death + strong_opposition,Chase progress,85,15,0,1,16,3,0,0
+batter,collapse_demand_quality,"Match demand, limited support and strong opposition",1 + 3 + 4,match_demand + limited_support + strong_opposition,Innings-adjusted scoring,55,45,0,2,4039,231,63,10
+bowler,demand_against_quality,Match demand against strong batting,1 + 4,match_demand + strong_opposition,Innings-adjusted run control,65,35,0,2,13673,285,173,10
+bowler,close_chase_quality,Close defence against a strong batter,2 + 4,close_finish + strong_opposition,Chase squeeze,70,20,10,2,359,63,1,1
+bowler,support_under_attack,Limited options with the batting side attacking,3 + 5,limited_support + sustained_attack,Innings-adjusted run control,65,35,0,2,14055,314,186,10
+bowler,strong_set_partnership,Settled partnership with a strong striker,4 + 8,strong_opposition + settled_partnership,Run suppression,45,55,0,2,8950,294,137,10
+bowler,penultimate_close,Pressure 19th over in a close chase,16 + 2,nineteenth_over + close_finish,Chase squeeze,70,20,10,2,183,51,1,1
+bowler,quota_late_defence,Final quota over while defending a live chase,14 + 33,final_quota + final_quota_under_an_urgent_chase_defense,Chase squeeze,70,20,10,1,491,72,3,3
+bowler,costly_takeover_attack,Taking over after a costly over while under attack,15 + 5,start_after_expensive_over + sustained_attack,Innings-adjusted run control,75,25,0,1,4466,311,91,10
+bowler,powerplay_boundary_surge,Explosive powerplay following a boundary surge,29 + 38,explosive_opposition_powerplay + bowling_after_a_runaway_boundary_over_starts,Run suppression,60,40,0,1,703,129,2,2
+bowler,extra_close_finish,Responding to an illegal ball in a close chase,11 + 2,after_illegal_delivery + close_finish,Chase squeeze,55,15,30,1,94,57,0,0
+bowler,strong_left_hander_finish,Dangerous left-hander in a genuinely close finish,40 + 2,defending_late_against_a_dangerous_left_hander + close_finish,Chase squeeze,70,25,5,1,74,14,0,0
+bowler,knockout_death_quality,Live knockout finish against strong batting,48 + 4,knockout_chase_alive_in_the_death_overs + strong_opposition,Chase squeeze,70,20,10,1,26,3,0,0
+bowler,limited_options_quality_attack,"Limited options, strong batting and sustained attack",3 + 4 + 5,limited_support + strong_opposition + sustained_attack,Innings-adjusted run control,60,40,0,2,9410,297,142,10

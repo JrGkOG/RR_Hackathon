@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,23450,57.98,22,5,52.0,0.0,22.0,59.09090909090909,-0.03274779199539035,True,True,True,Sai Sudharsan,2.2892819979188346,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+2,1481,55.65,26,4,46.0,0.0,26.0,46.15384615384615,-0.015129699790692848,True,True,True,Kusal Perera,8.074534161490684,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+3,6288,55.19,18,3,38.0,0.0,18.0,38.88888888888889,-0.04105301019462563,True,True,True,Shubman Gill,1.794616151545364,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+4,6396,53.9,18,3,37.0,0.0,18.0,38.88888888888889,0.04613297150610407,True,True,True,Tim David,4.522613065326634,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+5,813,53.46,31,7,60.0,2.0,31.0,41.935483870967744,-0.007043662825954922,True,True,True,Jos Buttler,2.7336860670194003,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+6,6423,53.18,25,3,45.0,0.0,25.0,32.0,-0.06920473762091957,True,True,True,Riyan Parag,4.13907284768212,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+7,5553,51.22,19,4,32.0,2.0,19.0,26.31578947368421,-0.01814254354830922,True,True,True,Phil Salt,2.653631284916201,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+8,37052,50.97,18,3,24.0,1.0,18.0,50.0,0.14570581952776784,True,True,True,Naman Dhir,5.247813411078718,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+9,4260,49.83,22,4,29.0,1.0,22.0,18.181818181818183,0.05646234070290346,True,True,True,Heinrich Klaasen,3.4976152623211445,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups
+10,4853,49.14,30,4,52.0,3.0,30.0,40.0,0.01255942233526287,True,True,True,Glenn Phillips,12.145748987854251,batter,high_ability_left_arm_orthodox_under_pressure,Adapting to bowling matchups

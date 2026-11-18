@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,2633,59.21,19,15,28.0,4.0,19.0,68.42105263157895,0.011772734826355732,True,True,True,Jason Holder,2.7900146842878124,bowler,after_illegal_delivery,Spell management and damage control
+2,4219,58.52,19,13,31.0,2.0,18.0,68.42105263157895,0.8681401410484973,True,True,True,Krunal Pandya,3.9501039501039505,bowler,after_illegal_delivery,Spell management and damage control
+3,1813,57.35,19,11,25.0,3.0,19.0,73.68421052631578,-0.0038129106271530444,True,True,True,Deepak Chahar,6.229508196721312,bowler,after_illegal_delivery,Spell management and damage control
+4,2933,57.28,39,23,53.0,2.0,35.0,66.66666666666666,-0.029965834435211836,True,True,True,Jasprit Bumrah,4.180064308681672,bowler,after_illegal_delivery,Spell management and damage control
+5,2411,56.81,24,11,43.0,2.0,23.0,75.0,1.1068124759135993,True,True,True,Sandeep Sharma,5.466970387243736,bowler,after_illegal_delivery,Spell management and damage control
+6,2261,56.38,22,13,28.0,2.0,20.0,72.72727272727273,0.057492837861017373,True,True,True,Harshal Patel,6.3768115942028984,bowler,after_illegal_delivery,Spell management and damage control
+7,6464,55.61,65,32,103.0,3.0,55.0,60.0,0.12168456710943033,True,True,True,Arshdeep Singh,5.130228887134964,bowler,after_illegal_delivery,Spell management and damage control
+8,3653,55.53,24,13,27.0,1.0,22.0,75.0,0.14367691772443913,True,True,True,Avesh Khan,3.927986906710311,bowler,after_illegal_delivery,Spell management and damage control
+9,360,54.54,23,13,31.0,2.0,20.0,69.56521739130434,0.3395489213835651,True,True,True,Bhuvneshwar Kumar,3.155006858710562,bowler,after_illegal_delivery,Spell management and damage control
+10,8661,53.82,33,15,61.0,2.0,32.0,60.60606060606061,6.105479097459099,True,True,True,Matheesha Pathirana,7.6923076923076925,bowler,after_illegal_delivery,Spell management and damage control

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4373,59.01,84,11,95.0,7.0,82.0,70.23809523809523,0.0950459262959263,True,True,True,Mustafizur Rahman,14.608695652173914,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+2,4101,57.24,108,17,161.0,6.0,106.0,67.5925925925926,0.004586056020482283,True,True,True,Mitchell Santner,19.45945945945946,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+3,8746,55.95,48,8,63.0,7.0,47.0,68.75,0.018181818181817674,True,True,True,Vaibhav Arora,9.504950495049505,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+4,5944,55.74,109,16,188.0,8.0,101.0,61.46788990825688,4.657188750384734,True,True,True,Mohammed Siraj,13.693467336683419,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+5,2526,55.7,44,7,63.0,4.0,44.0,61.36363636363637,-0.027623406341941884,True,True,True,Ish Sodhi,15.547703180212014,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+6,2933,55.59,198,20,258.0,10.0,190.0,71.71717171717171,0.023503918229857975,True,True,True,Jasprit Bumrah,21.221864951768488,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+7,5979,55.48,43,8,47.0,4.0,41.0,65.11627906976744,0.0677956879548389,True,True,True,Abrar Ahmed,7.624113475177305,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+8,4900,54.72,126,17,157.0,10.0,126.0,67.46031746031747,0.021762503499549342,True,True,True,Wanindu Hasaranga,17.166212534059948,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+9,38855,54.7,24,4,15.0,3.0,22.0,79.16666666666666,2.571428571428572,True,True,True,Mohammad Saifuddin,9.056603773584905,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control
+10,5939,54.58,20,3,27.0,1.0,17.0,85.0,0.12915140415140428,True,True,True,Cameron Green,8.51063829787234,bowler,taking_over_after_a_multi_over_surge,Spell management and damage control

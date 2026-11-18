@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5979,64.05,73,8,65.0,4.0,70.0,82.1917808219178,0.037632856118138124,True,True,True,Abrar Ahmed,12.943262411347517,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+2,2490,62.32,78,9,74.0,9.0,78.0,80.76923076923077,0.04040176392901927,True,True,True,Mohammad Nawaz,17.25663716814159,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+3,32862,61.69,80,6,95.0,5.0,80.0,83.75,0.009319574934542062,True,True,True,Allah Ghazanfar,31.620553359683797,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+4,2933,61.56,215,15,242.0,4.0,207.0,76.74418604651163,0.0032413183434976713,True,True,True,Jasprit Bumrah,23.04394426580922,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+5,4373,60.7,53,7,58.0,4.0,52.0,79.24528301886792,0.031547748952066086,True,True,True,Mustafizur Rahman,9.217391304347826,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+6,2876,60.24,98,8,103.0,5.0,97.0,82.6530612244898,0.022439065755943784,True,True,True,Axar Patel,10.187110187110187,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+7,7052,60.18,34,3,30.0,2.0,34.0,94.11764705882352,0.03828409163013332,True,True,True,Dunith Wellalage,18.784530386740332,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+8,7690,59.58,75,11,75.0,4.0,75.0,85.33333333333334,0.03759595320644146,True,True,True,Saim Ayub,17.899761336515514,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+9,4101,59.24,109,8,129.0,6.0,106.0,75.22935779816514,0.006025574112554575,True,True,True,Mitchell Santner,19.63963963963964,bowler,raise_chase_requirement,Target defence and required-rate squeeze
+10,5189,59.23,37,5,43.0,3.0,37.0,78.37837837837837,0.01530596474650797,True,True,True,Faheem Ashraf,13.503649635036496,bowler,raise_chase_requirement,Target defence and required-rate squeeze

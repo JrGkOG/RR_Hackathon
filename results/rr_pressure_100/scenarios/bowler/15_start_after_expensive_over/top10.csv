@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5979,59.7,147,16,155,12,145,73.46938775510205,0.04599108901434486,True,True,True,Abrar Ahmed,26.063829787234045,bowler,start_after_expensive_over,Spell management and damage control
+2,6355,58.55,102,15,126,9,96,70.58823529411765,0.38703543508906835,True,True,True,Shaheen Afridi,18.14946619217082,bowler,start_after_expensive_over,Spell management and damage control
+3,4265,58.13,208,16,329,10,193,67.78846153846155,1.8518744233686684,True,True,True,T Natarajan,52.926208651399484,bowler,start_after_expensive_over,Spell management and damage control
+4,6256,58.08,266,27,381,19,258,70.67669172932331,-0.0033863903880919075,True,True,True,Varun Chakravarthy,26.78751258811682,bowler,start_after_expensive_over,Spell management and damage control
+5,4489,57.9,197,15,289,18,192,68.52791878172589,0.03763900934230607,True,True,True,Prasidh Krishna,39.558232931726906,bowler,start_after_expensive_over,Spell management and damage control
+6,2847,57.8,130,11,228,6,120,60.76923076923077,1.695500533102426,True,True,True,Shardul Thakur,45.29616724738676,bowler,start_after_expensive_over,Spell management and damage control
+7,2490,57.6,71,10,94,6,67,71.83098591549296,0.06092736627257267,True,True,True,Mohammad Nawaz,15.70796460176991,bowler,start_after_expensive_over,Spell management and damage control
+8,6464,57.24,403,40,625,30,378,69.72704714640199,0.948304381836329,True,True,True,Arshdeep Singh,31.80741910023678,bowler,start_after_expensive_over,Spell management and damage control
+9,8295,56.89,84,9,105,6,83,78.57142857142857,1.3404847723403086,True,True,True,Matthew Forde,32.94117647058823,bowler,start_after_expensive_over,Spell management and damage control
+10,5944,56.75,258,29,385,16,246,67.05426356589147,1.6620820877370555,True,True,True,Mohammed Siraj,32.41206030150754,bowler,start_after_expensive_over,Spell management and damage control

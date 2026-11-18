@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,8221,57.9,24,4,43.0,1.0,24.0,45.83333333333333,0.7666666666666675,True,True,True,Nitish Reddy,5.755395683453238,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+2,6281,56.78,38,7,109.0,3.0,38.0,50.0,-0.09454498873914448,True,True,True,Abhishek Sharma,3.389830508474576,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+3,3647,56.32,46,7,89.0,2.0,45.0,34.78260869565217,-0.1820592500356491,True,True,True,Shreyas Iyer,5.463182897862233,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+4,4117,56.1,26,5,27.0,0.0,26.0,11.538461538461538,-0.0017330670362188988,True,True,True,Ishan Kishan,3.77906976744186,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+5,4260,55.81,31,5,67.0,1.0,31.0,41.935483870967744,0.00207575473281274,True,True,True,Heinrich Klaasen,4.92845786963434,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+6,3125,53.15,37,8,54.0,2.0,37.0,51.35135135135135,0.029026104722633703,True,True,True,Nicholas Pooran,7.535641547861507,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+7,4755,52.63,23,7,44.0,1.0,23.0,34.78260869565217,-0.0050097966432285455,True,True,True,Shivam Dube,3.87858347386172,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+8,6280,52.37,22,4,46.0,1.0,22.0,40.909090909090914,-0.12730522824976573,True,True,True,Harry Brook,11.224489795918368,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+9,3330,52.22,24,5,39.0,0.0,24.0,45.83333333333333,-0.026728356222738503,True,True,True,Hardik Pandya,5.3097345132743365,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups
+10,6423,52.13,29,4,35.0,0.0,29.0,34.48275862068966,0.04454696686798121,True,True,True,Riyan Parag,4.801324503311259,batter,high_ability_wrist_spin_in_a_demanding_innings,Adapting to bowling matchups

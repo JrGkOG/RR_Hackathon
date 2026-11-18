@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,7216,58.06,27,5,57.0,0.0,27.0,44.44444444444444,-0.03593641023102627,True,True,True,Prabhsimran Singh,4.361873990306947,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+2,5939,57.97,19,4,44.0,0.0,19.0,63.1578947368421,-0.05865829993876276,True,True,True,Cameron Green,5.555555555555555,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+3,6281,57.65,28,6,71.0,0.0,28.0,50.0,-0.06463020075951827,True,True,True,Abhishek Sharma,2.4977698483496877,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+4,3647,52.08,18,4,34.0,2.0,18.0,50.0,-0.034395340922910744,True,True,True,Shreyas Iyer,2.137767220902613,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+5,813,51.34,28,7,48.0,0.0,28.0,46.42857142857143,0.06421627398944198,True,True,True,Jos Buttler,2.4691358024691357,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+6,4117,51.32,42,9,73.0,1.0,42.0,42.857142857142854,-0.025891104439487278,True,True,True,Ishan Kishan,6.104651162790697,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+7,3125,49.4,21,4,19.0,0.0,21.0,33.33333333333333,0.03964970748018114,True,True,True,Nicholas Pooran,4.276985743380855,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+8,6664,48.43,32,5,18.0,1.0,30.0,21.875,0.001989245365342137,True,True,True,Dion Myers,11.149825783972126,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+9,3605,47.58,19,3,21.0,2.0,19.0,21.052631578947366,0.07933110251411672,True,True,True,Aiden Markram,3.632887189292543,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups
+10,818,41.42,21,4,36.0,2.0,21.0,28.57142857142857,-0.019796862875064596,True,True,True,Mitchell Marsh,3.167420814479638,batter,high_velocity_pace_after_an_early_wicket,Adapting to bowling matchups

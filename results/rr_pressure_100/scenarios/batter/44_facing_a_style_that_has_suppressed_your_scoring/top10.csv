@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,3330,61.94,48,7,81.0,0.0,48.0,35.41666666666667,0.06824683421666429,True,True,True,Hardik Pandya,10.619469026548673,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+2,6396,58.87,32,4,90.0,0.0,31.0,59.375,-0.15108982171330884,True,True,True,Tim David,8.040201005025125,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+3,4736,57.07,32,5,55.0,2.0,32.0,37.5,-0.005941885030457172,True,True,True,Josh Inglis,8.0,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+4,4780,56.67,36,5,50.0,2.0,36.0,30.555555555555557,0.008948140216126,True,True,True,Mohammad Saif Hassan,9.809264305177113,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+5,2687,54.31,54,9,60.0,2.0,54.0,38.88888888888889,0.07272790669402415,True,True,True,Roston Chase,13.5,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+6,1699,52.99,28,4,62.0,1.0,28.0,39.285714285714285,-0.048635018451360965,True,True,True,Suryakumar Yadav,3.982930298719772,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+7,2639,52.7,30,8,41.0,1.0,30.0,30.0,0.10288437267848582,True,True,True,Marcus Stoinis,7.957559681697612,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+8,4708,52.24,47,7,67.0,2.0,47.0,36.17021276595745,0.8344484549966317,True,True,True,Rinku Singh,11.72069825436409,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+9,6423,52.18,86,11,134.0,1.0,86.0,36.04651162790697,-0.02526360330801775,True,True,True,Riyan Parag,14.23841059602649,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups
+10,4117,51.47,40,4,64.0,0.0,40.0,35.0,-0.06250353908657229,True,True,True,Ishan Kishan,5.813953488372093,batter,facing_a_style_that_has_suppressed_your_scoring,Adapting to bowling matchups

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4722,66.16,176,26,229.0,19.0,172.0,76.13636363636364,0.3868628945001944,True,True,True,Rashid Khan,15.644444444444444,bowler,return_spell,Spell management and damage control
+2,8221,63.94,89,11,169.0,4.0,84.0,65.1685393258427,0.03905139858918284,True,True,True,Nitish Reddy,27.9874213836478,bowler,return_spell,Spell management and damage control
+3,2933,63.78,335,34,347.0,20.0,318.0,79.40298507462687,0.15037161386593206,True,True,True,Jasprit Bumrah,35.90568060021436,bowler,return_spell,Spell management and damage control
+4,7322,62.77,118,13,149.0,6.0,111.0,72.03389830508475,3.373609192025073,True,True,True,Yash Dayal,36.30769230769231,bowler,return_spell,Spell management and damage control
+5,5979,62.35,107,14,100.0,10.0,105.0,80.37383177570094,0.15829517704517715,True,True,True,Abrar Ahmed,18.97163120567376,bowler,return_spell,Spell management and damage control
+6,781,62.05,127,17,131.0,11.0,126.0,74.01574803149606,0.09642857142857149,True,True,True,Sunil Narine,22.241681260945708,bowler,return_spell,Spell management and damage control
+7,5944,61.03,161,23,248.0,10.0,150.0,66.45962732919256,3.2486111111111113,True,True,True,Mohammed Siraj,20.22613065326633,bowler,return_spell,Spell management and damage control
+8,6676,60.93,136,15,214.0,9.0,129.0,70.58823529411765,3.95029247478002,True,True,True,Azmatullah Omarzai,25.563909774436087,bowler,return_spell,Spell management and damage control
+9,20704,60.17,40,7,63.0,2.0,39.0,65.0,4.697743055555556,True,True,True,Salman Mirza,13.513513513513514,bowler,return_spell,Spell management and damage control
+10,4219,58.66,80,9,153.0,5.0,72.0,51.24999999999999,6.162862137862138,True,True,True,Krunal Pandya,16.632016632016633,bowler,return_spell,Spell management and damage control

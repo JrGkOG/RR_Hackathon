@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5577,66.04,139,10,207.0,9.0,136.0,72.66187050359713,4.312455183705184,True,True,True,Sai Kishore,61.77777777777778,bowler,form_or_stakes,Bowling through form slumps and knockouts
+2,2933,61.12,521,22,608.0,23.0,493.0,74.28023032629558,0.19449906103439632,True,True,True,Jasprit Bumrah,55.841371918542336,bowler,form_or_stakes,Bowling through form slumps and knockouts
+3,6281,60.19,86,8,120.0,5.0,86.0,82.55813953488372,2.1170968529521166,True,True,True,Abhishek Sharma,37.88546255506608,bowler,form_or_stakes,Bowling through form slumps and knockouts
+4,3298,59.62,311,14,407.0,20.0,297.0,67.20257234726688,2.203099815351571,True,True,True,Jofra Archer,39.71902937420179,bowler,form_or_stakes,Bowling through form slumps and knockouts
+5,28,59.51,179,9,270.0,10.0,164.0,62.56983240223464,2.9628115497580914,True,True,True,Ishant Sharma,79.91071428571429,bowler,form_or_stakes,Bowling through form slumps and knockouts
+6,4219,59.24,294,16,399.0,14.0,282.0,68.36734693877551,2.5607359631299436,True,True,True,Krunal Pandya,61.12266112266113,bowler,form_or_stakes,Bowling through form slumps and knockouts
+7,6523,58.91,121,7,96.0,10.0,114.0,70.24793388429752,0.026594955194026302,True,True,True,Blessing Muzarabani,24.543610547667345,bowler,form_or_stakes,Bowling through form slumps and knockouts
+8,830,58.02,320,15,451.0,22.0,312.0,69.0625,0.6696769763067169,True,True,True,Josh Hazlewood,61.77606177606177,bowler,form_or_stakes,Bowling through form slumps and knockouts
+9,2490,57.98,87,5,76.0,11.0,84.0,70.11494252873564,0.06081945831945828,True,True,True,Mohammad Nawaz,19.24778761061947,bowler,form_or_stakes,Bowling through form slumps and knockouts
+10,2847,57.14,166,8,246.0,10.0,156.0,63.25301204819277,1.8538143579109967,True,True,True,Shardul Thakur,57.8397212543554,bowler,form_or_stakes,Bowling through form slumps and knockouts

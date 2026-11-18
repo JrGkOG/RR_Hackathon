@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,2320,73.18,71,13,101,6,65,38.028169014084504,-0.059395184395184354,True,True,True,Trent Boult,14.669421487603307,bowler,settled_partnership,Strike bowling and partnership disruption
+2,2687,72.14,115,19,142,7,112,30.434782608695656,-0.04349633349402509,True,True,True,Roston Chase,21.616541353383457,bowler,settled_partnership,Strike bowling and partnership disruption
+3,781,71.26,120,16,165,6,118,50.0,0.047614925674001225,True,True,True,Sunil Narine,21.015761821366024,bowler,settled_partnership,Strike bowling and partnership disruption
+4,6464,71.2,142,22,219,10,128,31.690140845070424,0.2018125646315875,True,True,True,Arshdeep Singh,11.207576953433307,bowler,settled_partnership,Strike bowling and partnership disruption
+5,6256,70.83,160,25,229,15,151,44.375,-0.006778273288704598,True,True,True,Varun Chakravarthy,16.112789526686807,bowler,settled_partnership,Strike bowling and partnership disruption
+6,4489,69.77,81,14,128,11,81,50.617283950617285,-0.007005924606987425,True,True,True,Prasidh Krishna,16.265060240963855,bowler,settled_partnership,Strike bowling and partnership disruption
+7,6628,69.54,34,8,48,3,28,44.11764705882353,-0.02706335059276224,True,True,True,Gerald Coetzee,10.303030303030303,bowler,settled_partnership,Strike bowling and partnership disruption
+8,5979,69.21,75,9,81,6,74,45.33333333333333,-0.004886344652517241,True,True,True,Abrar Ahmed,13.297872340425531,bowler,settled_partnership,Strike bowling and partnership disruption
+9,4900,69.01,191,25,288,12,188,32.98429319371728,-0.03286974709711361,True,True,True,Wanindu Hasaranga,26.021798365122617,bowler,settled_partnership,Strike bowling and partnership disruption
+10,360,68.98,76,16,137,5,74,28.947368421052634,-0.046574888533267474,True,True,True,Bhuvneshwar Kumar,10.425240054869684,bowler,settled_partnership,Strike bowling and partnership disruption

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6464,64.74,55,10,102.0,3.0,55.0,78.18181818181819,4.162131199595723,True,True,True,Arshdeep Singh,4.3409629044988165,bowler,close_finish,Closing overs and last-ball execution
+2,360,61.19,26,5,54.0,4.0,25.0,65.38461538461539,-0.08078681318681341,True,True,True,Bhuvneshwar Kumar,3.5665294924554183,bowler,close_finish,Closing overs and last-ball execution
+3,4373,60.4,20,3,9.0,5.0,20.0,90.0,0.5460356510056658,True,True,True,Mustafizur Rahman,3.4782608695652173,bowler,close_finish,Closing overs and last-ball execution
+4,6355,57.3,24,4,25.0,3.0,22.0,75.0,0.3569444444444447,True,True,True,Shaheen Afridi,4.270462633451958,bowler,close_finish,Closing overs and last-ball execution
+5,2933,54.76,18,3,15.0,0.0,18.0,83.33333333333334,0.3935574229691875,True,True,True,Jasprit Bumrah,1.929260450160772,bowler,close_finish,Closing overs and last-ball execution
+6,7364,52.49,23,3,45.0,0.0,21.0,60.86956521739131,-0.12823263692828915,True,True,True,Haris Rauf,6.764705882352941,bowler,close_finish,Closing overs and last-ball execution
+7,2399,51.3,20,4,44.0,1.0,19.0,55.00000000000001,0.2518156245698067,True,True,True,Dushmantha Chameera,4.032258064516129,bowler,close_finish,Closing overs and last-ball execution
+8,22920,50.42,34,6,51.0,2.0,33.0,52.94117647058824,-0.07859579568504517,True,True,True,Jacob Duffy,5.902777777777778,bowler,close_finish,Closing overs and last-ball execution
+9,3653,49.13,24,5,45.0,0.0,23.0,54.166666666666664,0.12516469038208153,True,True,True,Avesh Khan,3.927986906710311,bowler,close_finish,Closing overs and last-ball execution
+10,830,48.24,19,3,22.0,4.0,18.0,68.42105263157895,0.6858764558454964,True,True,True,Josh Hazlewood,3.667953667953668,bowler,close_finish,Closing overs and last-ball execution

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6726,58.31,28,7,38.0,1.0,27.0,25.0,,True,True,True,Romario Shepherd,3.982930298719772,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+2,2984,57.04,44,6,54.0,4.0,44.0,27.27272727272727,,True,True,True,Sikandar Raza,7.2968490878938645,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+3,4900,56.97,36,7,49.0,4.0,36.0,47.22222222222222,,True,True,True,Wanindu Hasaranga,4.904632152588556,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+4,19316,56.75,25,5,27.0,3.0,24.0,32.0,,True,True,True,Maheesh Theekshana,3.342245989304813,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+5,7327,55.5,31,5,41.0,4.0,28.0,35.483870967741936,,True,True,True,Rasikh Salam,10.616438356164384,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+6,6256,54.89,27,5,39.0,3.0,26.0,44.44444444444444,,True,True,True,Varun Chakravarthy,2.719033232628399,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+7,4722,51.29,19,4,32.0,1.0,19.0,31.57894736842105,,True,True,True,Rashid Khan,1.6888888888888887,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+8,24017,50.28,19,3,32.0,1.0,18.0,21.052631578947366,,True,True,True,Brian Bennett,19.0,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+9,1612,49.95,47,7,81.0,2.0,44.0,23.404255319148938,,True,True,True,Yuzvendra Chahal,7.197549770290965,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption
+10,2636,48.73,21,3,24.0,0.0,18.0,28.57142857142857,,True,True,True,Adam Zampa,5.3164556962025316,bowler,first_innings_wicket_drought_while_runs_build,Strike bowling and partnership disruption

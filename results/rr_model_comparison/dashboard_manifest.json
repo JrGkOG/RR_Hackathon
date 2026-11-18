@@ -1,0 +1,22 @@
+{
+  "models": {
+    "catboost": "rr_model_comparison/catboost",
+    "lightgbm": "rr_model_comparison/lightgbm",
+    "xgboost": "rr_model_comparison/xgboost",
+    "ensemble": "rr_pressure_100"
+  },
+  "submission_model": "ensemble",
+  "outputs_per_model": {
+    "overall_top10": "overall/combined_top10.csv",
+    "solo_index": "scenario_index.csv",
+    "solo_top10": "scenario_top10.csv",
+    "combination_index": "combination_index.csv",
+    "combination_rankings": "combination_rankings.csv",
+    "combination_top10": "combination_top10.csv"
+  },
+  "final_score_column": "pressure_score100",
+  "solo_total_column": "total_score5000",
+  "solo_normalized_column": "solo_score100",
+  "combination_adjustment_column": "combination_adjustment",
+  "repeat_bonus_column": "repeat_bonus"
+}

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,813,63.04,31,5,83.0,0.0,31.0,61.29032258064516,-0.10287891455508899,True,True,True,Jos Buttler,2.7336860670194003,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+2,6423,56.99,41,8,76.0,3.0,40.0,34.146341463414636,0.005308408787603517,True,True,True,Riyan Parag,6.788079470198675,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+3,2633,56.59,18,5,56.0,1.0,18.0,50.0,-0.26404479027316474,True,True,True,Jason Holder,10.285714285714285,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+4,4260,55.32,37,8,43.0,3.0,37.0,13.513513513513514,0.13969770739942475,True,True,True,Heinrich Klaasen,5.88235294117647,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+5,7216,55.13,34,3,72.0,0.0,34.0,44.11764705882353,-0.047567401393507944,True,True,True,Prabhsimran Singh,5.492730210016155,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+6,4703,53.18,18,3,27.0,1.0,18.0,27.77777777777778,0.05269270081567415,True,True,True,Rishabh Pant,4.878048780487805,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+7,6281,51.29,20,5,32.0,1.0,20.0,25.0,0.07444712670534077,True,True,True,Abhishek Sharma,1.784121320249777,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+8,7059,50.31,19,4,29.0,2.0,19.0,21.052631578947366,0.11346322647178718,True,True,True,Nehal Wadhera,6.229508196721312,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+9,23450,50.17,26,5,44.0,1.0,26.0,26.923076923076923,0.011552873766504558,True,True,True,Sai Sudharsan,2.705515088449532,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups
+10,3647,49.18,39,5,70.0,1.0,39.0,30.76923076923077,-0.08434589938270684,True,True,True,Shreyas Iyer,4.631828978622328,batter,variable_repertoire_bowler_in_an_urgent_chase,Adapting to bowling matchups

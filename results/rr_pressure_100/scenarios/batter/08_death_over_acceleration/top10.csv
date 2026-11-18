@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,8101,60.95,59,8,122.0,6.0,58.0,37.28813559322034,0.2586908109165481,True,True,True,Ashutosh Sharma,34.50292397660819,batter,death_over_acceleration,Pacing and innings construction
+2,813,60.95,23,5,54.0,1.0,23.0,43.47826086956522,-0.4689545324672143,True,True,True,Jos Buttler,2.0282186948853616,batter,death_over_acceleration,Pacing and innings construction
+3,2680,59.9,18,4,34.0,1.0,18.0,38.88888888888889,-0.49652712692152723,True,True,True,Nurul Hasan,17.307692307692307,batter,death_over_acceleration,Pacing and innings construction
+4,4823,59.78,55,6,88.0,4.0,55.0,30.909090909090907,0.872102075696099,True,True,True,Washington Sundar,14.285714285714285,batter,death_over_acceleration,Pacing and innings construction
+5,4260,59.12,25,5,49.0,4.0,25.0,40.0,0.30682454800101877,True,True,True,Heinrich Klaasen,3.97456279809221,batter,death_over_acceleration,Pacing and innings construction
+6,6396,56.97,38,4,96.0,2.0,37.0,52.63157894736842,0.03093984962405969,True,True,True,Tim David,9.547738693467336,batter,death_over_acceleration,Pacing and innings construction
+7,4639,56.95,53,8,98.0,4.0,52.0,47.16981132075472,1.355619616809393,True,True,True,Wellington Masakadza,46.49122807017544,batter,death_over_acceleration,Pacing and innings construction
+8,5837,55.8,29,6,45.0,2.0,29.0,27.586206896551722,0.054301948051948434,True,True,True,Mahedi Hasan,26.851851851851855,batter,death_over_acceleration,Pacing and innings construction
+9,2681,55.75,18,5,29.0,3.0,18.0,38.88888888888889,0.5401765391471267,True,True,False,Taskin Ahmed,45.0,batter,death_over_acceleration,Pacing and innings construction
+10,1107,54.5,58,10,113.0,6.0,58.0,37.93103448275862,6.0911029778764325,True,True,True,Mohammad Nabi,22.22222222222222,batter,death_over_acceleration,Pacing and innings construction

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6396,64.58,59,8,148.0,1.0,58.0,54.23728813559322,-0.019148155369629043,True,True,True,Tim David,14.824120603015075,batter,match_demand,Pacing and innings construction
+2,50284,62.74,117,16,287.0,8.0,116.0,49.572649572649574,-0.04507918337099463,True,True,True,Vaibhav Sooryavanshi,24.4258872651357,batter,match_demand,Pacing and innings construction
+3,23450,62.45,303,16,501.0,6.0,303.0,33.663366336633665,0.01529641714776094,True,True,True,Sai Sudharsan,31.529656607700314,batter,match_demand,Pacing and innings construction
+4,47,60.74,67,7,145.0,1.0,67.0,44.776119402985074,-0.008458141172007603,True,True,True,Virat Kohli,8.200734394124847,batter,match_demand,Pacing and innings construction
+5,768,60.71,87,6,136.0,1.0,87.0,26.436781609195403,1.0148759202029747,True,True,True,Reeza Hendricks,37.02127659574468,batter,match_demand,Pacing and innings construction
+6,126,59.45,177,13,291.0,7.0,176.0,30.508474576271187,0.2490888886785683,True,True,True,Rohit Sharma,34.104046242774565,batter,match_demand,Pacing and innings construction
+7,6819,57.9,246,21,463.0,12.0,245.0,37.80487804878049,-0.014981085170145646,True,True,True,Yashasvi Jaiswal,32.114882506527415,batter,match_demand,Pacing and innings construction
+8,6272,57.72,42,9,68.0,5.0,42.0,35.714285714285715,0.08552368783848223,True,True,True,William Jacks,11.666666666666666,batter,match_demand,Pacing and innings construction
+9,6676,57.5,140,16,205.0,7.0,139.0,42.857142857142854,0.41766247264802464,True,True,True,Azmatullah Omarzai,34.91271820448878,batter,match_demand,Pacing and innings construction
+10,4847,57.21,24,6,57.0,3.0,24.0,50.0,-0.03692824580451975,True,True,True,Finn Allen,13.559322033898304,batter,match_demand,Pacing and innings construction

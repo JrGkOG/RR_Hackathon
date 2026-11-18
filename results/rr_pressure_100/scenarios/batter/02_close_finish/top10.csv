@@ -1,0 +1,10 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,3297,59.82,24,7,47.0,2.0,24.0,50.0,-0.30873849977796114,True,True,True,Shimron Hetmyer,5.741626794258373,batter,close_finish,Chase finish conversion
+2,7897,56.99,48,5,98.0,1.0,48.0,43.75,-0.34812698817596927,True,True,True,Namboori Tilak Varma,4.490177736202058,batter,close_finish,Chase finish conversion
+3,6726,54.35,29,5,36.0,2.0,28.0,24.137931034482758,0.36976622523129976,True,True,True,Romario Shepherd,8.895705521472392,batter,close_finish,Chase finish conversion
+4,25139,52.26,19,5,42.0,2.0,19.0,47.368421052631575,0.39082204345362254,True,True,True,Shubham Dubey,16.666666666666664,batter,close_finish,Chase finish conversion
+5,4755,44.05,22,4,42.0,0.0,22.0,27.27272727272727,-0.19033257902172718,True,True,True,Shivam Dube,3.709949409780776,batter,close_finish,Chase finish conversion
+6,20702,41.06,23,5,28.0,1.0,23.0,13.043478260869565,0.042156946348132565,True,True,True,Tristan Stubbs,5.133928571428571,batter,close_finish,Chase finish conversion
+7,6725,39.93,19,5,29.0,3.0,19.0,21.052631578947366,2.7239029391660976,True,True,True,Sherfane Rutherford,4.4186046511627906,batter,close_finish,Chase finish conversion
+8,4986,38.49,28,6,47.0,4.0,28.0,50.0,0.4093209942267342,True,True,True,Rovman Powell,4.912280701754386,batter,close_finish,Chase finish conversion
+9,4722,37.66,25,5,37.0,2.0,25.0,36.0,0.4218507213716023,True,True,True,Rashid Khan,11.061946902654867,batter,close_finish,Chase finish conversion

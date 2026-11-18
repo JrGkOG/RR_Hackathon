@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,2878,55.12,31,3,35.0,2.0,29.0,80.64516129032258,,True,True,True,Mohit Sharma,17.613636363636363,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+2,7967,55.11,57,5,56.0,5.0,56.0,71.9298245614035,,True,True,True,Noor Ahmad,6.484641638225256,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+3,2633,55.07,34,5,26.0,4.0,34.0,61.76470588235294,,True,True,True,Jason Holder,4.992657856093979,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+4,6355,54.55,24,3,17.0,4.0,24.0,79.16666666666666,,True,True,True,Shaheen Afridi,4.270462633451958,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+5,29888,53.44,25,5,34.0,3.0,25.0,72.0,,True,True,True,Harshit Rana,4.545454545454546,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+6,7503,53.43,98,7,132.0,5.0,96.0,65.3061224489796,,True,True,True,Ravi Bishnoi,11.922141119221411,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+7,6256,53.33,108,11,150.0,9.0,103.0,69.44444444444444,,True,True,True,Varun Chakravarthy,10.876132930513595,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+8,6726,53.33,26,4,27.0,2.0,23.0,73.07692307692307,,True,True,True,Romario Shepherd,3.698435277382646,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+9,4658,52.66,29,4,26.0,2.0,29.0,58.620689655172406,,True,True,True,Nasum Ahmed,8.454810495626822,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control
+10,479,52.28,37,4,44.0,3.0,37.0,81.08108108108108,,True,True,True,Adil Rashid,10.277777777777777,bowler,first_innings_accelerating_above_trajectory_in_the_middle,Spell management and damage control

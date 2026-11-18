@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,5553,59.35,53,8,104.0,1.0,52.0,47.16981132075472,-0.04554428069023557,True,True,True,Phil Salt,7.402234636871509,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+2,6280,57.67,38,7,85.0,0.0,37.0,68.42105263157895,-0.06241562354949634,True,True,True,Harry Brook,19.387755102040817,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+3,6281,55.61,190,24,423.0,9.0,190.0,48.94736842105264,-0.054877404744413744,True,True,True,Abhishek Sharma,16.94915254237288,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+4,6314,55.17,123,16,210.0,4.0,123.0,40.65040650406504,-0.045337533117819996,True,True,True,Devdutt Padikkal,34.357541899441344,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+5,4106,54.74,63,8,107.0,1.0,63.0,52.38095238095239,-0.0021006298545023228,True,True,True,Daryl Mitchell,18.155619596541786,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+6,3024,54.32,39,4,65.0,0.0,39.0,41.02564102564102,-0.030430853149548732,True,True,True,Mohammad Rizwan,21.311475409836063,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+7,4780,53.44,70,9,101.0,4.0,70.0,27.142857142857142,-0.009806054938108303,True,True,True,Mohammad Saif Hassan,19.07356948228883,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+8,6574,52.98,45,5,69.0,1.0,45.0,33.33333333333333,0.02960030875698313,True,True,True,Alick Athanaze,23.4375,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+9,3672,52.95,108,12,129.0,1.0,107.0,43.51851851851852,0.01954826367629747,True,True,True,Kusal Mendis,19.494584837545126,batter,new_ball_after_early_wickets,Wicket preservation and tail management
+10,3489,52.87,105,15,132.0,2.0,105.0,42.857142857142854,0.03919744286322436,True,True,True,Salman Agha,19.444444444444446,batter,new_ball_after_early_wickets,Wicket preservation and tail management

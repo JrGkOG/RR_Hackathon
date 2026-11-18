@@ -1,0 +1,5 @@
+item,requirement,status
+raw_inputs,Read the six raw files and build pre-ball features.,PASS
+scenario_data,Build the existing 50 solo scenarios per role.,PASS
+forecasts,"Benchmark CatBoost, LightGBM, XGBoost and their ensemble on the same folds.",PASS
+exports,"Check solo, combination and repeat scoring and write every top 10.",PASS

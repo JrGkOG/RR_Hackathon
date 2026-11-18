@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,3647,59.7,62,12,135.0,1.0,62.0,51.61290322580645,-0.2935136160863933,True,True,True,Shreyas Iyer,7.363420427553444,batter,rebuild_after_wicket,Wicket preservation and tail management
+2,6281,56.56,46,9,87.0,2.0,46.0,32.608695652173914,-0.08202645832811249,True,True,True,Abhishek Sharma,4.1034790365744875,batter,rebuild_after_wicket,Wicket preservation and tail management
+3,19714,56.42,25,5,44.0,0.0,25.0,56.00000000000001,-0.14655350819734422,True,True,True,Abishek Porel,7.288629737609329,batter,rebuild_after_wicket,Wicket preservation and tail management
+4,5039,54.49,31,5,62.0,0.0,31.0,45.16129032258064,,True,True,True,Rajat Patidar,7.398568019093078,batter,rebuild_after_wicket,Wicket preservation and tail management
+5,6931,54.43,21,6,30.0,0.0,21.0,52.38095238095239,-0.11670370381238371,True,True,True,Pathum Nissanka,2.82258064516129,batter,rebuild_after_wicket,Wicket preservation and tail management
+6,4117,54.34,34,8,42.0,1.0,34.0,32.35294117647059,-0.005357929382147422,True,True,True,Ishan Kishan,4.941860465116279,batter,rebuild_after_wicket,Wicket preservation and tail management
+7,24017,53.8,18,6,22.0,0.0,18.0,44.44444444444444,0.042913898675485534,True,True,True,Brian Bennett,3.9560439560439558,batter,rebuild_after_wicket,Wicket preservation and tail management
+8,6674,53.54,25,4,35.0,0.0,25.0,40.0,0.027070335977851228,True,True,True,Rahmanullah Gurbaz,6.127450980392156,batter,rebuild_after_wicket,Wicket preservation and tail management
+9,3700,53.47,19,4,29.0,0.0,19.0,47.368421052631575,-0.11882830336844247,True,True,True,Tim Seifert,6.5743944636678195,batter,rebuild_after_wicket,Wicket preservation and tail management
+10,3374,53.33,20,4,47.0,1.0,20.0,55.00000000000001,0.06798245614035192,True,True,True,Mark Chapman,7.782101167315175,batter,rebuild_after_wicket,Wicket preservation and tail management

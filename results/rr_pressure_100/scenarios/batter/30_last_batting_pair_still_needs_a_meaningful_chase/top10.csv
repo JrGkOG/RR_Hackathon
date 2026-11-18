@@ -1,0 +1,2 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,19316,50.47,20,3,8.0,0.0,20.0,30.0,3.2927616501145907,True,True,True,Maheesh Theekshana,14.5985401459854,batter,last_batting_pair_still_needs_a_meaningful_chase,Wicket preservation and tail management

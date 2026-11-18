@@ -1,0 +1,8 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,35318,52.91,27,4,38.0,2.0,26.0,74.07407407407408,-0.2269607843137255,True,True,True,Sakib Hussain,15.88235294117647,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+2,152,51.49,47,7,70.0,3.0,47.0,65.95744680851064,0.03658187901447222,True,True,True,Ravindra Jadeja,11.491442542787286,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+3,5738,50.75,33,3,40.0,1.0,32.0,69.6969696969697,0.02698147878207613,True,True,True,Xavier Bartlett,8.396946564885496,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+4,8295,48.94,30,4,38.0,2.0,29.0,73.33333333333333,-0.02387908939767147,True,True,True,Matthew Forde,11.76470588235294,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+5,3174,45.82,20,4,45.0,1.0,20.0,50.0,-0.10373084658391611,True,True,True,Matt Henry,9.345794392523365,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+6,2876,45.78,20,3,52.0,0.0,20.0,45.0,-0.056979253855459315,True,True,True,Axar Patel,2.079002079002079,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness
+7,4101,44.09,22,6,49.0,1.0,21.0,50.0,-0.024268425188802213,True,True,True,Mitchell Santner,3.963963963963964,bowler,unfavorable_handedness_against_a_quality_batter,Containing batter threats and handedness

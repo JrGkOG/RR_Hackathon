@@ -1,0 +1,4 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,1440,50.31,44,3,70.0,2.0,43.0,36.36363636363637,,True,True,True,Rahul Tripathi,34.375,batter,scoring_burden_in_the_knockout_powerplay,Batting through form slumps and knockouts
+2,23450,48.72,48,3,76.0,1.0,48.0,35.41666666666667,0.007384322683521526,True,True,True,Sai Sudharsan,4.994797086368366,batter,scoring_burden_in_the_knockout_powerplay,Batting through form slumps and knockouts
+3,6288,45.22,30,3,40.0,2.0,30.0,30.0,0.008179743770690735,True,True,True,Shubman Gill,2.991026919242273,batter,scoring_burden_in_the_knockout_powerplay,Batting through form slumps and knockouts

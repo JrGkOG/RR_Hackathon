@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4755,61.09,67,20,112.0,4.0,67.0,40.298507462686565,-0.21604224581118506,True,True,True,Shivam Dube,11.298482293423271,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+2,23450,60.5,89,18,162.0,2.0,89.0,38.20224719101123,-0.004915865318737363,True,True,True,Sai Sudharsan,9.261186264308012,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+3,7900,60.38,58,12,105.0,1.0,58.0,41.37931034482759,-0.07775802797206026,True,True,True,Tanzid Hasan,8.146067415730338,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+4,6676,60.25,53,10,77.0,0.0,53.0,62.264150943396224,0.03671040798101366,True,True,True,Azmatullah Omarzai,13.216957605985039,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+5,4708,59.71,49,12,73.0,1.0,49.0,40.816326530612244,0.00796937024678387,True,True,True,Rinku Singh,12.219451371571072,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+6,4773,59.42,46,9,61.0,0.0,46.0,56.52173913043478,0.027784177913065377,True,True,True,Jaker Ali Anik,15.862068965517242,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+7,7544,59.34,38,7,58.0,0.0,38.0,34.21052631578947,-0.05360250663305106,True,True,True,Venkatesh Iyer,13.286713286713287,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+8,4823,57.83,33,9,40.0,1.0,33.0,36.36363636363637,0.012012826467448886,True,True,True,Washington Sundar,8.571428571428571,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+9,6281,57.81,83,16,165.0,3.0,83.0,34.93975903614458,-0.02356417350754245,True,True,True,Abhishek Sharma,7.404103479036575,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups
+10,4246,57.28,22,7,34.0,0.0,22.0,18.181818181818183,-0.09561295640907806,True,True,True,Nitish Rana,9.565217391304348,batter,fresh_bowler_post_powerplay,Adapting to bowling matchups

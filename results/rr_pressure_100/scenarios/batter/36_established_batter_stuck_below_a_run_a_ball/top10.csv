@@ -1,0 +1,10 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4986,56.09,36,3,76.0,0.0,36.0,41.66666666666667,0.17760271259825647,True,True,True,Rovman Powell,6.315789473684211,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+2,4867,52.55,28,4,48.0,1.0,28.0,35.714285714285715,0.08709891138882142,True,True,True,Wesley Madhevere,15.384615384615385,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+3,6674,51.48,19,3,28.0,1.0,18.0,47.368421052631575,-0.045774197997823354,True,True,True,Rahmanullah Gurbaz,4.6568627450980395,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+4,3639,51.33,35,3,57.0,1.0,35.0,22.857142857142858,0.04940426923011328,True,True,True,Brandon King,8.158508158508159,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+5,7897,48.74,32,5,50.0,2.0,32.0,28.125,-0.04284272947513992,True,True,True,Namboori Tilak Varma,2.9934518241347052,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+6,4369,47.84,21,3,27.0,2.0,21.0,28.57142857142857,0.048717606989999496,True,True,True,Shai Hope,3.690685413005272,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+7,3489,45.82,30,6,34.0,5.0,30.0,26.666666666666668,,True,True,True,Salman Agha,5.555555555555555,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+8,2687,45.09,20,3,25.0,3.0,20.0,15.0,0.10016515117527902,True,True,True,Roston Chase,5.0,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration
+9,3330,43.52,37,3,40.0,2.0,37.0,24.324324324324326,0.30313876902112397,True,True,True,Hardik Pandya,8.185840707964601,batter,established_batter_stuck_below_a_run_a_ball,Scoring recovery and acceleration

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,8182,56.15,30,4,50.0,2.0,30.0,36.666666666666664,,True,True,True,Donovan Ferreira,12.5,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+2,4260,55.66,48,4,98.0,0.0,48.0,41.66666666666667,,True,True,True,Heinrich Klaasen,7.631160572337042,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+3,8221,54.65,31,3,72.0,1.0,31.0,45.16129032258064,,True,True,True,Nitish Reddy,7.434052757793765,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+4,7903,54.22,32,3,43.0,0.0,32.0,50.0,,True,True,True,Shamim Hossain,15.238095238095239,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+5,6423,54.12,35,4,53.0,1.0,35.0,28.57142857142857,,True,True,True,Riyan Parag,5.7947019867549665,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+6,6676,53.93,49,7,80.0,2.0,48.0,53.06122448979592,,True,True,True,Azmatullah Omarzai,12.219451371571072,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+7,4755,53.22,31,3,38.0,1.0,31.0,58.06451612903226,,True,True,True,Shivam Dube,5.227655986509275,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+8,1107,52.1,44,4,54.0,0.0,43.0,45.45454545454545,,True,True,True,Mohammad Nabi,16.85823754789272,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+9,4111,51.91,21,3,36.0,2.0,21.0,57.14285714285714,,True,True,True,Khushdil Shah,25.609756097560975,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction
+10,6674,51.9,20,3,37.0,1.0,20.0,65.0,,True,True,True,Rahmanullah Gurbaz,4.901960784313726,batter,first_innings_well_below_its_scoring_trajectory,Pacing and innings construction

@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,4117,53.95,25,6,32.0,0.0,25.0,20.0,0.026373329265519205,True,True,True,Ishan Kishan,3.6337209302325584,batter,large_chase_at_the_opening,Pacing and innings construction
+2,47,52.66,23,4,44.0,0.0,23.0,43.47826086956522,-0.0029237313928460835,True,True,True,Virat Kohli,2.8151774785801713,batter,large_chase_at_the_opening,Pacing and innings construction
+3,818,51.84,34,6,47.0,0.0,33.0,26.47058823529412,0.012832336448431136,True,True,True,Mitchell Marsh,5.128205128205128,batter,large_chase_at_the_opening,Pacing and innings construction
+4,781,51.72,26,4,48.0,0.0,26.0,34.61538461538461,0.0019256146441804299,True,True,True,Sunil Narine,8.09968847352025,batter,large_chase_at_the_opening,Pacing and innings construction
+5,4007,50.67,32,6,44.0,0.0,32.0,25.0,0.03161514228292189,True,True,True,Ryan Rickelton,7.223476297968396,batter,large_chase_at_the_opening,Pacing and innings construction
+6,6931,50.28,45,6,65.0,0.0,43.0,35.55555555555556,0.012668771420286263,True,True,True,Pathum Nissanka,6.048387096774194,batter,large_chase_at_the_opening,Pacing and innings construction
+7,6819,50.27,70,13,123.0,6.0,70.0,34.285714285714285,0.0013466706589428563,True,True,True,Yashasvi Jaiswal,9.138381201044385,batter,large_chase_at_the_opening,Pacing and innings construction
+8,50284,49.96,55,11,118.0,3.0,54.0,43.63636363636363,-0.022655905901406793,True,True,True,Vaibhav Sooryavanshi,11.482254697286013,batter,large_chase_at_the_opening,Pacing and innings construction
+9,953,49.27,37,7,52.0,1.0,37.0,21.62162162162162,0.02124850524937678,True,True,True,Lokesh Rahul,5.555555555555555,batter,large_chase_at_the_opening,Pacing and innings construction
+10,6281,48.71,62,11,115.0,4.0,62.0,33.87096774193548,-0.01053243716049006,True,True,True,Abhishek Sharma,5.530776092774309,batter,large_chase_at_the_opening,Pacing and innings construction

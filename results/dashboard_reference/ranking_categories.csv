@@ -1,0 +1,5 @@
+model,category,description,default_view,overall_csv,weight_source,catboost_weight,lightgbm_weight,xgboost_weight
+lightgbm,Overall pick · LightGBM,Former Category 3. Uses 100% LightGBM predictions and is the selected default for batting and bowling.,true,rr_model_comparison/lightgbm/overall/combined_rankings.csv,rr_model_comparison/dashboard_manifest.json,0,1,0
+ensemble,Combined · 3-model blend,"Uses one-third each of LightGBM, CatBoost, and XGBoost predictions before applying the shared scoring rules.",false,rr_pressure_100/overall/combined_rankings.csv,rr_pressure_100/score_definitions.json,0.3333333333333333,0.3333333333333333,0.3333333333333333
+catboost,CatBoost,Former Category 2. Uses 100% CatBoost predictions with the same pressure scoring rules.,false,rr_model_comparison/catboost/overall/combined_rankings.csv,rr_model_comparison/dashboard_manifest.json,1,0,0
+xgboost,XGBoost,Former Category 4. Uses 100% XGBoost predictions with the same pressure scoring rules.,false,rr_model_comparison/xgboost/overall/combined_rankings.csv,rr_model_comparison/dashboard_manifest.json,0,0,1

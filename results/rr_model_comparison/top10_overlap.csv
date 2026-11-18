@@ -1,0 +1,13 @@
+role,model_1,model_2,top10_overlap
+batter,catboost,lightgbm,10
+batter,catboost,xgboost,9
+batter,catboost,ensemble,9
+batter,lightgbm,xgboost,9
+batter,lightgbm,ensemble,9
+batter,xgboost,ensemble,10
+bowler,catboost,lightgbm,9
+bowler,catboost,xgboost,9
+bowler,catboost,ensemble,9
+bowler,lightgbm,xgboost,9
+bowler,lightgbm,ensemble,9
+bowler,xgboost,ensemble,9

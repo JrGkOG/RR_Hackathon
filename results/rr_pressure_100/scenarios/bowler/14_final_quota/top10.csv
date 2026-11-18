@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6464,70.62,230,41,387.0,24.0,216.0,63.47826086956522,2.6890181713711123,True,True,True,Arshdeep Singh,18.153117600631415,bowler,final_quota,Spell management and damage control
+2,2933,66.21,173,30,224.0,10.0,169.0,63.58381502890174,0.3811933106575965,True,True,True,Jasprit Bumrah,18.542336548767416,bowler,final_quota,Spell management and damage control
+3,6355,64.39,80,14,100.0,7.0,73.0,57.49999999999999,1.2046774690737538,True,True,True,Shaheen Afridi,14.23487544483986,bowler,final_quota,Spell management and damage control
+4,781,64.25,107,19,150.0,12.0,107.0,65.42056074766354,0.05284525059878071,True,True,True,Sunil Narine,18.739054290718038,bowler,final_quota,Spell management and damage control
+5,5837,63.46,58,15,49.0,7.0,57.0,67.24137931034483,0.36738844793173603,True,True,True,Mahedi Hasan,11.089866156787762,bowler,final_quota,Spell management and damage control
+6,4641,63.16,67,12,96.0,4.0,64.0,61.19402985074627,-0.11355311355311357,True,True,True,Lungi Ngidi,18.71508379888268,bowler,final_quota,Spell management and damage control
+7,4373,62.41,34,9,41.0,6.0,33.0,79.41176470588235,1.0735930735930734,True,True,True,Mustafizur Rahman,5.913043478260869,bowler,final_quota,Spell management and damage control
+8,2490,62.25,28,6,28.0,6.0,26.0,67.85714285714286,0.13901632560290839,True,True,True,Mohammad Nawaz,6.1946902654867255,bowler,final_quota,Spell management and damage control
+9,29888,62.19,93,17,171.0,5.0,85.0,55.91397849462365,-0.28017129928894646,True,True,True,Harshit Rana,16.90909090909091,bowler,final_quota,Spell management and damage control
+10,4722,61.64,215,39,329.0,17.0,212.0,66.51162790697674,1.7704214508562337,True,True,True,Rashid Khan,19.11111111111111,bowler,final_quota,Spell management and damage control

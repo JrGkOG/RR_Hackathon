@@ -1,0 +1,11 @@
+rank,player_id,pressure_score100,pressure_attempts,pressure_matches,runs_observed,wickets_observed,legal_deliveries,above_reference_pct,mean_required_rate_change,has_scenario_evidence,scenario_rank_eligible,overall_eligible,player_name,pressure_exposure_pct,role,scenario_id,pressure_family
+1,6396,59.26,202,16,366.0,8.0,200.0,51.98019801980198,-0.027920478385188408,True,True,True,Tim David,50.753768844221106,batter,form_or_stakes,Batting through form slumps and knockouts
+2,50284,55.67,137,5,311.0,5.0,136.0,45.25547445255474,-0.050981013692493346,True,True,True,Vaibhav Sooryavanshi,28.60125260960334,batter,form_or_stakes,Batting through form slumps and knockouts
+3,6726,55.06,56,7,111.0,4.0,55.0,33.92857142857143,3.3963456202922564,True,True,True,Romario Shepherd,17.177914110429448,batter,form_or_stakes,Batting through form slumps and knockouts
+4,7897,54.64,269,13,421.0,4.0,269.0,37.174721189591075,-0.09377553476191311,True,True,True,Namboori Tilak Varma,25.16370439663237,batter,form_or_stakes,Batting through form slumps and knockouts
+5,7544,54.27,147,7,245.0,3.0,147.0,51.02040816326531,-0.08008528675189588,True,True,True,Venkatesh Iyer,51.39860139860139,batter,form_or_stakes,Batting through form slumps and knockouts
+6,4369,54.14,164,8,281.0,7.0,163.0,37.80487804878049,-0.05657106075657724,True,True,True,Shai Hope,28.822495606326886,batter,form_or_stakes,Batting through form slumps and knockouts
+7,4260,54.12,242,13,389.0,9.0,238.0,38.429752066115704,0.029585383791987285,True,True,True,Heinrich Klaasen,38.47376788553259,batter,form_or_stakes,Batting through form slumps and knockouts
+8,4823,53.78,70,3,114.0,2.0,70.0,45.714285714285715,-0.06821808010923679,True,True,True,Washington Sundar,18.181818181818183,batter,form_or_stakes,Batting through form slumps and knockouts
+9,5039,53.67,100,8,182.0,5.0,100.0,42.0,-0.045872424499202265,True,True,True,Rajat Patidar,23.86634844868735,batter,form_or_stakes,Batting through form slumps and knockouts
+10,4853,53.19,135,4,230.0,3.0,134.0,39.25925925925926,-0.064648635100527,True,True,True,Glenn Phillips,54.655870445344135,batter,form_or_stakes,Batting through form slumps and knockouts
