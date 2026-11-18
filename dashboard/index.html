@@ -332,6 +332,16 @@ button:disabled { opacity: .48; cursor: default; }
   .data-table .name-cell { min-width: 130px; }
 }
 
+.report-notice {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 12px 22px; margin: 0 28px 20px; padding: 13px 17px;
+  border-left: 4px solid var(--accent);
+}
+.report-notice > div { flex: 1 1 410px; }
+.report-notice h2 { margin: 0 0 3px; font-size: 15px; color: var(--text); }
+.report-notice p { margin: 0; color: var(--text); font-size: 13px; line-height: 1.5; }
+.report-notice .report-link { color: var(--accent); font-weight: 650; border-color: var(--accent); }
+@media (max-width: 560px) { .report-notice { margin: 0 16px 16px; } }
 .explore-toolbar { margin: 0 28px 20px; position: relative; z-index: 3; }
 .explore-toolbar .card-head { margin-bottom: 11px; }
 .explore-grid {
@@ -424,6 +434,14 @@ button:disabled { opacity: .48; cursor: default; }
     </div>
   </header>
 
+  <section class="card report-notice" aria-labelledby="report-notice-title">
+    <div>
+      <h2 id="report-notice-title">Expanded project report</h2>
+      <p>We wrote the initial report just before the submission deadline. This version adds the scoring method, player results, and all scenario definitions.</p>
+    </div>
+    <a class="btn report-link" href="report.pdf" target="_blank" rel="noopener">Read expanded report (PDF)</a>
+  </section>
+
   <section class="card explore-toolbar" aria-labelledby="explore-heading">
     <div class="card-head">
       <h2 id="explore-heading" class="card-title">Explore</h2>
@@ -484,7 +502,6 @@ button:disabled { opacity: .48; cursor: default; }
         <div id="source-label" class="source-label"></div>
         <p class="hint load-status" id="load-status" role="status">Reading the included results…</p>
         <p class="hint" id="source-coverage"></p>
-        <p class="hint">The initial report was prepared just before submission and was brief. The expanded report adds the scoring method, player results, and scenario definitions.</p>
         <div class="rail-actions">
           <button class="btn btn-sm" id="download-submission">Submission CSV</button>
           <a class="btn btn-sm" href="#archive">Browse files</a>
